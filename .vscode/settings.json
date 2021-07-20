@@ -37,6 +37,7 @@
         "mastercomfig",
         "nohltv",
         "nojoy",
+        "nostartupsound",
         "nosteamcontroller",
         "novid",
         "precachefontchars"

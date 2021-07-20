@@ -15,3 +15,4 @@ My complete configuration of Team Fortress 2
 ```
 * `-dxlevel 100` (optional)
   > **Info:**  Add this launch option to your first launch, and then remove it.
+* `-nostartupsound` (optional)
