@@ -8,6 +8,7 @@ My complete configuration of Team Fortress 2
   * Flat Mouse addon (optional)
   * Disable Pyroland addon (optional)
   * No Soundscapes addon (optional)
+* [junior's loadouts script](https://github.com/jooonior/tf2-loadouts-script)
 * [No explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script) (optional)
   * 2colours
 
