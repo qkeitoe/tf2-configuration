@@ -31,4 +31,14 @@
         "files.trimTrailingWhitespace": false,
         "files.trimFinalNewlines": false,
     },
+    "cSpell.words": [
+        "Pyroland",
+        "dxlevel",
+        "mastercomfig",
+        "nohltv",
+        "nojoy",
+        "nosteamcontroller",
+        "novid",
+        "precachefontchars"
+    ],
 }
