@@ -11,6 +11,7 @@ My complete configuration of Team Fortress 2
 * [junior's loadouts script](https://github.com/jooonior/tf2-loadouts-script)
 * [No explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script) (optional)
   * 2colours
+* [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 
 ## Launch options
 ```
