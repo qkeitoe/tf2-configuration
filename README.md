@@ -23,3 +23,4 @@ My complete configuration of Team Fortress 2
 
 ## Credits
 * [Eniere](https://github.com/Eniere) for [idhud](https://github.com/Eniere/idhud)
+* BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
