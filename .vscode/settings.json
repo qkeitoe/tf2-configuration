@@ -47,6 +47,7 @@
         "nostartupsound",
         "nosteamcontroller",
         "novid",
-        "precachefontchars"
+        "precachefontchars",
+        "shoras"
     ],
 }
