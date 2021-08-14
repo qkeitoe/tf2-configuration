@@ -24,3 +24,4 @@ My complete configuration of Team Fortress 2
 * BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
 * leth for [VTF Crosshair pack](https://www.teamfortress.tv/35367/vtf-crosshair-pack)
 * shoras for [No explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
+* [CriticalFlaw](https://github.com/CriticalFlaw) for [TF2 Community HUD Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
