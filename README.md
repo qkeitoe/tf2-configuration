@@ -13,7 +13,7 @@ My complete configuration of Team Fortress 2
 
 ## Launch options
 ```
--novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -hushsteam
+-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 ```
 * `-dxlevel 100` (optional)
   > **Info:**  Add this launch option to your first launch, and then remove it.
