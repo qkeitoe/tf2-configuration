@@ -3,7 +3,7 @@ My complete configuration of Team Fortress 2
 ## Dependencies
 * [mastercomfig](https://github.com/mastercomfig/mastercomfig)
   * Low preset
-  * Null-Cancelling Movement addon
+  * Null-Canceling Movement addon
   * No Tutorial addon (optional)
   * Flat Mouse addon (optional)
   * Disable Pyroland addon (optional)
