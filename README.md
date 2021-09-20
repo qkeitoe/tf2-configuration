@@ -12,6 +12,7 @@ My complete configuration of Team Fortress 2
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 * [Lawena Stickybomb Trail](https://gamebanana.com/mods/download/196115) (optional)
 * [ahud](https://github.com/qkeitoe/ahud) (optional)
+* [Ultimate Offline Jump Pack](https://jump.tf/forum/index.php/topic,3294.msg27678.html) (optional)
 
 ## Launch options
 ```
