@@ -11,7 +11,7 @@ My complete configuration of Team Fortress 2
 * [junior's loadouts script](https://github.com/jooonior/tf2-loadouts-script)
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 * [Lawena Stickybomb Trail](https://gamebanana.com/mods/download/196115) (optional)
-* [ahud](https://github.com/qkeitoe/ahud) (optional)
+* [hypnotize-hud](https://github.com/qkeitoe/hypnotize-hud) (optional)
 * [Ultimate Offline Jump Pack](https://jump.tf/forum/index.php/topic,3294.msg27678.html) (optional)
 
 ## Launch options
