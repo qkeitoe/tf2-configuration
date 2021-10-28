@@ -61,7 +61,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/crosshairs/crosshair7"
+				"file"		"vgui\replay\thumbnails\dotOLS"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
