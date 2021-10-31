@@ -13,6 +13,7 @@ My complete configuration of Team Fortress 2
 * [Lawena Stickybomb Trail](https://gamebanana.com/mods/download/196115) (optional)
 * [hypnotize-hud](https://github.com/qkeitoe/hypnotize-hud) (optional)
 * [Ultimate Offline Jump Pack](https://jump.tf/forum/index.php/topic,3294.msg27678.html) (optional)
+* [yttrium's competitive viewmodels](https://www.teamfortress.tv/34834/yttriums-competitive-viewmodels) (optional)
 
 ## Launch options
 ```
