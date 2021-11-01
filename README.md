@@ -30,3 +30,4 @@ My complete configuration of Team Fortress 2
 * shoras for [No explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
 * [CriticalFlaw](https://github.com/CriticalFlaw) for [TF2 Community HUD Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
 * [Hypnootize](https://github.com/Hypnootize) for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
+* jayhyunpae for seeker crosshair
