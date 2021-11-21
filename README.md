@@ -31,3 +31,4 @@ My complete configuration of Team Fortress 2
 * [Hypnootize](https://github.com/Hypnootize) for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
 * jayhyunpae for seeker crosshair
 * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
+* pixxul for [Less distracting explosions](https://gamebanana.com/mods/12444)
