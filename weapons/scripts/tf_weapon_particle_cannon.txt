@@ -80,7 +80,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui\replay\thumbnails\McrossOLS"
+				"file"		"vgui\replay\thumbnails\LcrossOLS"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
