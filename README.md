@@ -25,7 +25,7 @@ My complete configuration of Team Fortress 2
 ## Credits
 * [Eniere](https://github.com/Eniere) for [idhud](https://github.com/Eniere/idhud)
 * BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
-* leth for [VTF Crosshair pack](https://www.teamfortress.tv/35367/vtf-crosshair-pack)
+* leth for [VTF Crosshair pack](https://www.teamfortress.tv/35367/vtf-crosshair-pack) and [HOW TO MAKE VTF CROSSHAIRS](https://www.teamfortress.tv/37767/how-to-make-vtf-crosshairs)
 * shoras for [No explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
 * [CriticalFlaw](https://github.com/CriticalFlaw) for [TF2 Community HUD Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
 * [Hypnootize](https://github.com/Hypnootize) for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
