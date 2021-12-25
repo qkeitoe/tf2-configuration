@@ -59,6 +59,7 @@
         "Pyroland",
         "shoras",
         "Stickybomb",
-        "viewmodels"
+        "viewmodels",
+        "votehud"
     ],
 }
