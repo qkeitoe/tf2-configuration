@@ -8,8 +8,6 @@ My complete configuration of Team Fortress 2
   * Flat Mouse addon (optional)
   * Disable Pyroland addon (optional)
   * No Soundscapes addon (optional)
-* [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
-* [Lawena Stickybomb Trail](https://gamebanana.com/mods/download/196115) (optional)
 * [ahud](https://github.com/qkeitoe/ahud) (optional)
 * [votehud_custom_font](https://github.com/qkeitoe/votehud_custom_font) (optional)
 * [Ultimate Offline Jump Pack](https://jump.tf/forum/index.php/topic,3294.msg27678.html) (optional)
