@@ -8,8 +8,6 @@ My complete configuration of Team Fortress 2
   * Flat Mouse addon (optional)
   * Disable Pyroland addon (optional)
   * No Soundscapes addon (optional)
-* [ahud](https://github.com/qkeitoe/ahud) (optional)
-* [votehud_custom_font](https://github.com/qkeitoe/votehud_custom_font) (optional)
 * [Ultimate Offline Jump Pack](https://jump.tf/forum/index.php/topic,3294.msg27678.html) (optional)
 * [yttrium's competitive viewmodels](https://www.teamfortress.tv/34834/yttriums-competitive-viewmodels) (optional)
 
