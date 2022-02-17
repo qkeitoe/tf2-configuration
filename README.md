@@ -10,6 +10,10 @@ My complete configuration of Team Fortress 2
   * No Soundscapes addon (optional)
 * [Ultimate Offline Jump Pack](https://jump.tf/forum/index.php/topic,3294.msg27678.html) (optional)
 * [yttrium's competitive viewmodels](https://www.teamfortress.tv/34834/yttriums-competitive-viewmodels) (optional)
+* [no-hats-bgum](https://github.com/Fedora31/no-hats-bgum) (optional)
+  * no_hats_bgum (optional)
+  * no_botkiller (optional)
+  * no_christmas_lights (optional)
 
 ## Launch options
 ```
