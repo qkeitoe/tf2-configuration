@@ -77,7 +77,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui\replay\thumbnails\ScrossOL"
+				"file"		"vgui\replay\thumbnails\ScrossOLS"
 				"x"			"0"
 				"y"			"0"
 				"width"		"64"

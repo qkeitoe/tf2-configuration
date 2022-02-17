@@ -15,7 +15,7 @@ My complete configuration of Team Fortress 2
 ```
 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 ```
-* `-dxlevel 100` (optional)
+* `-dxlevel 81` (optional)
   > **Info:**  Add this launch option to your first launch, and then remove it.
 * `-nostartupsound` (optional)
 
