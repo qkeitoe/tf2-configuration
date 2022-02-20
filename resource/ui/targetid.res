@@ -109,7 +109,7 @@
 	{
 		"ControlName"				"Label"
 		"fieldName"					"TargetDataLabel"
-		"font"						"surface10"
+		"font"						"surface12"
 		"xpos"						"32"
 		"ypos"						"-1"
 		"zpos"						"1"

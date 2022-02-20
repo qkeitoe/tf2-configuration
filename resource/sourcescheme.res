@@ -129,6 +129,8 @@ Scheme
 		TextEntry.TextColor			        "TFTextBright"
 		TextEntry.DisabledTextColor	        "TFTextMedium"
 		TextEntry.SelectedBgColor	        "TFOrangeBright"
+
+		Console.TextColor			"100 255 100 255"
 	}
 	
 	Fonts
@@ -153,11 +155,11 @@ Scheme
             }
             "2" //For screen heights between 600 and 767 (eg 4:3 aspect Width 800X600 High, ... 16:9 aspect Width 1152x648 High.)
             {
-                "name"         "Verdana" [$WINDOWS] // Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Arial MT" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
+                "name"         "Arial" [$WINDOWS] // Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Arial MT" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
                 "name"         "Lucida Console" [$X360]    //"Lucida Console"
                 "name"         "Georgia" [$POSIX] // Apple Mac OS "Verdana" (default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
                 "tall"         "12" [$POSIX]  // "11"                
-                "tall"         "12" //good positioning is ... "net_graphpos 190" and "net_graphheight 45" and ensure you select "antialias"  "1" with all others off with "Georgia" font.
+                "tall"         "14" //good positioning is ... "net_graphpos 190" and "net_graphheight 45" and ensure you select "antialias"  "1" with all others off with "Georgia" font.
                 "tall_lodef" "15" //"15"
                 "tall_hidef" "20" //"20"                
                 "weight"     "0"

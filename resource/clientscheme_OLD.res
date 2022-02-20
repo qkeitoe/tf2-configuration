@@ -827,7 +827,7 @@ Scheme
 			"1"
 			{
 				"name"			"Verdana"
-				"tall"			"8"
+				"tall"			"7"
 				"additive"		"0"
 				"antialias" 	"1"
 				"outline"		"0"
