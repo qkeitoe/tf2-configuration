@@ -11,7 +11,7 @@ My complete configuration of Team Fortress 2
 * [Ultimate Offline Jump Pack](https://jump.tf/forum/index.php/topic,3294.msg27678.html) (optional)
 * [yttrium's competitive viewmodels](https://www.teamfortress.tv/34834/yttriums-competitive-viewmodels) (optional)
 * [Smooth textures (Quake-like textures)](https://www.teamfortress.tv/35876/get-quake-like-textures-high-lod-bias-again)
-* [no-hats-bgum](https://github.com/Fedora31/no-hats-bgum) (optional)
+* [no-hats-bgum](https://github.com/Fedora31/no-hats-bgum)
   * no_hats_bgum (optional)
   * no_botkiller (optional)
   * no_christmas_lights (optional)
