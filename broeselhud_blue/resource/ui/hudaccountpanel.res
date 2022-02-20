@@ -8,7 +8,7 @@
 		"PositiveColor"			"50 225 50 255"
 		"NegativeColor"			"255 20 20 255"
 		"delta_lifetime"		"0.85"
-		"delta_item_font"		"surface24"
+		"delta_item_font"		"surface16"
 	}
 	
 	"AccountBG"
@@ -49,7 +49,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"surface28"
+		"font"					"surface23"
 		"fgcolor"				"255 255 255 255"
 	}
 	
@@ -71,7 +71,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"surface28"
+		"font"					"surface23"
 		"fgcolor"				"0 0 0 255"
 	}
 }

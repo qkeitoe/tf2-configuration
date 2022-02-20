@@ -143,6 +143,29 @@
 		}
 	}
 	
+	"NetGraphBG"
+	{
+		"ControlName"		"ScalableImagePanel"
+		"fieldName"		"NetGraphBG"
+		"xpos"		"cs-0.5"
+		"ypos"		"rs1.0-25"
+		"ypos_minmode"	"rs1.0-7"
+		"zpos"			"0"
+		"wide"		"144"
+		"tall"		"44"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/color_panel_brown"
+		"src_corner_height"	"23"				// pixels inside the image
+		"src_corner_width"	"23"
+		"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"3"	
+		"scaleImage"		"1"
+		"proportionaltoparent" "1"
+	}
+
 	"BlueTeamLabel"
 	{
 		"ControlName"		"CExLabel"
