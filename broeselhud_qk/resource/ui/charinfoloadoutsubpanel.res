@@ -60,6 +60,15 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+	"scoutSelectNumber"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"ScoutSelectNumber"
+		"xpos"				"9999"
+		"labelText"			"&1"
+		"Command"			"loadout scout"
+		"visible"			"1"
+	}
 	"soldier"
 	{
 		"ControlName"		"ImageButton"
@@ -85,6 +94,15 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+	"soldierSelectNumber"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"SoldierSelectNumber"
+		"xpos"				"9999"
+		"labelText"			"&2"
+		"Command"			"loadout soldier"
+		"visible"			"1"
+	}
 	"pyro"
 	{
 		"ControlName"		"ImageButton"
@@ -109,6 +127,15 @@
 		"inactiveimage"		"class_sel_sm_pyro_inactive"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+	}
+	"pyroSelectNumber"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"pyroSelectNumber"
+		"xpos"				"9999"
+		"labelText"			"&3"
+		"Command"			"loadout pyro"
+		"visible"			"1"
 	}
 	
 	"demoman"
@@ -136,6 +163,15 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}	
+	"demomanSelectNumber"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"demomanSelectNumber"
+		"xpos"				"9999"
+		"labelText"			"&4"
+		"Command"			"loadout demoman"
+		"visible"			"1"
+	}
 	"heavyweapons"
 	{
 		"ControlName"		"ImageButton"
@@ -161,6 +197,15 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+	"heavySelectNumber"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"heavySelectNumber"
+		"xpos"				"9999"
+		"labelText"			"&5"
+		"Command"			"loadout heavy"
+		"visible"			"1"
+	}
 	"engineer"
 	{
 		"ControlName"		"ImageButton"
@@ -185,6 +230,15 @@
 		"inactiveimage"		"class_sel_sm_engineer_inactive"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+	}
+	"engineerSelectNumber"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"engineerSelectNumber"
+		"xpos"				"9999"
+		"labelText"			"&6"
+		"Command"			"loadout engineer"
+		"visible"			"1"
 	}
 	
 	"medic"
@@ -212,6 +266,15 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+	"medicSelectNumber"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"medicSelectNumber"
+		"xpos"				"9999"
+		"labelText"			"&7"
+		"Command"			"loadout medic"
+		"visible"			"1"
+	}
 	"sniper"
 	{
 		"ControlName"		"ImageButton"
@@ -236,6 +299,15 @@
 		"inactiveimage"		"class_sel_sm_sniper_inactive"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+	}
+	"sniperSelectNumber"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"sniperSelectNumber"
+		"xpos"				"9999"
+		"labelText"			"&8"
+		"Command"			"loadout sniper"
+		"visible"			"1"
 	}
 	"spy"
 	{
@@ -262,6 +334,25 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}	
+	"spySelectNumber"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"spySelectNumber"
+		"xpos"				"9999"
+		"labelText"			"&9"
+		"Command"			"loadout spy"
+		"visible"			"1"
+	}
+
+	"BackpackSelectNumber"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"BackpackSelectNumber"
+		"xpos"				"9999"
+		"labelText"			"&0"
+		"Command"			"backpack"
+		"visible"			"1"
+	}
 	
 		"ShowBackpackButton"
 	{
