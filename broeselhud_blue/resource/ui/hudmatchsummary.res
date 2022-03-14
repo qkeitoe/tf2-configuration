@@ -35,7 +35,7 @@
 		"AnimStatsLabelPanel12v12YPos"		"20"
 		"AnimBlueTeamLabel12v12YPos"		"47"
 		"AnimRedTeamLabel12v12YPos"			"47"
-		"AnimStatsContainer12v12YPos"		"-20"
+		"AnimStatsContainer12v12YPos"		"16"
 
 		if_large
 		{
@@ -60,7 +60,7 @@
 
 		if_uses_xp
 		{
-			"visible"		"1"
+			"visible"		"0"
 		}
 	}
 
@@ -461,7 +461,7 @@
 						"enabled"		"1"
 						"tabPosition"	"0"
 						"autoresize"	"0"
-						"linespacing"	"26"
+						"linespacing"	"23"
 						"linegap"		"4"
 						//"show_columns"	"1"
 
@@ -477,29 +477,8 @@
 						if_large
 						{
 							"tall"			"340"
-							"linegap"		"1"
+							"linegap"		"0"
 						}
-					}
-				}
-				"BluePlayerListBG"
-				{
-					"ControlName"		"EditablePanel"
-					"fieldName"		"BluePlayerListBG"
-					"xpos"			"9"
-					"ypos"			"117"
-					"zpos"			"0"
-					"wide"			"p.2"
-					"tall"			"225"
-					"autoResize"	"0"
-					"pinCorner"		"0"
-					"visible"		"1"
-					"enabled"		"1"
-					"border"		"TFFatLineBorderClearBG"
-
-					if_large
-					{
-						"ypos"			"57"
-						"tall"			"360"
 					}
 				}
 			}
@@ -730,7 +709,7 @@
 						"enabled"		"1"
 						"tabPosition"	"0"
 						"autoresize"	"0"
-						"linespacing"	"26"
+						"linespacing"	"23"
 						"linegap"		"4"
 						//"show_columns"	"1"
 
@@ -746,29 +725,8 @@
 						if_large
 						{
 							"tall"			"340"
-							"linegap"		"1"
+							"linegap"		"0"
 						}
-					}
-				}
-				"RedPlayerListBG"
-				{
-					"ControlName"		"EditablePanel"
-					"fieldName"		"RedPlayerListBG"
-					"xpos"			"r9-p.2"
-					"ypos"			"117"
-					"zpos"			"0"
-					"wide"			"p.2"
-					"tall"			"225"
-					"autoResize"	"0"
-					"pinCorner"		"0"
-					"visible"		"1"
-					"enabled"		"1"
-					"border"		"TFFatLineBorderClearBG"
-
-					if_large
-					{
-						"ypos"			"57"
-						"tall"			"360"
 					}
 				}
 			}
