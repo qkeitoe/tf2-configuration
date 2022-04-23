@@ -4,15 +4,13 @@
 	{
 		"ControlName"		"CWaveStatusPanel"
 		"fieldName"			"WaveStatusPanel"
-		"xpos"				"0"
-		"ypos"				"8"
+		"xpos"				"9999"
+		"ypos"				"9999"
 		"zpos"				"0"
-		"wide"				"600"
-		"tall"				"67"
-		"visible"			"1"
-		"enabled"			"1"
-		
-		"verbose"			"1"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"0"
+		"enabled"			"0"
 	}
 	
 	"PopFileLabel"
@@ -33,8 +31,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"DifficultyContainer"
-		"xpos"			"425"
-		"ypos"			"30"
+		"xpos"			"248"
+		"ypos"			"375"
 		"wide"			"150"
 		"tall"			"20"
 		"visible"		"1"
