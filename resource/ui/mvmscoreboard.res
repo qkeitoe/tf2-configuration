@@ -19,23 +19,31 @@
 		"fieldName"		"PopFileLabel"
 		"font"			"ScoreboardMedium"
 		"labelText"		"%popfile%"
-		"textAlignment"	"east"
-		"xpos"			"290"
-		"ypos"			"375"
+		"textAlignment"	"center"
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"290"
 		"tall"			"20"
 		"fgcolor"		"tanlight"
+
+		"pin_to_sibling"	"CreditStatsContainer"
+		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT"
 	}
 
 	"DifficultyContainer"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"DifficultyContainer"
-		"xpos"			"248"
-		"ypos"			"375"
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"150"
 		"tall"			"20"
 		"visible"		"1"
+
+		"pin_to_sibling"	"CreditStatsContainer"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 		
 		"DifficultyLabel"
 		{
@@ -112,7 +120,7 @@
 		"xpos"			"100"
 		"ypos"			"230"
 		"wide"			"400"
-		"tall"			"205"
+		"tall"			"145"
 		"visible"		"1"
 		
 		"CreditStatsBackground"

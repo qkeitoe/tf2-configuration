@@ -98,7 +98,7 @@
 		"zpos"			"0"
 		"wide"		"530"
 		"wide_minmode"	"264"
-		"tall"		"194"
+		"tall"		"206"
 		"tall_minmode"	"191"
 		"autoResize"	"0"
 		"pinCorner"		"0"
