@@ -68,7 +68,7 @@ WeaponData
 
 		"crosshair"
 		{
-				"file"		"vgui\replay\thumbnails\meleeOLS"
+				"file"		"vgui\replay\thumbnails\LcrossdotOLS"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

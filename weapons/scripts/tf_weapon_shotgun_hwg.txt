@@ -79,7 +79,7 @@ fWeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui\replay\thumbnails\LopencrossOLS"
+				"file"		"vgui\replay\thumbnails\Lopencross2OLS"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
