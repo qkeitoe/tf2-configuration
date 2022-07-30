@@ -2075,7 +2075,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TipImage"
 		"xpos"			"c-285"
-		"ypos"			"1412"		//412
+		"ypos"			"412"
 		"zpos"			"12"
 		"wide"			"35"
 		"tall"			"35"
@@ -2092,7 +2092,7 @@
 		"labelText"		"%tiptext%"
 		"textAlignment"			"west"
 		"xpos"			"c-245"
-		"ypos"			"1405"				//405
+		"ypos"			"405"
 		"zpos"			"12"
 		"wide"			"350"
 		"tall"			"48"
@@ -2107,7 +2107,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"NextTipButton"
 		"xpos"			"c-248"
-		"ypos"			"1310"		//310
+		"ypos"			"310"
 		"zpos"			"6"
 		"wide"			"90"
 		"tall"			"15"
