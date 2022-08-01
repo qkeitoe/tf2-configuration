@@ -644,6 +644,18 @@ Scheme
 				"outline"		"1"
 			}
 		}
+		surface23shadow
+		{
+			"1"
+			{
+				"name"		"Surface-Medium"
+				"tall"		"23"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+				"dropshadow"	"1"
+			}
+		}
 		surface24
 		{
 			"1"
@@ -3553,7 +3565,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -3574,7 +3586,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -3585,7 +3597,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3596,7 +3608,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"

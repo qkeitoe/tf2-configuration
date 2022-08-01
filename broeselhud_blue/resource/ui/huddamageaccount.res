@@ -8,9 +8,9 @@
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"Heal Numbers"
 		"NegativeColor"			"Damage Numbers"
-		"delta_lifetime"		"1.33"
-		"delta_item_font"		"surfaceNumbers20outline"
-		"delta_item_font_big"	"surfaceNumbers20outline"
+		"delta_lifetime"		"2"
+		"delta_item_font"		"surface23shadow"
+		"delta_item_font_big"	"surface23shadow"
 	}
 	
 	"DamageAccountValue"
