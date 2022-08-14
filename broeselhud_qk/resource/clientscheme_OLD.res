@@ -2575,7 +2575,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -2596,7 +2596,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2607,7 +2607,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2618,7 +2618,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
