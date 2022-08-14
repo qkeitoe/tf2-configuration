@@ -23,6 +23,7 @@ My complete configuration of Team Fortress 2
 ## Credits
 * HUD:
   * [fblue](https://github.com/fblue) for [broeselhud_blue](https://github.com/fblue/broeselhud_blue)
+  * Broesel and [Hypnootize](https://github.com/Hypnootize) for [Broesel Hud](https://github.com/Hypnootize/Broesel-Hud)
   * [andy013](https://github.com/andy013) for [votehud_custom_font](https://github.com/andy013/votehud_custom_font)
   * samozvanka for [broesel pyro fix](https://www.teamfortress.tv/post/898069/broeselhud-blue)
   * [Eniere](https://github.com/Eniere) for [idhud](https://github.com/Eniere/idhud)
