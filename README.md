@@ -32,3 +32,4 @@ My complete configuration of Team Fortress 2
 * jayhyunpae for seeker crosshair
 * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
 * pixxul for [Less distracting explosions](https://gamebanana.com/mods/12444)
+* samozvanka for [broesel pyro fix](https://www.teamfortress.tv/post/898069/broeselhud-blue)
