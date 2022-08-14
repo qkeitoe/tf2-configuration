@@ -22,6 +22,7 @@ My complete configuration of Team Fortress 2
 
 ## Credits
 * [fblue](https://github.com/fblue) for [broeselhud_blue](https://github.com/fblue/broeselhud_blue)
+* [andy013](https://github.com/andy013) for [votehud_custom_font](https://github.com/andy013/votehud_custom_font)
 * [Eniere](https://github.com/Eniere) for [idhud](https://github.com/Eniere/idhud)
 * BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
 * leth for [VTF Crosshair pack](https://www.teamfortress.tv/35367/vtf-crosshair-pack) and [HOW TO MAKE VTF CROSSHAIRS](https://www.teamfortress.tv/37767/how-to-make-vtf-crosshairs)
