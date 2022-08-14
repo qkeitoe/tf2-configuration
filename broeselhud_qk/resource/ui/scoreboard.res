@@ -535,8 +535,8 @@
 		if_mvm
 		{
 			"xpos_minmode"	"25"
-			"ypos"			"410"
-			"ypos_minmode"	"370"
+			"ypos"			"370"
+			"ypos_minmode"	"330"
 		}
 	}
 	"ClassImage"
@@ -628,8 +628,8 @@
 		if_mvm
 		{
 			"xpos_minmode"	"37"
-			"ypos"			"440"
-			"ypos_minmode"	"413"
+			"ypos"			"400"
+			"ypos_minmode"	"373"
 		}
 	}
 
@@ -894,8 +894,8 @@
 		if_mvm
 		{
 			"xpos_minmode"		"25"
-			"ypos"				"410"
-			"ypos_minmode"		"368"
+			"ypos"				"370"
+			"ypos_minmode"		"328"
 			"wide_minmode"		"556"
 		}
 		
@@ -2030,7 +2030,7 @@
 		"ControlName"		"CTFHudMannVsMachineScoreboard"
 		"fieldName"			"MvMScoreboard"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"-40"
 		"zpos"				"10"
 		"wide"				"f0"
 		"tall"				"480"

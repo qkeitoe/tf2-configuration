@@ -1,20 +1,5 @@
 "Resource/UI/MvMScoreboard.res"
 {		
-	"WaveStatusPanel"
-	{
-		"ControlName"		"CWaveStatusPanel"
-		"fieldName"			"WaveStatusPanel"
-		"xpos"				"0"
-		"ypos"				"8"
-		"zpos"				"0"
-		"wide"				"600"
-		"tall"				"67"
-		"visible"			"1"
-		"enabled"			"1"
-		
-		"verbose"			"1"
-	}
-	
 	"PopFileLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -33,8 +18,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"DifficultyContainer"
-		"xpos"			"425"
-		"ypos"			"30"
+		"xpos"			"248"
+		"ypos"			"375"
 		"wide"			"150"
 		"tall"			"20"
 		"visible"		"1"
