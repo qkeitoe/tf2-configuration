@@ -60,8 +60,9 @@
 		"itemmodelpanel"
 		{
 			"force_use_model"		"1"
-			"use_item_rendertarget" "0"
-			"allow_rot"				"1"
+			"use_item_rendertarget" "1"
+			"allow_rot"				"0"
+			"inventory_image_type" 	"1"
 		}
 	}
 
