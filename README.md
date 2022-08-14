@@ -21,15 +21,19 @@ My complete configuration of Team Fortress 2
 * `-nostartupsound` (optional)
 
 ## Credits
-* [fblue](https://github.com/fblue) for [broeselhud_blue](https://github.com/fblue/broeselhud_blue)
-* [andy013](https://github.com/andy013) for [votehud_custom_font](https://github.com/andy013/votehud_custom_font)
-* [Eniere](https://github.com/Eniere) for [idhud](https://github.com/Eniere/idhud)
-* BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
-* leth for [VTF Crosshair pack](https://www.teamfortress.tv/35367/vtf-crosshair-pack) and [HOW TO MAKE VTF CROSSHAIRS](https://www.teamfortress.tv/37767/how-to-make-vtf-crosshairs)
-* shoras for [No explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
-* [CriticalFlaw](https://github.com/CriticalFlaw) for [TF2 Community HUD Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
-* [Hypnootize](https://github.com/Hypnootize) for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
-* jayhyunpae for seeker crosshair
-* gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
-* pixxul for [Less distracting explosions](https://gamebanana.com/mods/12444)
-* samozvanka for [broesel pyro fix](https://www.teamfortress.tv/post/898069/broeselhud-blue)
+* HUD:
+  * [fblue](https://github.com/fblue) for [broeselhud_blue](https://github.com/fblue/broeselhud_blue)
+  * [andy013](https://github.com/andy013) for [votehud_custom_font](https://github.com/andy013/votehud_custom_font)
+  * samozvanka for [broesel pyro fix](https://www.teamfortress.tv/post/898069/broeselhud-blue)
+  * [Eniere](https://github.com/Eniere) for [idhud](https://github.com/Eniere/idhud)
+  * [CriticalFlaw](https://github.com/CriticalFlaw) for [TF2 Community HUD Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
+  * [Hypnootize](https://github.com/Hypnootize) for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
+* Config:
+  * BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
+  * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
+* Crosshairs:
+  * leth for [VTF Crosshair pack](https://www.teamfortress.tv/35367/vtf-crosshair-pack) and [HOW TO MAKE VTF CROSSHAIRS](https://www.teamfortress.tv/37767/how-to-make-vtf-crosshairs)
+  * jayhyunpae for seeker crosshair
+* Explosions:
+  * pixxul for [Less distracting explosions](https://gamebanana.com/mods/12444)
+  * shoras for [No explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
