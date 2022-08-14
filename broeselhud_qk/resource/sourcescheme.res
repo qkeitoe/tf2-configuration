@@ -129,6 +129,8 @@ Scheme
 		TextEntry.TextColor			        "TFTextBright"
 		TextEntry.DisabledTextColor	        "TFTextMedium"
 		TextEntry.SelectedBgColor	        "TFOrangeBright"
+
+		Console.TextColor			"100 255 100 255"
 	}
 	
 	Fonts
