@@ -10,13 +10,6 @@ event HitMarker
 	Animate DamageAccountValue		Alpha	"0"		linear 10.0 0.2
 	Animate DamageAccountValueBG	Alpha	"255"	linear 0.0 0.0
 	Animate DamageAccountValueBG	Alpha	"0"		linear 10.0 0.2
-	
-	Animate CrosshairXX	FgColor	"R G B Opacity"	linear 0.0 0.00001
-	Animate CrosshairXX	FgColor	"R G B Opacity"	linear 0.15 0.15001
-	// The first line animates your HUD crosshair when you hit someone.
-	// The second line changes your HUD crosshair's colour back.
-	// Replace "CrosshairXX" with your HUD crosshair's fieldname.
-	// Edit the colours (R G B Opacity) to your liking.
 }
 
 event HudHealthBonusPulse
