@@ -219,6 +219,18 @@ Scheme
             }
 		}
 
+		"ConsoleText"
+		{
+			"1"
+			{
+				"name"		"Product Sans Bold"
+				"tall"		"14"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
+
 		"MainMenuFont"
 		{
 			"1"	[$WIN32]
