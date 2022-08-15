@@ -120,7 +120,7 @@ Scheme
 	{
 		"Bot Detector Font" 
 		{
-			"font" "resource/CustomNotoMono.ttf"
+			"font" "resource/fonts/CustomNotoMono.ttf"
 			"name" "CustomNotoMono"
 			"english" 
 			{
