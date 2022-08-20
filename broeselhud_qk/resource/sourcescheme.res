@@ -139,11 +139,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans Bold"
-				"tall"		"14"
-				"weight"	"400"
-				"additive"	"0"
-				"antialias"	"1"
+				"name"		 "Lucida Console"
+				"tall"		"12"
+				"weight"	"500"
 			}
 		}
 
