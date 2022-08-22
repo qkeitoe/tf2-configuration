@@ -35,6 +35,7 @@ My complete configuration of Team Fortress 2
 * Config:
   * BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
   * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
+  * [rbjaxter](https://github.com/rbjaxter) for [bh_recommendedcommands.cfg](https://github.com/rbjaxter/budhud/blob/master/cfg/bh_recommendedcommands.cfg)
 * Crosshairs:
   * leth for [VTF Crosshair pack](https://www.teamfortress.tv/35367/vtf-crosshair-pack) and [HOW TO MAKE VTF CROSSHAIRS](https://www.teamfortress.tv/37767/how-to-make-vtf-crosshairs)
   * jayhyunpae for seeker crosshair
