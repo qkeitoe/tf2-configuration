@@ -1,5 +1,8 @@
 My complete configuration of Team Fortress 2
 
+> **Warning**
+> This TF2 configuration is intended for 1280x720 resolution. So some stuff may be broken on other resolutions.
+
 ## Dependencies
 * [mastercomfig](https://github.com/mastercomfig/mastercomfig)
   * Low preset
