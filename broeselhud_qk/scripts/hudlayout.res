@@ -428,15 +428,13 @@
 	
 	HudStopWatch
 	{
-		"fieldName"					"HudStopWatch"
-		"visible"					"1"
-		"enabled"					"1"
-		"xpos"						"c-161"
-		"ypos"						"-20"
-		"ypos_minmode"				"-20"
-		"ypos_lodef"				"-20"
-		"wide"						"142"
-		"tall"						"55"
+		"fieldName"				"HudStopWatch"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"0"
+		"ypos"					"0"
+		"wide"					"f0"
+		"tall"					"480"
 	}
 	
 	NotificationPanel
