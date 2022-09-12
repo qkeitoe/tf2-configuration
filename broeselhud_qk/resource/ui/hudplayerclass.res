@@ -13,6 +13,159 @@
 		"enabled"				"1"
 	}
 	
+	"speed1"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed1"
+		"visible" "0"
+		"enabled" "0"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c12"
+		"ypos" "c85"
+		"zpos" "0"
+		"wide" "13"
+		"tall" "13"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/funnyd1"
+		"scaleimage" "1"
+	}
+	"speed1shadow"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed1shadow"
+		"visible" "0"
+		"enabled" "0"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c13"
+		"ypos" "c86"
+		"zpos" "-1"
+		"wide" "13"
+		"tall" "13"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/funnyd1"
+		"scaleimage" "1"
+
+		"drawcolor" "0 0 0 255"
+	}
+	"speed2"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed2"
+		"visible" "0"
+		"enabled" "0"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c0"
+		"ypos" "c85"
+		"zpos" "0"
+		"wide" "13"
+		"tall" "13"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/funnyd2"
+		"scaleimage" "1"
+	}
+	"speed2shadow"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed2shadow"
+		"visible" "0"
+		"enabled" "0"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c1"
+		"ypos" "c86"
+		"zpos" "-1"
+		"wide" "13"
+		"tall" "13"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/funnyd2"
+		"scaleimage" "1"
+
+		"drawcolor" "0 0 0 255"
+	}
+	"speed3"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed3"
+		"visible" "0"
+		"enabled" "0"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c-13"
+		"ypos" "c85"
+		"zpos" "0"
+		"wide" "13"
+		"tall" "13"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/funnyd3"
+		"scaleimage" "1"
+	}
+	"speed3shadow"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed3shadow"
+		"visible" "0"
+		"enabled" "0"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c-12"
+		"ypos" "c86"
+		"zpos" "-1"
+		"wide" "13"
+		"tall" "13"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/funnyd3"
+		"scaleimage" "1"
+
+		"drawcolor" "0 0 0 255"
+	}
+	"speed4"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed4"
+		"visible" "0"
+		"enabled" "0"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c-25"
+		"ypos" "c85"
+		"zpos" "0"
+		"wide" "13"
+		"tall" "13"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/funnyd4"
+		"scaleimage" "1"
+	}
+	"speed4shadow"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed4shadow"
+		"visible" "0"
+		"enabled" "0"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "c-24"
+		"ypos" "c86"
+		"zpos" "-1"
+		"wide" "13"
+		"tall" "13"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/funnyd4"
+		"scaleimage" "1"
+
+		"drawcolor" "0 0 0 255"
+	}
+	
 	"PlayerStatusClassImage"
 	{
 		"ControlName"			"CTFClassImage"
