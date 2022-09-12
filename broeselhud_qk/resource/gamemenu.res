@@ -67,7 +67,7 @@
 	}
 	"ScoreboardButton"
 	{
-		"label"			"Change Scoreboard"
+		"label"			"Toggle MinMode"
 		"command"		"engine toggle cl_hud_minmode"
 		"subimage" 		"glyph_practice"
 		"OnlyInGame"	"1"
