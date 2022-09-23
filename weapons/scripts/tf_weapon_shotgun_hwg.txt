@@ -79,9 +79,9 @@ fWeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui\replay\thumbnails\Lopencross2OLS"
-				"x"		"0"
-				"y"		"0"
+				"file"		"vgui\replay\thumbnails\seekerOL"
+				"x"			"0"
+				"y"			"0"
 				"width"		"64"
 				"height"	"64"
 		}

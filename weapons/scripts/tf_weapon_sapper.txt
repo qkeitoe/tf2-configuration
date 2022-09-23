@@ -54,11 +54,11 @@ WeaponData
 
 		"crosshair"
 		{
-				"file"		"sprites/crosshairs"
-				"x"		"0"
-				"y"		"48"
-				"width"		"24"
-				"height"	"24"
+				"file"		"vgui\replay\thumbnails\seekerOL"
+				"x"			"0"
+				"y"			"0"
+				"width"		"64"
+				"height"	"64"
 		}
 
 		"autoaim"
