@@ -82,7 +82,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui\replay\thumbnails\seekerOL"
+				"file"		"vgui/crosshairs/crosshair3"
 				"x"			"0"
 				"y"			"0"
 				"width"		"64"
