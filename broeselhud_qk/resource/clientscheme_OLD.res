@@ -633,6 +633,18 @@ Scheme
 				"outline"		"0"
 			}
 		}
+		surface23shadow
+		{
+			"1"
+			{
+				"name"			"Surface-Medium"
+				"tall"			"23"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"0"
+				"dropshadow"	"1"
+			}
+		}
 		surface23outline
 		{
 			"1"
