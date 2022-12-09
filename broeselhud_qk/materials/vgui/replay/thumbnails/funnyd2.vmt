@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	$basetexture "vgui/replay/thumbnails/funnyd2"
+	$basetexture "vgui/replay/thumbnails/xspeed"
 	$translucent 1
 	$vertexcolor 1
 	$no_fullbright 1

@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	$basetexture "vgui/replay/thumbnails/funnyd3" // d4 hides the 0 but I don't like it
+	$basetexture "vgui/replay/thumbnails/xspeed" // d4 hides the 0 but I don't like it
 	$translucent 1
 	$vertexcolor 1
 	$no_fullbright 1
