@@ -8,7 +8,7 @@
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"Heal Numbers"
 		"NegativeColor"			"Damage Numbers"
-		"delta_lifetime"		"2"
+		"delta_lifetime"		"1.5"
 		"delta_item_font"		"surface23outline"
 		"delta_item_font_big"	"surface23outline"
 	}
