@@ -228,6 +228,18 @@
 		"tall"						"480"
 	}
 	
+	CurrencyStatusPanel
+	{
+		"ControlName"								"CCurrencyStatusPanel"
+		"fieldName"									"CurrencyStatusPanel"
+		"xpos"										"c-245"
+		"ypos"										"r120"
+		"wide"										"100"
+		"tall"										"100"
+		"visible" 									"0"
+		"enabled" 									"1"
+	}
+	
 	HudDeathNotice
 	{
 		"fieldName"					"HudDeathNotice"
