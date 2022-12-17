@@ -1,0 +1,65 @@
+"Resource/UI/HudAccountPanel.res"
+{
+    "AccountBG"
+    {
+        "ypos"                                                      "r-6969"
+        "visible"                                                   "0"
+        "enabled"                                                   "0"
+    }
+
+    "MetalIcon"
+    {
+        "ypos"                                                      "r-6969"
+        "visible"                                                   "0"
+        "enabled"                                                   "0"
+    }
+
+    "CHudAccountPanel"
+    {
+        "delta_item_x"                                              "120"
+        "delta_item_start_y"                                        "15"
+        "delta_item_end_y"                                          "25"
+        "PositiveColor"                                             "bh_Theme_TextAccent"
+        "NegativeColor"                                             "bh_red"
+        "delta_lifetime"                                            ".9"
+        "delta_item_font"                                           "bh_Font16"
+    }
+
+    "AccountValue"
+    {
+        "ControlName"                                               "CExLabel"
+        "fieldName"                                                 "AccountValue"
+        "xpos"                                                      "0"
+        "ypos"                                                      "0"
+        "wide"                                                      "200"
+        "tall"                                                      "50"
+        "font"                                                      "bh_Font24"
+        "fgcolor_override"                                          "bh_white"
+    }
+
+    "AccountValueShadow"
+    {
+        "pin_to_sibling"                                            "AccountValue"
+        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
+        "pin_to_sibling_corner"                                     "0"
+
+        "ControlName"                                               "CExLabel"
+        "fieldName"                                                 "AccountValueShadow"
+        "xpos"                                                      "-1"
+        "ypos"                                                      "-1"
+        "zpos"                                                      "2"
+        "wide"                                                      "200"
+        "tall"                                                      "50"
+        "autoResize"                                                "1"
+        "pinCorner"                                                 "2"
+        "visible"                                                   "1"
+        "enabled"                                                   "1"
+        "tabPosition"                                               "0"
+        "labelText"                                                 "%metal%"
+        "textAlignment"                                             "center"
+        "dulltext"                                                  "0"
+        "brighttext"                                                "0"
+        "font"                                                      "bh_Font24"
+        "fgcolor_override"                                          "bh_Shadow"
+    }
+}
