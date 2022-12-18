@@ -1,5 +1,4 @@
 #base "../../#users/custom/resource/ui/healthiconpanel.res"
-#base "../../#customization/_enabled/bh_targetid_healthcross3.res"
 #base "../../_stream/resource/ui/healthiconpanel.res"
 
 "Resource/UI/HealthIconPanel.res"
@@ -7,7 +6,7 @@
 
     "healthicon"
     {
-        "wide"                                                      "40"
+        "wide"                                                      "60"
         "tall"                                                      "18"
         "ControlName"                                               "EditablePanel"
         "fieldName"                                                 "HealthIcon"

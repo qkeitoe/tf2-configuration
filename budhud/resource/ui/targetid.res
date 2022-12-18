@@ -1,10 +1,77 @@
 #base "../../#users/custom/resource/ui/targetid.res"
 #base "../../#users/jayhyunpae/resource/ui/targetid.res"
-#base "../../#customization/_enabled/bh_targetid_healthcross2.res"
 #base "../../_stream/resource/ui/targetid.res"
 
 "Resource/UI/TargetID.res"
 {
+
+    "spectatorguihealth"
+    {
+        "wide"                                                      "60"
+        "xpos"                                                      "0"
+        "ypos"                                                      "34"
+        "tall"                                                      "40"
+        "ControlName"                                               "EditablePanel"
+        "fieldName"                                                 "SpectatorGUIHealth"
+        "xpos$_disabled_"                                           "0"
+        "ypos$_disabled_"                                           "0"
+        "visible"                                                   "0"
+        "enabled"                                                   "0"
+        "HealthBonusPosAdj"                                         "10"
+        "HealthDeathWarning"                                        "0.49"
+        "TFFont"                                                    "HudFontSmall"
+        "HealthDeathWarningColor"                                   "HUDDeathWarning"
+        "TextColor"                                                 "HudOffWhite"
+    }
+
+    "targetidbg"
+    {
+        "xpos"                                                      "0"
+        "pin_to_sibling"                                            "SpectatorGUIHealth"
+        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
+        "pin_to_sibling_corner"                                     "0"
+        "ypos"                                                      "0"
+        "zpos"                                                      "-1"
+        "src_corner_height"                                         "0"
+        "src_corner_width"                                          "0"
+        "draw_corner_width"                                         "0"
+        "draw_corner_height"                                        "0"
+        "teambg_1"                                                  "replay\thumbnails\team_colors\bh_targetid_gray"
+        "teambg_2"                                                  "replay\thumbnails\team_colors\bh_targetid_red"
+        "teambg_3"                                                  "replay\thumbnails\team_colors\bh_targetid_blue"
+        "ControlName"                                               "CTFImagePanel"
+        "fieldName"                                                 "TargetIDBG"
+        "wide"                                                      "252"
+        "tall"                                                      "50"
+        "autoResize"                                                "0"
+        "pinCorner"                                                 "0"
+        "visible"                                                   "1"
+        "enabled"                                                   "1"
+        "image"                                                     "../hud/color_panel_brown"
+        "scaleImage"                                                "1"
+        "teambg_2$_disabled_"                                       "../hud/color_panel_red"
+        "teambg_3$_disabled_"                                       "../hud/color_panel_blu"
+    }
+
+    "ammoicon"
+    {
+        "xpos"                                                      "68"
+        "ypos"                                                      "57"
+        "pin_to_sibling"                                            "bh_AmmoKSPin"
+        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
+        "pin_to_sibling_corner"                                     "0"
+        "wide"                                                      "9"
+        "tall"                                                      "9"
+        "ControlName"                                               "ImagePanel"
+        "fieldName"                                                 "AmmoIcon"
+        "xpos$_disabled_"                                           "38"
+        "ypos$_disabled_"                                           "16"
+        "zpos"                                                      "12"
+        "visible"                                                   "0"
+        "enabled"                                                   "1"
+        "image"                                                     "../hud/leaderboard_class_heavy"
+        "scaleImage"                                                "1"
+    }
 
     "avatarimage"
     {
@@ -21,25 +88,6 @@
         "image"                                                     ""
         "scaleImage"                                                "1"
         "color_outline"                                             "52 48 45 255"
-    }
-
-    "spectatorguihealth"
-    {
-        "xpos"                                                      "0"
-        "ypos"                                                      "34"
-        "wide"                                                      "40"
-        "tall"                                                      "40"
-        "ControlName"                                               "EditablePanel"
-        "fieldName"                                                 "SpectatorGUIHealth"
-        "xpos$_disabled_"                                           "0"
-        "ypos$_disabled_"                                           "0"
-        "visible"                                                   "0"
-        "enabled"                                                   "0"
-        "HealthBonusPosAdj"                                         "10"
-        "HealthDeathWarning"                                        "0.49"
-        "TFFont"                                                    "HudFontSmall"
-        "HealthDeathWarningColor"                                   "HUDDeathWarning"
-        "TextColor"                                                 "HudOffWhite"
     }
 
     "targetnamelabel"
@@ -123,26 +171,6 @@
         "bgcolor_override"                                          "0 0 0 0"
     }
 
-    "ammoicon"
-    {
-        "pin_to_sibling"                                            "bh_AmmoKSPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-        "xpos"                                                      "0"
-        "ypos"                                                      "0"
-        "wide"                                                      "9"
-        "tall"                                                      "9"
-        "ControlName"                                               "ImagePanel"
-        "fieldName"                                                 "AmmoIcon"
-        "xpos$_disabled_"                                           "38"
-        "ypos$_disabled_"                                           "16"
-        "zpos"                                                      "12"
-        "visible"                                                   "0"
-        "enabled"                                                   "1"
-        "image"                                                     "../hud/leaderboard_class_heavy"
-        "scaleImage"                                                "1"
-    }
-
     "killstreakicon"
     {
         "pin_to_sibling"                                            "bh_AmmoKSPin"
@@ -161,35 +189,6 @@
         "enabled"                                                   "1"
         "image"                                                     "../hud/leaderboard_streak"
         "scaleImage"                                                "1"
-    }
-
-    "targetidbg"
-    {
-        "pin_to_sibling"                                            "SpectatorGUIHealth"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-        "xpos"                                                      "0"
-        "ypos"                                                      "0"
-        "zpos"                                                      "-1"
-        "src_corner_height"                                         "0"
-        "src_corner_width"                                          "0"
-        "draw_corner_width"                                         "0"
-        "draw_corner_height"                                        "0"
-        "teambg_1"                                                  "replay\thumbnails\team_colors\bh_targetid_gray"
-        "teambg_2"                                                  "replay\thumbnails\team_colors\bh_targetid_red"
-        "teambg_3"                                                  "replay\thumbnails\team_colors\bh_targetid_blue"
-        "ControlName"                                               "CTFImagePanel"
-        "fieldName"                                                 "TargetIDBG"
-        "wide"                                                      "252"
-        "tall"                                                      "50"
-        "autoResize"                                                "0"
-        "pinCorner"                                                 "0"
-        "visible"                                                   "1"
-        "enabled"                                                   "1"
-        "image"                                                     "../hud/color_panel_brown"
-        "scaleImage"                                                "1"
-        "teambg_2$_disabled_"                                       "../hud/color_panel_red"
-        "teambg_3$_disabled_"                                       "../hud/color_panel_blu"
     }
 
     "targetidbg_spec_blue"

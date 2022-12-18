@@ -2,386 +2,20 @@
 #base "../../#users/toth/#customization/_enabled/bh_menu_hidestats.res"
 #base "../../#users/ly_dee/#customization/_enabled/bh_menu_hidestats.res"
 #base "../../#users/jayhyunpae/#customization/_enabled/bh_menu_hidestats.res"
-#base "../../#customization/_enabled/bh_menu_hidestats.res"
 #base "../../_stream/resource/ui/pvprankpanel.res"
 
 "Resource/UI/PvPRankPanel.res"
 {
 
-    "modelcontainer"
-    {
-        "xpos"                                                      "0"
-        "ypos"                                                      "0"
-        "wide"                                                      "f0"
-        "tall"                                                      "f0"
-
-        "rankmodel"
-        {
-            "xpos"                                                  "c-75"
-            "ypos"                                                  "74"
-            "wide"                                                  "150"
-            "tall"                                                  "70"
-            "fov"                                                   "100"
-            "ControlName"                                           "CBaseModelPanel"
-            "fieldName"                                             "RankModel"
-            "zpos"                                                  "0"
-            "autoResize"                                            "0"
-            "pinCorner"                                             "0"
-            "visible"                                               "1"
-            "enabled"                                               "1"
-            "proportionaltoparent"                                  "1"
-
-            "$_disabled_mini"
-            {
-                "xpos"                                              "cs-0.5-228"
-                "ypos"                                              "cs-0.5"
-                "wide"                                              "200"
-                "tall"                                              "200"
-            }
-            "paintbackground"                                       "0"
-            "render_texture"                                        "0"
-
-            "model"
-            {
-                "force_pos"                                         "1"
-                "modelname"                                         ""
-                "skin"                                              "0"
-                "angles_x"                                          "0"
-                "angles_y"                                          "180"
-                "angles_z"                                          "0"
-                "origin_x"                                          "45"
-                "origin_y"                                          "0"
-                "origin_z"                                          "0"
-                "spotlight"                                         "1"
-
-                "$_disabled_mini"
-                {
-                    "origin_x"                                      "55"
-                }
-
-                "animation"
-                {
-                    "sequence"                                      "idle"
-                    "default"                                       "1"
-                }
-            }
-
-            "lights"
-            {
-
-                "default"
-                {
-                    "name"                                          "directional"
-                    "color"                                         "0.5 0.5 0.5"
-                    "direction"                                     "0.60 0.65 0.2"
-                }
-            }
-        }
-
-        "medalbutton"
-        {
-            "xpos"                                                  "c-50"
-            "ypos"                                                  "74"
-            "wide"                                                  "100"
-            "tall"                                                  "70"
-            "ControlName"                                           "Button"
-            "fieldName"                                             "MedalButton"
-            "zpos"                                                  "100"
-            "proportionaltoparent"                                  "1"
-            "command"                                               "medal_clicked"
-            "actionsignallevel"                                     "2"
-            "labeltext"                                             ""
-            "paintbackground"                                       "0"
-            "backgroundenabled"                                     "0"
-        }
-
-        "abovemodelparticlepanel"
-        {
-            "xpos"                                                  "c-150"
-            "ypos"                                                  "42"
-            "wide"                                                  "300"
-            "tall"                                                  "140"
-            "ControlName"                                           "CTFParticlePanel"
-            "fieldName"                                             "AboveModelParticlePanel"
-            "zpos"                                                  "1"
-            "visible"                                               "1"
-            "proportionaltoparent"                                  "1"
-            "paintbackground"                                       "0"
-
-            "$_disabled_mini"
-            {
-                "xpos"                                              "cs-0.5-228"
-            }
-
-            "particleeffects"
-            {
-
-                "0"
-                {
-                    "particle_xpos"                                 "c0"
-                    "particle_ypos"                                 "c0"
-                    "particle_scale"                                "5"
-                    "particleName"                                  "rankup_glitter"
-                    "start_activated"                               "0"
-                    "loop"                                          "0"
-                }
-
-                "1"
-                {
-                    "particle_xpos"                                 "c0"
-                    "particle_ypos"                                 "c0"
-                    "particle_scale"                                "4"
-                    "particleName"                                  "badgepress_base"
-                    "start_activated"                               "0"
-                    "loop"                                          "0"
-                }
-
-                "2"
-                {
-                    "particle_xpos"                                 "c-8"
-                    "particle_ypos"                                 "c0"
-                    "particle_scale"                                "4"
-                    "particleName"                                  "rankdown_base"
-                    "start_activated"                               "0"
-                    "loop"                                          "0"
-                }
-            }
-        }
-
-        "belowmodelparticlepanel"
-        {
-            "xpos"                                                  "c-150"
-            "ypos"                                                  "42"
-            "wide"                                                  "300"
-            "tall"                                                  "140"
-            "ControlName"                                           "CTFParticlePanel"
-            "fieldName"                                             "BelowModelParticlePanel"
-            "zpos"                                                  "-1"
-            "visible"                                               "1"
-            "proportionaltoparent"                                  "1"
-
-            "$_disabled_mini"
-            {
-                "xpos"                                              "cs-0.5-228"
-            }
-
-            "particleeffects"
-            {
-
-                "0"
-                {
-                    "particle_xpos"                                 "c0"
-                    "particle_ypos"                                 "c0"
-                    "particle_scale"                                "3"
-                    "particleName"                                  "rankup_base"
-                    "start_activated"                               "0"
-                    "loop"                                          "0"
-                }
-            }
-            "paintbackground"                                       "0"
-        }
-        "ControlName"                                               "EditablePanel"
-        "fieldName"                                                 "ModelContainer"
-        "zpos"                                                      "3"
-        "proportionaltoparent"                                      "1"
-        "actionsignallevel"                                         "2"
-    }
-
     "bgpanel"
     {
-        "xpos"                                                      "0"
-        "ypos"                                                      "0"
-        "wide"                                                      "f0"
-        "tall"                                                      "f0"
-        "border"                                                    "NoBorder"
-
-        "namelabel"
-        {
-            "ypos"                                                  "r-6969"
-            "visible"                                               "0"
-            "enabled"                                               "0"
-            "ControlName"                                           "Label"
-            "fieldName"                                             "NameLabel"
-            "xpos"                                                  "65"
-            "wide"                                                  "f0"
-            "zpos"                                                  "100"
-            "tall"                                                  "20"
-            "font"                                                  "HudFontSmallishBold"
-            "fgcolor_override"                                      "TanLight"
-            "textAlignment"                                         "north-west"
-            "labelText"                                             "%name%"
-            "proportionaltoparent"                                  "1"
-
-            "$_disabled_mini"
-            {
-                "visible"                                           "0"
-            }
-        }
-
-        "descline1"
-        {
-            "xpos"                                                  "c-250"
-            "ypos"                                                  "129"
-            "zpos"                                                  "1"
-            "wide"                                                  "500"
-            "tall"                                                  "20"
-            "textalignment"                                         "center"
-
-            "if_mini"
-            {
-                "ypos"                                              "r20"
-            }
-            "ControlName"                                           "CAutoFittingLabel"
-            "fieldName"                                             "DescLine1"
-            "visible"                                               "1"
-            "enabled"                                               "1"
-            "font"                                                  "HudFontSmallestBold"
-            "fgcolor_override"                                      "TanLight"
-            "textAlignment"                                         "north-west"
-            "labelText"                                             "%desc1%"
-            "proportionaltoparent"                                  "1"
-
-            "$_disabled_mini"
-            {
-                "xpos"                                              "67"
-                "ypos"                                              "4"
-            }
-
-            "fonts"
-            {
-                "0"                                                 "HudFontSmallestBold"
-                "1"                                                 "StorePromotionsTitle"
-                "2"                                                 "FontStorePrice"
-            }
-        }
-
-        "bh_descline1shadow"
-        {
-            "pin_to_sibling"                                        "DescLine1"
-            "pin_corner_to_sibling"                                 "PIN_TOPLEFT"
-            "pin_to_sibling_corner"                                 "0"
-            "ControlName"                                           "CAutoFittingLabel"
-            "fieldName"                                             "bh_DescLine1Shadow"
-            "xpos"                                                  "-1"
-            "ypos"                                                  "-1"
-            "zpos"                                                  "0"
-            "wide"                                                  "500"
-            "tall"                                                  "20"
-            "textalignment"                                         "center"
-            "visible"                                               "1"
-            "enabled"                                               "1"
-            "font"                                                  "HudFontSmallestBold"
-            "fgcolor_override"                                      "bh_Shadow"
-            "labelText"                                             "%desc1%"
-            "proportionaltoparent"                                  "1"
-
-            "fonts"
-            {
-                "0"                                                 "HudFontSmallestBold"
-                "1"                                                 "StorePromotionsTitle"
-                "2"                                                 "FontStorePrice"
-            }
-
-            "colors"
-            {
-                "1"                                                 "bh_Shadow"
-            }
-        }
-
-        "descline2"
-        {
-            "xpos"                                                  "c-250"
-            "ypos"                                                  "139"
-            "zpos"                                                  "1"
-            "wide"                                                  "500"
-            "tall"                                                  "20"
-            "textalignment"                                         "center"
-
-            "if_mini"
-            {
-                "ypos"                                              "r30"
-            }
-            "ControlName"                                           "CAutoFittingLabel"
-            "fieldName"                                             "DescLine2"
-            "visible"                                               "1"
-            "enabled"                                               "1"
-            "font"                                                  "HudFontSmallestBold"
-            "fgcolor_override"                                      "TanLight"
-            "textAlignment"                                         "north-west"
-            "labelText"                                             "%desc2%"
-            "proportionaltoparent"                                  "1"
-
-            "$_disabled_mini"
-            {
-                "xpos"                                              "67"
-                "ypos"                                              "4"
-            }
-
-            "fonts"
-            {
-                "0"                                                 "HudFontSmallestBold"
-                "1"                                                 "StorePromotionsTitle"
-                "2"                                                 "FontStorePrice"
-            }
-
-            "colors"
-            {
-                "1"                                                 "CreditsGreen"
-                "2"                                                 "TanLight"
-            }
-        }
-
-        "bh_descline2shadow"
-        {
-            "pin_to_sibling"                                        "DescLine2"
-            "pin_corner_to_sibling"                                 "PIN_TOPLEFT"
-            "pin_to_sibling_corner"                                 "0"
-            "ControlName"                                           "CAutoFittingLabel"
-            "fieldName"                                             "bh_DescLine2Shadow"
-            "xpos"                                                  "-1"
-            "ypos"                                                  "-1"
-            "zpos"                                                  "0"
-            "wide"                                                  "500"
-            "tall"                                                  "20"
-            "textalignment"                                         "center"
-            "visible"                                               "1"
-            "enabled"                                               "1"
-            "font"                                                  "HudFontSmallestBold"
-            "fgcolor_override"                                      "bh_Shadow"
-            "labelText"                                             "%desc2%"
-            "proportionaltoparent"                                  "1"
-
-            "fonts"
-            {
-                "0"                                                 "HudFontSmallestBold"
-                "1"                                                 "StorePromotionsTitle"
-                "2"                                                 "FontStorePrice"
-            }
-
-            "colors"
-            {
-                "1"                                                 "bh_Shadow"
-            }
-        }
-
-        "levellabel"
-        {
-            "xpos"                                                  "c-75"
-            "ypos"                                                  "129"
-            "wide"                                                  "150"
-            "textalignment"                                         "center"
-        }
 
         "statscontainer"
         {
-            "xpos"                                                  "0"
-            "ypos"                                                  "0"
-            "zpos"                                                  "50"
-            "wide"                                                  "f0"
-            "tall"                                                  "f0"
 
             "bh_yourstats"
             {
+                "visible"                                           "0"
                 "ControlName"                                       "CExLabel"
                 "fieldName"                                         "bh_YourStats"
                 "font"                                              "bh_Font12"
@@ -395,7 +29,6 @@
                 "tall"                                              "20"
                 "autoResize"                                        "0"
                 "pinCorner"                                         "0"
-                "visible"                                           "1"
                 "enabled"                                           "1"
 
                 "if_mini"
@@ -406,6 +39,7 @@
 
             "bh_yourstatsshadow"
             {
+                "visible"                                           "0"
                 "pin_to_sibling"                                    "bh_YourStats"
                 "pin_corner_to_sibling"                             "PIN_TOPLEFT"
                 "pin_to_sibling_corner"                             "0"
@@ -422,7 +56,6 @@
                 "tall"                                              "20"
                 "autoResize"                                        "0"
                 "pinCorner"                                         "0"
-                "visible"                                           "1"
                 "enabled"                                           "1"
 
                 "if_mini"
@@ -435,13 +68,13 @@
 
             "stats"
             {
+                "visible"                                           "0"
                 "ControlName"                                       "EditablePanel"
                 "fieldName"                                         "Stats"
                 "xpos"                                              "c-150"
                 "ypos"                                              "r99"
                 "wide"                                              "300"
                 "tall"                                              "40"
-                "visible"                                           "1"
                 "proportionaltoparent"                              "0"
                 "border"                                            "bh_b_NEW"
                 "bgcolor_override"                                  "bh_BGStandard"
@@ -725,6 +358,11 @@
                     "visible"                                       "0"
                 }
             }
+            "xpos"                                                  "0"
+            "ypos"                                                  "0"
+            "zpos"                                                  "50"
+            "wide"                                                  "f0"
+            "tall"                                                  "f0"
 
             "xpbar"
             {
@@ -835,6 +473,188 @@
                 "wide"                                              "p0.85"
             }
         }
+        "xpos"                                                      "0"
+        "ypos"                                                      "0"
+        "wide"                                                      "f0"
+        "tall"                                                      "f0"
+        "border"                                                    "NoBorder"
+
+        "namelabel"
+        {
+            "ypos"                                                  "r-6969"
+            "visible"                                               "0"
+            "enabled"                                               "0"
+            "ControlName"                                           "Label"
+            "fieldName"                                             "NameLabel"
+            "xpos"                                                  "65"
+            "wide"                                                  "f0"
+            "zpos"                                                  "100"
+            "tall"                                                  "20"
+            "font"                                                  "HudFontSmallishBold"
+            "fgcolor_override"                                      "TanLight"
+            "textAlignment"                                         "north-west"
+            "labelText"                                             "%name%"
+            "proportionaltoparent"                                  "1"
+
+            "$_disabled_mini"
+            {
+                "visible"                                           "0"
+            }
+        }
+
+        "descline1"
+        {
+            "xpos"                                                  "c-250"
+            "ypos"                                                  "129"
+            "zpos"                                                  "1"
+            "wide"                                                  "500"
+            "tall"                                                  "20"
+            "textalignment"                                         "center"
+
+            "if_mini"
+            {
+                "ypos"                                              "r20"
+            }
+            "ControlName"                                           "CAutoFittingLabel"
+            "fieldName"                                             "DescLine1"
+            "visible"                                               "1"
+            "enabled"                                               "1"
+            "font"                                                  "HudFontSmallestBold"
+            "fgcolor_override"                                      "TanLight"
+            "textAlignment"                                         "north-west"
+            "labelText"                                             "%desc1%"
+            "proportionaltoparent"                                  "1"
+
+            "$_disabled_mini"
+            {
+                "xpos"                                              "67"
+                "ypos"                                              "4"
+            }
+
+            "fonts"
+            {
+                "0"                                                 "HudFontSmallestBold"
+                "1"                                                 "StorePromotionsTitle"
+                "2"                                                 "FontStorePrice"
+            }
+        }
+
+        "bh_descline1shadow"
+        {
+            "pin_to_sibling"                                        "DescLine1"
+            "pin_corner_to_sibling"                                 "PIN_TOPLEFT"
+            "pin_to_sibling_corner"                                 "0"
+            "ControlName"                                           "CAutoFittingLabel"
+            "fieldName"                                             "bh_DescLine1Shadow"
+            "xpos"                                                  "-1"
+            "ypos"                                                  "-1"
+            "zpos"                                                  "0"
+            "wide"                                                  "500"
+            "tall"                                                  "20"
+            "textalignment"                                         "center"
+            "visible"                                               "1"
+            "enabled"                                               "1"
+            "font"                                                  "HudFontSmallestBold"
+            "fgcolor_override"                                      "bh_Shadow"
+            "labelText"                                             "%desc1%"
+            "proportionaltoparent"                                  "1"
+
+            "fonts"
+            {
+                "0"                                                 "HudFontSmallestBold"
+                "1"                                                 "StorePromotionsTitle"
+                "2"                                                 "FontStorePrice"
+            }
+
+            "colors"
+            {
+                "1"                                                 "bh_Shadow"
+            }
+        }
+
+        "descline2"
+        {
+            "xpos"                                                  "c-250"
+            "ypos"                                                  "139"
+            "zpos"                                                  "1"
+            "wide"                                                  "500"
+            "tall"                                                  "20"
+            "textalignment"                                         "center"
+
+            "if_mini"
+            {
+                "ypos"                                              "r30"
+            }
+            "ControlName"                                           "CAutoFittingLabel"
+            "fieldName"                                             "DescLine2"
+            "visible"                                               "1"
+            "enabled"                                               "1"
+            "font"                                                  "HudFontSmallestBold"
+            "fgcolor_override"                                      "TanLight"
+            "textAlignment"                                         "north-west"
+            "labelText"                                             "%desc2%"
+            "proportionaltoparent"                                  "1"
+
+            "$_disabled_mini"
+            {
+                "xpos"                                              "67"
+                "ypos"                                              "4"
+            }
+
+            "fonts"
+            {
+                "0"                                                 "HudFontSmallestBold"
+                "1"                                                 "StorePromotionsTitle"
+                "2"                                                 "FontStorePrice"
+            }
+
+            "colors"
+            {
+                "1"                                                 "CreditsGreen"
+                "2"                                                 "TanLight"
+            }
+        }
+
+        "bh_descline2shadow"
+        {
+            "pin_to_sibling"                                        "DescLine2"
+            "pin_corner_to_sibling"                                 "PIN_TOPLEFT"
+            "pin_to_sibling_corner"                                 "0"
+            "ControlName"                                           "CAutoFittingLabel"
+            "fieldName"                                             "bh_DescLine2Shadow"
+            "xpos"                                                  "-1"
+            "ypos"                                                  "-1"
+            "zpos"                                                  "0"
+            "wide"                                                  "500"
+            "tall"                                                  "20"
+            "textalignment"                                         "center"
+            "visible"                                               "1"
+            "enabled"                                               "1"
+            "font"                                                  "HudFontSmallestBold"
+            "fgcolor_override"                                      "bh_Shadow"
+            "labelText"                                             "%desc2%"
+            "proportionaltoparent"                                  "1"
+
+            "fonts"
+            {
+                "0"                                                 "HudFontSmallestBold"
+                "1"                                                 "StorePromotionsTitle"
+                "2"                                                 "FontStorePrice"
+            }
+
+            "colors"
+            {
+                "1"                                                 "bh_Shadow"
+            }
+        }
+
+        "levellabel"
+        {
+            "xpos"                                                  "c-75"
+            "ypos"                                                  "129"
+            "wide"                                                  "150"
+            "textalignment"                                         "center"
+        }
         "ControlName"                                               "EditablePanel"
         "fieldName"                                                 "BGPanel"
         "zpos"                                                      "-1"
@@ -849,5 +669,184 @@
             "tall"                                                  "35"
             "wide"                                                  "505"
         }
+    }
+
+    "modelcontainer"
+    {
+        "xpos"                                                      "0"
+        "ypos"                                                      "0"
+        "wide"                                                      "f0"
+        "tall"                                                      "f0"
+
+        "rankmodel"
+        {
+            "xpos"                                                  "c-75"
+            "ypos"                                                  "74"
+            "wide"                                                  "150"
+            "tall"                                                  "70"
+            "fov"                                                   "100"
+            "ControlName"                                           "CBaseModelPanel"
+            "fieldName"                                             "RankModel"
+            "zpos"                                                  "0"
+            "autoResize"                                            "0"
+            "pinCorner"                                             "0"
+            "visible"                                               "1"
+            "enabled"                                               "1"
+            "proportionaltoparent"                                  "1"
+
+            "$_disabled_mini"
+            {
+                "xpos"                                              "cs-0.5-228"
+                "ypos"                                              "cs-0.5"
+                "wide"                                              "200"
+                "tall"                                              "200"
+            }
+            "paintbackground"                                       "0"
+            "render_texture"                                        "0"
+
+            "model"
+            {
+                "force_pos"                                         "1"
+                "modelname"                                         ""
+                "skin"                                              "0"
+                "angles_x"                                          "0"
+                "angles_y"                                          "180"
+                "angles_z"                                          "0"
+                "origin_x"                                          "45"
+                "origin_y"                                          "0"
+                "origin_z"                                          "0"
+                "spotlight"                                         "1"
+
+                "$_disabled_mini"
+                {
+                    "origin_x"                                      "55"
+                }
+
+                "animation"
+                {
+                    "sequence"                                      "idle"
+                    "default"                                       "1"
+                }
+            }
+
+            "lights"
+            {
+
+                "default"
+                {
+                    "name"                                          "directional"
+                    "color"                                         "0.5 0.5 0.5"
+                    "direction"                                     "0.60 0.65 0.2"
+                }
+            }
+        }
+
+        "medalbutton"
+        {
+            "xpos"                                                  "c-50"
+            "ypos"                                                  "74"
+            "wide"                                                  "100"
+            "tall"                                                  "70"
+            "ControlName"                                           "Button"
+            "fieldName"                                             "MedalButton"
+            "zpos"                                                  "100"
+            "proportionaltoparent"                                  "1"
+            "command"                                               "medal_clicked"
+            "actionsignallevel"                                     "2"
+            "labeltext"                                             ""
+            "paintbackground"                                       "0"
+            "backgroundenabled"                                     "0"
+        }
+
+        "abovemodelparticlepanel"
+        {
+            "xpos"                                                  "c-150"
+            "ypos"                                                  "42"
+            "wide"                                                  "300"
+            "tall"                                                  "140"
+            "ControlName"                                           "CTFParticlePanel"
+            "fieldName"                                             "AboveModelParticlePanel"
+            "zpos"                                                  "1"
+            "visible"                                               "1"
+            "proportionaltoparent"                                  "1"
+            "paintbackground"                                       "0"
+
+            "$_disabled_mini"
+            {
+                "xpos"                                              "cs-0.5-228"
+            }
+
+            "particleeffects"
+            {
+
+                "0"
+                {
+                    "particle_xpos"                                 "c0"
+                    "particle_ypos"                                 "c0"
+                    "particle_scale"                                "5"
+                    "particleName"                                  "rankup_glitter"
+                    "start_activated"                               "0"
+                    "loop"                                          "0"
+                }
+
+                "1"
+                {
+                    "particle_xpos"                                 "c0"
+                    "particle_ypos"                                 "c0"
+                    "particle_scale"                                "4"
+                    "particleName"                                  "badgepress_base"
+                    "start_activated"                               "0"
+                    "loop"                                          "0"
+                }
+
+                "2"
+                {
+                    "particle_xpos"                                 "c-8"
+                    "particle_ypos"                                 "c0"
+                    "particle_scale"                                "4"
+                    "particleName"                                  "rankdown_base"
+                    "start_activated"                               "0"
+                    "loop"                                          "0"
+                }
+            }
+        }
+
+        "belowmodelparticlepanel"
+        {
+            "xpos"                                                  "c-150"
+            "ypos"                                                  "42"
+            "wide"                                                  "300"
+            "tall"                                                  "140"
+            "ControlName"                                           "CTFParticlePanel"
+            "fieldName"                                             "BelowModelParticlePanel"
+            "zpos"                                                  "-1"
+            "visible"                                               "1"
+            "proportionaltoparent"                                  "1"
+
+            "$_disabled_mini"
+            {
+                "xpos"                                              "cs-0.5-228"
+            }
+
+            "particleeffects"
+            {
+
+                "0"
+                {
+                    "particle_xpos"                                 "c0"
+                    "particle_ypos"                                 "c0"
+                    "particle_scale"                                "3"
+                    "particleName"                                  "rankup_base"
+                    "start_activated"                               "0"
+                    "loop"                                          "0"
+                }
+            }
+            "paintbackground"                                       "0"
+        }
+        "ControlName"                                               "EditablePanel"
+        "fieldName"                                                 "ModelContainer"
+        "zpos"                                                      "3"
+        "proportionaltoparent"                                      "1"
+        "actionsignallevel"                                         "2"
     }
 }

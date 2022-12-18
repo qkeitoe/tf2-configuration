@@ -13,14 +13,455 @@
 #base "../../#customization/_enabled/bh_dev_menu1.res"
 #base "../../#customization/_enabled/bh_menu_hidefavorites.res"
 #base "../../#customization/_enabled/bh_menu_hidefriends.res"
-#base "../../#customization/_enabled/bh_menu_hidenews.res"
-#base "../../#customization/_enabled/bh_menu_hidegif.res"
 #base "../../#customization/_enabled/bh_feeling_spooky.res"
 #base "../../#customization/_enabled/bh_feeling_festive.res"
 #base "../../_stream/resource/ui/mainmenuoverride.res"
 
 "Resource/UI/MainMenuOverride.res"
 {
+
+    "motd_panel"
+    {
+        "ypos"                                                      "r-6969"
+        "visible"                                                   "0"
+        "enabled"                                                   "0"
+        "pin_to_sibling"                                            "bh_InfoDisplay"
+        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
+        "pin_to_sibling_corner"                                     "0"
+        "xpos"                                                      "0"
+        "zpos"                                                      "3"
+        "wide"                                                      "300"
+        "tall"                                                      "360"
+
+        "motd_headericon"
+        {
+            "ypos"                                                  "r-6969"
+            "visible"                                               "0"
+            "enabled"                                               "0"
+            "ControlName"                                           "ImagePanel"
+            "fieldName"                                             "MOTD_HeaderIcon"
+            "xpos"                                                  "265"
+            "zpos"                                                  "100"
+            "wide"                                                  "25"
+            "tall"                                                  "25"
+            "image"                                                 "class_icons/filter_all_motd"
+            "scaleImage"                                            "1"
+        }
+
+        "motd_label"
+        {
+            "textAlignment"                                         "north"
+            "ControlName"                                           "CExLabel"
+            "fieldName"                                             "MOTD_Label"
+            "font"                                                  "HudFontSmall"
+            "labelText"                                             "%motddate%"
+            "xpos"                                                  "10"
+            "ypos"                                                  "40"
+            "wide"                                                  "300"
+            "tall"                                                  "15"
+            "autoResize"                                            "0"
+            "pinCorner"                                             "0"
+            "visible"                                               "1"
+            "enabled"                                               "1"
+            "fgcolor"                                               "LabelDark"
+        }
+
+        "motd_urlbutton"
+        {
+            "labelText"                                             "#bh_OpenLink"
+            "defaultBgColor_override"                               "bh_Theme_BG20"
+            "armedBgColor_override"                                 "bh_Theme_BG30"
+            "depressedBgColor_override"                             "bh_Theme_BG30"
+            "defaultFgColor_override"                               "bh_Theme_TextSecondary"
+            "armedFgColor_override"                                 "bh_Theme_TextAccent"
+            "depressedFgColor_override"                             "bh_ButtonDepressed"
+            "border_default"                                        "bh_b_NESW"
+            "border_armed"                                          "bh_b_NESW"
+            "ControlName"                                           "CExButton"
+            "fieldName"                                             "MOTD_URLButton"
+            "xpos"                                                  "75"
+            "ypos"                                                  "rs1.2"
+            "wide"                                                  "150"
+            "tall"                                                  "15"
+            "autoResize"                                            "0"
+            "pinCorner"                                             "3"
+            "visible"                                               "1"
+            "enabled"                                               "1"
+            "tabPosition"                                           "0"
+            "textinsetx"                                            "20"
+            "use_proportional_insets"                               "1"
+            "font"                                                  "HudFontSmallestBold"
+            "textAlignment"                                         "center"
+            "dulltext"                                              "0"
+            "brighttext"                                            "0"
+            "default"                                               "1"
+            "command"                                               "motd_viewurl"
+            "proportionaltoparent"                                  "1"
+            "actionsignallevel"                                     "2"
+            "navUp"                                                 "MOTD_CloseButton"
+            "navLeft"                                               "MOTD_PrevButton"
+            "navRight"                                              "MOTD_NextButton"
+            "sound_depressed"                                       "UI/buttonclick.wav"
+            "sound_released"                                        "UI/buttonclickrelease.wav"
+        }
+
+        "motd_closebutton"
+        {
+            "image_drawcolor"                                       "255 255 255 255"
+            "image_armedcolor"                                      "240 134 49 255"
+
+            "subimage"
+            {
+                "image"                                             "replay/thumbnails/menu_icons/close"
+                "ControlName"                                       "ImagePanel"
+                "fieldName"                                         "SubImage"
+                "xpos"                                              "0"
+                "ypos"                                              "0"
+                "zpos"                                              "1"
+                "wide"                                              "14"
+                "tall"                                              "14"
+                "visible"                                           "1"
+                "enabled"                                           "1"
+                "scaleImage"                                        "1"
+            }
+            "ControlName"                                           "CExImageButton"
+            "fieldName"                                             "MOTD_CloseButton"
+            "xpos"                                                  "282"
+            "ypos"                                                  "4"
+            "zpos"                                                  "10"
+            "wide"                                                  "14"
+            "tall"                                                  "14"
+            "autoResize"                                            "0"
+            "pinCorner"                                             "0"
+            "visible"                                               "1"
+            "enabled"                                               "1"
+            "tabPosition"                                           "0"
+            "labeltext"                                             ""
+            "font"                                                  "HudFontSmallBold"
+            "textAlignment"                                         "center"
+            "dulltext"                                              "0"
+            "brighttext"                                            "0"
+            "default"                                               "0"
+            "actionsignallevel"                                     "2"
+            "navDown"                                               "MOTD_URLButton"
+            "navActivate"                                           "<QuickplayButton"
+            "sound_depressed"                                       "UI/buttonclick.wav"
+            "sound_released"                                        "UI/buttonclickrelease.wav"
+            "Command"                                               "motd_hide"
+            "paintbackground"                                       "0"
+            "defaultFgColor_override"                               "46 43 42 255"
+            "armedFgColor_override"                                 "235 226 202 255"
+            "depressedFgColor_override"                             "46 43 42 255"
+        }
+        "ControlName"                                               "EditablePanel"
+        "fieldName"                                                 "MOTD_Panel"
+        "PaintBackgroundType"                                       "2"
+        "paintbackground"                                           "0"
+        "border"                                                    "MainMenuHighlightBorder"
+        "navDown"                                                   "SettingsButton"
+        "navLeft"                                                   "MOTD_ShowButtonPanel"
+        "navToRelay"                                                "MOTD_URLButton"
+
+        "motd_headercontainer"
+        {
+            "ControlName"                                           "EditablePanel"
+            "fieldName"                                             "MOTD_HeaderContainer"
+            "xpos"                                                  "0"
+            "ypos"                                                  "0"
+            "wide"                                                  "300"
+            "tall"                                                  "22"
+            "visible"                                               "1"
+
+            "motd_headerlabel"
+            {
+                "ControlName"                                       "CExLabel"
+                "fieldName"                                         "MOTD_HeaderLabel"
+                "font"                                              "HudFontSmallBold"
+                "textAlignment"                                     "center"
+                "labelText"                                         "%motdheader%"
+                "xpos"                                              "0"
+                "ypos"                                              "0"
+                "wide"                                              "300"
+                "tall"                                              "24"
+                "autoResize"                                        "0"
+                "pinCorner"                                         "0"
+                "visible"                                           "1"
+                "enabled"                                           "1"
+                "PaintBackgroundType"                               "2"
+                "fgcolor_override"                                  "235 226 202 255"
+                "bgcolor_override"                                  "141 178 61 255"
+            }
+        }
+
+        "motd_titlelabel"
+        {
+            "ControlName"                                           "CExLabel"
+            "fieldName"                                             "MOTD_TitleLabel"
+            "font"                                                  "HudFontSmallBold"
+            "labelText"                                             "%motdtitle%"
+            "textAlignment"                                         "west"
+            "xpos"                                                  "10"
+            "ypos"                                                  "25"
+            "wide"                                                  "250"
+            "tall"                                                  "15"
+            "autoResize"                                            "0"
+            "pinCorner"                                             "0"
+            "visible"                                               "1"
+            "enabled"                                               "1"
+            "fgcolor"                                               "LabelDark"
+            "wrap"                                                  "1"
+        }
+
+        "motd_titleimagebg"
+        {
+            "ControlName"                                           "ImagePanel"
+            "fieldName"                                             "MOTD_TitleImageBg"
+            "xpos"                                                  "cs-0.5"
+            "ypos"                                                  "55"
+            "zpos"                                                  "99"
+            "wide"                                                  "250"
+            "tall"                                                  "150"
+            "visible"                                               "1"
+            "enabled"                                               "1"
+            "image"                                                 "item_bg"
+            "scaleImage"                                            "1"
+            "proportionaltoparent"                                  "1"
+        }
+
+        "motd_titleimagecontainer"
+        {
+            "ControlName"                                           "EditablePanel"
+            "fieldName"                                             "MOTD_TitleImageContainer"
+            "xpos"                                                  "cs-0.5"
+            "ypos"                                                  "55"
+            "zpos"                                                  "100"
+            "wide"                                                  "250"
+            "tall"                                                  "150"
+            "visible"                                               "1"
+            "proportionaltoparent"                                  "1"
+
+            "motd_titleimage"
+            {
+                "ControlName"                                       "ImagePanel"
+                "fieldName"                                         "MOTD_TitleImage"
+                "xpos"                                              "0"
+                "ypos"                                              "0"
+                "zpos"                                              "100"
+                "wide"                                              "250"
+                "tall"                                              "250"
+                "visible"                                           "1"
+                "enabled"                                           "1"
+                "image"                                             "class_icons/filter_all"
+                "scaleImage"                                        "0"
+            }
+        }
+
+        "motd_textscroller"
+        {
+            "ControlName"                                           "ScrollableEditablePanel"
+            "fieldName"                                             "MOTD_TextScroller"
+            "xpos"                                                  "20"
+            "ypos"                                                  "215"
+            "wide"                                                  "280"
+            "tall"                                                  "115"
+            "PaintBackgroundType"                                   "2"
+            "fgcolor"                                               "LabelDark"
+
+            "motd_textpanel"
+            {
+                "ControlName"                                       "EditablePanel"
+                "fieldName"                                         "MOTD_TextPanel"
+                "xpos"                                              "0"
+                "ypos"                                              "0"
+                "wide"                                              "250"
+                "tall"                                              "300"
+                "visible"                                           "1"
+                "PaintBackgroundType"                               "2"
+
+                "motd_textlabel"
+                {
+                    "ControlName"                                   "CExLabel"
+                    "fieldName"                                     "MOTD_TextLabel"
+                    "font"                                          "HudFontSmall"
+                    "labelText"                                     "%motdtext%"
+                    "textAlignment"                                 "north-west"
+                    "xpos"                                          "0"
+                    "ypos"                                          "0"
+                    "wide"                                          "250"
+                    "tall"                                          "300"
+                    "autoResize"                                    "0"
+                    "pinCorner"                                     "0"
+                    "visible"                                       "1"
+                    "enabled"                                       "1"
+                    "fgcolor"                                       "LabelDark"
+                    "wrap"                                          "1"
+                }
+            }
+        }
+
+        "motd_prevbutton"
+        {
+            "ControlName"                                           "CExImageButton"
+            "fieldName"                                             "MOTD_PrevButton"
+            "xpos"                                                  "12"
+            "ypos"                                                  "336"
+            "zpos"                                                  "1"
+            "wide"                                                  "20"
+            "tall"                                                  "20"
+            "autoResize"                                            "0"
+            "pinCorner"                                             "3"
+            "visible"                                               "0"
+            "enabled"                                               "1"
+            "tabPosition"                                           "0"
+            "labelText"                                             ""
+            "font"                                                  "HudFontSmallBold"
+            "textAlignment"                                         "center"
+            "dulltext"                                              "0"
+            "brighttext"                                            "0"
+            "default"                                               "1"
+            "Command"                                               "motd_prev"
+            "actionsignallevel"                                     "2"
+            "navUp"                                                 "MOTD_CloseButton"
+            "navRight"                                              "MOTD_URLButton"
+            "sound_depressed"                                       "UI/buttonclick.wav"
+            "sound_released"                                        "UI/buttonclickrelease.wav"
+            "paintbackground"                                       "0"
+            "image_drawcolor"                                       "235 226 202 255"
+            "image_armedcolor"                                      "255 255 255 255"
+
+            "subimage"
+            {
+                "ControlName"                                       "ImagePanel"
+                "fieldName"                                         "SubImage"
+                "xpos"                                              "0"
+                "ypos"                                              "0"
+                "zpos"                                              "1"
+                "wide"                                              "20"
+                "tall"                                              "20"
+                "visible"                                           "1"
+                "enabled"                                           "1"
+                "image"                                             "blog_back"
+                "scaleImage"                                        "1"
+            }
+        }
+
+        "motd_nextbutton"
+        {
+            "ControlName"                                           "CExImageButton"
+            "fieldName"                                             "MOTD_NextButton"
+            "xpos"                                                  "267"
+            "ypos"                                                  "336"
+            "zpos"                                                  "1"
+            "wide"                                                  "20"
+            "tall"                                                  "20"
+            "autoResize"                                            "0"
+            "pinCorner"                                             "3"
+            "visible"                                               "0"
+            "enabled"                                               "1"
+            "tabPosition"                                           "0"
+            "labelText"                                             ""
+            "font"                                                  "HudFontSmallBold"
+            "textAlignment"                                         "center"
+            "dulltext"                                              "0"
+            "brighttext"                                            "0"
+            "default"                                               "1"
+            "Command"                                               "motd_next"
+            "actionsignallevel"                                     "2"
+            "navUp"                                                 "MOTD_CloseButton"
+            "navLeft"                                               "MOTD_URLButton"
+            "sound_depressed"                                       "UI/buttonclick.wav"
+            "sound_released"                                        "UI/buttonclickrelease.wav"
+            "paintbackground"                                       "0"
+            "image_drawcolor"                                       "235 226 202 255"
+            "image_armedcolor"                                      "255 255 255 255"
+
+            "subimage"
+            {
+                "ControlName"                                       "ImagePanel"
+                "fieldName"                                         "SubImage"
+                "xpos"                                              "0"
+                "ypos"                                              "0"
+                "zpos"                                              "1"
+                "wide"                                              "20"
+                "tall"                                              "20"
+                "visible"                                           "1"
+                "enabled"                                           "1"
+                "image"                                             "blog_forward"
+                "scaleImage"                                        "1"
+            }
+        }
+    }
+
+    "background"
+    {
+        "ypos"                                                      "r-6969"
+        "visible"                                                   "0"
+        "enabled"                                                   "0"
+        "ControlName"                                               "ScalableImagePanel"
+        "fieldName"                                                 "Background"
+        "xpos"                                                      "0"
+        "zpos"                                                      "-199"
+        "wide"                                                      "f0"
+        "tall"                                                      "f0"
+        "autoResize"                                                "0"
+        "pinCorner"                                                 "0"
+        "paintborder"                                               "0"
+        "image"                                                     "replay/thumbnails/menu_icons/menugif"
+        "scaleImage"                                                "1"
+        "proportionaltoparent"                                      "1"
+
+        "$_disabled_wider"
+        {
+            "wide"                                                  "f0"
+            "tall"                                                  "o0.628"
+        }
+
+        "$_disabled_taller"
+        {
+            "wide"                                                  "o1.6"
+            "tall"                                                  "f0"
+        }
+
+        "$_disabled_halloween_0"
+        {
+            "image"                                                 "../console/title_team_halloween2011_widescreen"
+        }
+
+        "$_disabled_halloween_1"
+        {
+            "image"                                                 "../console/title_team_halloween2012_widescreen"
+        }
+
+        "$_disabled_halloween_2"
+        {
+            "image"                                                 "../console/title_team_halloween2013_widescreen"
+        }
+
+        "$_disabled_halloween_3"
+        {
+            "image"                                                 "../console/title_team_halloween2014_widescreen"
+        }
+
+        "$_disabled_halloween_4"
+        {
+            "image"                                                 "../console/title_team_halloween2015_widescreen"
+        }
+
+        "$_disabled_halloween_5"
+        {
+            "image"                                                 "../console/title_scream_fortress_2017_widescreen"
+        }
+
+        "$_disabled_fullmoon"
+        {
+            "image"                                                 "../console/title_fullmoon_widescreen"
+        }
+
+        "$_disabled_christmas"
+        {
+            "image"                                                 "../console/background_xmas2020_widescreen"
+        }
+    }
 
     "mainmenuoverride"
     {
@@ -785,77 +1226,6 @@
         "PaintBackgroundType"                                       "2"
     }
 
-    "background"
-    {
-        "ControlName"                                               "ScalableImagePanel"
-        "fieldName"                                                 "Background"
-        "xpos"                                                      "0"
-        "ypos"                                                      "0"
-        "zpos"                                                      "-199"
-        "wide"                                                      "f0"
-        "tall"                                                      "f0"
-        "autoResize"                                                "0"
-        "pinCorner"                                                 "0"
-        "visible"                                                   "1"
-        "enabled"                                                   "1"
-        "paintborder"                                               "0"
-        "image"                                                     "replay/thumbnails/menu_icons/menugif"
-        "scaleImage"                                                "1"
-        "proportionaltoparent"                                      "1"
-
-        "$_disabled_wider"
-        {
-            "wide"                                                  "f0"
-            "tall"                                                  "o0.628"
-        }
-
-        "$_disabled_taller"
-        {
-            "wide"                                                  "o1.6"
-            "tall"                                                  "f0"
-        }
-
-        "$_disabled_halloween_0"
-        {
-            "image"                                                 "../console/title_team_halloween2011_widescreen"
-        }
-
-        "$_disabled_halloween_1"
-        {
-            "image"                                                 "../console/title_team_halloween2012_widescreen"
-        }
-
-        "$_disabled_halloween_2"
-        {
-            "image"                                                 "../console/title_team_halloween2013_widescreen"
-        }
-
-        "$_disabled_halloween_3"
-        {
-            "image"                                                 "../console/title_team_halloween2014_widescreen"
-        }
-
-        "$_disabled_halloween_4"
-        {
-            "image"                                                 "../console/title_team_halloween2015_widescreen"
-        }
-
-        "$_disabled_halloween_5"
-        {
-            "image"                                                 "../console/title_scream_fortress_2017_widescreen"
-        }
-
-        "$_disabled_fullmoon"
-        {
-            "image"                                                 "../console/title_fullmoon_widescreen"
-        }
-
-        "$_disabled_christmas"
-        {
-            "image"                                                 "../console/background_xmas2020_widescreen"
-        }
-    }
-
     "bh_backpack"
     {
         "pin_to_sibling"                                            "bh_CenterPin"
@@ -1034,377 +1404,6 @@
         "paintbackground"                                           "0"
         "sound_depressed"                                           "UI/buttonclick.wav"
         "sound_released"                                            "UI/buttonclickrelease.wav"
-    }
-
-    "motd_panel"
-    {
-        "pin_to_sibling"                                            "bh_InfoDisplay"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-        "xpos"                                                      "0"
-        "ypos"                                                      "0"
-        "zpos"                                                      "3"
-        "wide"                                                      "300"
-        "tall"                                                      "360"
-
-        "motd_headericon"
-        {
-            "ypos"                                                  "r-6969"
-            "visible"                                               "0"
-            "enabled"                                               "0"
-            "ControlName"                                           "ImagePanel"
-            "fieldName"                                             "MOTD_HeaderIcon"
-            "xpos"                                                  "265"
-            "zpos"                                                  "100"
-            "wide"                                                  "25"
-            "tall"                                                  "25"
-            "image"                                                 "class_icons/filter_all_motd"
-            "scaleImage"                                            "1"
-        }
-
-        "motd_label"
-        {
-            "textAlignment"                                         "north"
-            "ControlName"                                           "CExLabel"
-            "fieldName"                                             "MOTD_Label"
-            "font"                                                  "HudFontSmall"
-            "labelText"                                             "%motddate%"
-            "xpos"                                                  "10"
-            "ypos"                                                  "40"
-            "wide"                                                  "300"
-            "tall"                                                  "15"
-            "autoResize"                                            "0"
-            "pinCorner"                                             "0"
-            "visible"                                               "1"
-            "enabled"                                               "1"
-            "fgcolor"                                               "LabelDark"
-        }
-
-        "motd_urlbutton"
-        {
-            "labelText"                                             "#bh_OpenLink"
-            "defaultBgColor_override"                               "bh_Theme_BG20"
-            "armedBgColor_override"                                 "bh_Theme_BG30"
-            "depressedBgColor_override"                             "bh_Theme_BG30"
-            "defaultFgColor_override"                               "bh_Theme_TextSecondary"
-            "armedFgColor_override"                                 "bh_Theme_TextAccent"
-            "depressedFgColor_override"                             "bh_ButtonDepressed"
-            "border_default"                                        "bh_b_NESW"
-            "border_armed"                                          "bh_b_NESW"
-            "ControlName"                                           "CExButton"
-            "fieldName"                                             "MOTD_URLButton"
-            "xpos"                                                  "75"
-            "ypos"                                                  "rs1.2"
-            "wide"                                                  "150"
-            "tall"                                                  "15"
-            "autoResize"                                            "0"
-            "pinCorner"                                             "3"
-            "visible"                                               "1"
-            "enabled"                                               "1"
-            "tabPosition"                                           "0"
-            "textinsetx"                                            "20"
-            "use_proportional_insets"                               "1"
-            "font"                                                  "HudFontSmallestBold"
-            "textAlignment"                                         "center"
-            "dulltext"                                              "0"
-            "brighttext"                                            "0"
-            "default"                                               "1"
-            "command"                                               "motd_viewurl"
-            "proportionaltoparent"                                  "1"
-            "actionsignallevel"                                     "2"
-            "navUp"                                                 "MOTD_CloseButton"
-            "navLeft"                                               "MOTD_PrevButton"
-            "navRight"                                              "MOTD_NextButton"
-            "sound_depressed"                                       "UI/buttonclick.wav"
-            "sound_released"                                        "UI/buttonclickrelease.wav"
-        }
-
-        "motd_closebutton"
-        {
-            "image_drawcolor"                                       "255 255 255 255"
-            "image_armedcolor"                                      "240 134 49 255"
-
-            "subimage"
-            {
-                "image"                                             "replay/thumbnails/menu_icons/close"
-                "ControlName"                                       "ImagePanel"
-                "fieldName"                                         "SubImage"
-                "xpos"                                              "0"
-                "ypos"                                              "0"
-                "zpos"                                              "1"
-                "wide"                                              "14"
-                "tall"                                              "14"
-                "visible"                                           "1"
-                "enabled"                                           "1"
-                "scaleImage"                                        "1"
-            }
-            "ControlName"                                           "CExImageButton"
-            "fieldName"                                             "MOTD_CloseButton"
-            "xpos"                                                  "282"
-            "ypos"                                                  "4"
-            "zpos"                                                  "10"
-            "wide"                                                  "14"
-            "tall"                                                  "14"
-            "autoResize"                                            "0"
-            "pinCorner"                                             "0"
-            "visible"                                               "1"
-            "enabled"                                               "1"
-            "tabPosition"                                           "0"
-            "labeltext"                                             ""
-            "font"                                                  "HudFontSmallBold"
-            "textAlignment"                                         "center"
-            "dulltext"                                              "0"
-            "brighttext"                                            "0"
-            "default"                                               "0"
-            "actionsignallevel"                                     "2"
-            "navDown"                                               "MOTD_URLButton"
-            "navActivate"                                           "<QuickplayButton"
-            "sound_depressed"                                       "UI/buttonclick.wav"
-            "sound_released"                                        "UI/buttonclickrelease.wav"
-            "Command"                                               "motd_hide"
-            "paintbackground"                                       "0"
-            "defaultFgColor_override"                               "46 43 42 255"
-            "armedFgColor_override"                                 "235 226 202 255"
-            "depressedFgColor_override"                             "46 43 42 255"
-        }
-        "ControlName"                                               "EditablePanel"
-        "fieldName"                                                 "MOTD_Panel"
-        "visible"                                                   "0"
-        "PaintBackgroundType"                                       "2"
-        "paintbackground"                                           "0"
-        "border"                                                    "MainMenuHighlightBorder"
-        "navDown"                                                   "SettingsButton"
-        "navLeft"                                                   "MOTD_ShowButtonPanel"
-        "navToRelay"                                                "MOTD_URLButton"
-
-        "motd_headercontainer"
-        {
-            "ControlName"                                           "EditablePanel"
-            "fieldName"                                             "MOTD_HeaderContainer"
-            "xpos"                                                  "0"
-            "ypos"                                                  "0"
-            "wide"                                                  "300"
-            "tall"                                                  "22"
-            "visible"                                               "1"
-
-            "motd_headerlabel"
-            {
-                "ControlName"                                       "CExLabel"
-                "fieldName"                                         "MOTD_HeaderLabel"
-                "font"                                              "HudFontSmallBold"
-                "textAlignment"                                     "center"
-                "labelText"                                         "%motdheader%"
-                "xpos"                                              "0"
-                "ypos"                                              "0"
-                "wide"                                              "300"
-                "tall"                                              "24"
-                "autoResize"                                        "0"
-                "pinCorner"                                         "0"
-                "visible"                                           "1"
-                "enabled"                                           "1"
-                "PaintBackgroundType"                               "2"
-                "fgcolor_override"                                  "235 226 202 255"
-                "bgcolor_override"                                  "141 178 61 255"
-            }
-        }
-
-        "motd_titlelabel"
-        {
-            "ControlName"                                           "CExLabel"
-            "fieldName"                                             "MOTD_TitleLabel"
-            "font"                                                  "HudFontSmallBold"
-            "labelText"                                             "%motdtitle%"
-            "textAlignment"                                         "west"
-            "xpos"                                                  "10"
-            "ypos"                                                  "25"
-            "wide"                                                  "250"
-            "tall"                                                  "15"
-            "autoResize"                                            "0"
-            "pinCorner"                                             "0"
-            "visible"                                               "1"
-            "enabled"                                               "1"
-            "fgcolor"                                               "LabelDark"
-            "wrap"                                                  "1"
-        }
-
-        "motd_titleimagebg"
-        {
-            "ControlName"                                           "ImagePanel"
-            "fieldName"                                             "MOTD_TitleImageBg"
-            "xpos"                                                  "cs-0.5"
-            "ypos"                                                  "55"
-            "zpos"                                                  "99"
-            "wide"                                                  "250"
-            "tall"                                                  "150"
-            "visible"                                               "1"
-            "enabled"                                               "1"
-            "image"                                                 "item_bg"
-            "scaleImage"                                            "1"
-            "proportionaltoparent"                                  "1"
-        }
-
-        "motd_titleimagecontainer"
-        {
-            "ControlName"                                           "EditablePanel"
-            "fieldName"                                             "MOTD_TitleImageContainer"
-            "xpos"                                                  "cs-0.5"
-            "ypos"                                                  "55"
-            "zpos"                                                  "100"
-            "wide"                                                  "250"
-            "tall"                                                  "150"
-            "visible"                                               "1"
-            "proportionaltoparent"                                  "1"
-
-            "motd_titleimage"
-            {
-                "ControlName"                                       "ImagePanel"
-                "fieldName"                                         "MOTD_TitleImage"
-                "xpos"                                              "0"
-                "ypos"                                              "0"
-                "zpos"                                              "100"
-                "wide"                                              "250"
-                "tall"                                              "250"
-                "visible"                                           "1"
-                "enabled"                                           "1"
-                "image"                                             "class_icons/filter_all"
-                "scaleImage"                                        "0"
-            }
-        }
-
-        "motd_textscroller"
-        {
-            "ControlName"                                           "ScrollableEditablePanel"
-            "fieldName"                                             "MOTD_TextScroller"
-            "xpos"                                                  "20"
-            "ypos"                                                  "215"
-            "wide"                                                  "280"
-            "tall"                                                  "115"
-            "PaintBackgroundType"                                   "2"
-            "fgcolor"                                               "LabelDark"
-
-            "motd_textpanel"
-            {
-                "ControlName"                                       "EditablePanel"
-                "fieldName"                                         "MOTD_TextPanel"
-                "xpos"                                              "0"
-                "ypos"                                              "0"
-                "wide"                                              "250"
-                "tall"                                              "300"
-                "visible"                                           "1"
-                "PaintBackgroundType"                               "2"
-
-                "motd_textlabel"
-                {
-                    "ControlName"                                   "CExLabel"
-                    "fieldName"                                     "MOTD_TextLabel"
-                    "font"                                          "HudFontSmall"
-                    "labelText"                                     "%motdtext%"
-                    "textAlignment"                                 "north-west"
-                    "xpos"                                          "0"
-                    "ypos"                                          "0"
-                    "wide"                                          "250"
-                    "tall"                                          "300"
-                    "autoResize"                                    "0"
-                    "pinCorner"                                     "0"
-                    "visible"                                       "1"
-                    "enabled"                                       "1"
-                    "fgcolor"                                       "LabelDark"
-                    "wrap"                                          "1"
-                }
-            }
-        }
-
-        "motd_prevbutton"
-        {
-            "ControlName"                                           "CExImageButton"
-            "fieldName"                                             "MOTD_PrevButton"
-            "xpos"                                                  "12"
-            "ypos"                                                  "336"
-            "zpos"                                                  "1"
-            "wide"                                                  "20"
-            "tall"                                                  "20"
-            "autoResize"                                            "0"
-            "pinCorner"                                             "3"
-            "visible"                                               "0"
-            "enabled"                                               "1"
-            "tabPosition"                                           "0"
-            "labelText"                                             ""
-            "font"                                                  "HudFontSmallBold"
-            "textAlignment"                                         "center"
-            "dulltext"                                              "0"
-            "brighttext"                                            "0"
-            "default"                                               "1"
-            "Command"                                               "motd_prev"
-            "actionsignallevel"                                     "2"
-            "navUp"                                                 "MOTD_CloseButton"
-            "navRight"                                              "MOTD_URLButton"
-            "sound_depressed"                                       "UI/buttonclick.wav"
-            "sound_released"                                        "UI/buttonclickrelease.wav"
-            "paintbackground"                                       "0"
-            "image_drawcolor"                                       "235 226 202 255"
-            "image_armedcolor"                                      "255 255 255 255"
-
-            "subimage"
-            {
-                "ControlName"                                       "ImagePanel"
-                "fieldName"                                         "SubImage"
-                "xpos"                                              "0"
-                "ypos"                                              "0"
-                "zpos"                                              "1"
-                "wide"                                              "20"
-                "tall"                                              "20"
-                "visible"                                           "1"
-                "enabled"                                           "1"
-                "image"                                             "blog_back"
-                "scaleImage"                                        "1"
-            }
-        }
-
-        "motd_nextbutton"
-        {
-            "ControlName"                                           "CExImageButton"
-            "fieldName"                                             "MOTD_NextButton"
-            "xpos"                                                  "267"
-            "ypos"                                                  "336"
-            "zpos"                                                  "1"
-            "wide"                                                  "20"
-            "tall"                                                  "20"
-            "autoResize"                                            "0"
-            "pinCorner"                                             "3"
-            "visible"                                               "0"
-            "enabled"                                               "1"
-            "tabPosition"                                           "0"
-            "labelText"                                             ""
-            "font"                                                  "HudFontSmallBold"
-            "textAlignment"                                         "center"
-            "dulltext"                                              "0"
-            "brighttext"                                            "0"
-            "default"                                               "1"
-            "Command"                                               "motd_next"
-            "actionsignallevel"                                     "2"
-            "navUp"                                                 "MOTD_CloseButton"
-            "navLeft"                                               "MOTD_URLButton"
-            "sound_depressed"                                       "UI/buttonclick.wav"
-            "sound_released"                                        "UI/buttonclickrelease.wav"
-            "paintbackground"                                       "0"
-            "image_drawcolor"                                       "235 226 202 255"
-            "image_armedcolor"                                      "255 255 255 255"
-
-            "subimage"
-            {
-                "ControlName"                                       "ImagePanel"
-                "fieldName"                                         "SubImage"
-                "xpos"                                              "0"
-                "ypos"                                              "0"
-                "zpos"                                              "1"
-                "wide"                                              "20"
-                "tall"                                              "20"
-                "visible"                                           "1"
-                "enabled"                                           "1"
-                "image"                                             "blog_forward"
-                "scaleImage"                                        "1"
-            }
-        }
     }
 
     "notifications_panel"
