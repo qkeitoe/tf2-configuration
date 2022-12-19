@@ -24,19 +24,12 @@ My complete configuration of Team Fortress 2
 
 ## Credits
 * HUD:
-  * [fblue](https://github.com/fblue) for [broeselhud_blue](https://github.com/fblue/broeselhud_blue)
-  * Broesel and [Hypnootize](https://github.com/Hypnootize) for [Broesel Hud](https://github.com/Hypnootize/Broesel-Hud)
-  * [andy013](https://github.com/andy013) for [votehud_custom_font](https://github.com/andy013/votehud_custom_font)
-  * samozvanka for [broesel pyro fix](https://www.teamfortress.tv/post/898069/broeselhud-blue)
-  * [mastercoms](https://github.com/mastercoms) for [Fix for lingering HUD animations on death](https://www.teamfortress.tv/43786/fix-for-lingering-hud-animations-on-death)
-  * [Eniere](https://github.com/Eniere) for [idhud](https://github.com/Eniere/idhud)
-  * [CriticalFlaw](https://github.com/CriticalFlaw) for [TF2 Community HUD Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
-  * [Hypnootize](https://github.com/Hypnootize) for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
-  * [Hypnootize](https://github.com/Hypnootize) and [PapaPeach](https://github.com/PapaPeach) for Speedo (from [sunsethud](https://github.com/Hypnootize/sunsethud) and [xhud](https://github.com/PapaPeach/xhud))
+  * [Hypnootize](https://github.com/Hypnootize) for Speedo (from [sunsethud](https://github.com/Hypnootize/sunsethud))
 * Config:
   * BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
   * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
   * [rbjaxter](https://github.com/rbjaxter) for [bh_recommendedcommands.cfg](https://github.com/rbjaxter/budhud/blob/master/cfg/bh_recommendedcommands.cfg)
+  * [Hypnootize](https://github.com/Hypnootize) for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
 * Crosshairs:
   * leth for [VTF Crosshair pack](https://www.teamfortress.tv/35367/vtf-crosshair-pack) and [HOW TO MAKE VTF CROSSHAIRS](https://www.teamfortress.tv/37767/how-to-make-vtf-crosshairs)
   * jayhyunpae for seeker crosshair
@@ -45,4 +38,4 @@ My complete configuration of Team Fortress 2
   * pixxul for [Less distracting explosions](https://gamebanana.com/mods/12444)
   * shoras for [No explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
 * Misc:
-  * [yttrium](https://github.com/Yttrium-tYcLief) for [Competitive TF2 Viewmodels](https://github.com/Yttrium-tYcLief/CompVMInstaller) and [preload_room](https://github.com/Yttrium-tYcLief/CompVMInstaller/blob/master/Project/CompVMInstaller/Resources/preload_room.bsp)
+  * [yttrium](https://github.com/Yttrium-tYcLief) for [preload_room](https://github.com/Yttrium-tYcLief/CompVMInstaller/blob/master/Project/CompVMInstaller/Resources/preload_room.bsp)
