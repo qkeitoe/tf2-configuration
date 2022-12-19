@@ -21,8 +21,8 @@ hudanimations_manifest
     // To enable the ammo box, be sure you also move the `bh_player_ammobox.res` file in
     // `#customization` into the `_enabled` folder
     ////////////////////////////////////////////////////////////////////////////////////////////////////
-    "file"      "scripts/bh_hudanimations/ammo_animations/bh_ammo_shadow.txt"
-//  "file"      "scripts/bh_hudanimations/ammo_animations/bh_ammo_foreground.txt"
+//  "file"      "scripts/bh_hudanimations/ammo_animations/bh_ammo_shadow.txt"
+    "file"      "scripts/bh_hudanimations/ammo_animations/bh_ammo_foreground.txt"
 //  "file"      "scripts/bh_hudanimations/ammo_animations/bh_ammo_box.txt"
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////
