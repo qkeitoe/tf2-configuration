@@ -1,22 +1,21 @@
-#base "../#users/custom/resource/gamemenu.res"
 
 "Resource/gamemenu.res"
 {
 
     "bh_favorite1"
     {
+        "command"                                                   "engine connect 46.174.52.17:27271"
+        "tooltip"                                                   "ChifirProject | Orange 24/7 | RU - Fast Respawn"
         "label"                                                     ""
-        "command"                                                   "engine connect 162.248.93.239:27015"
         "OnlyAtMenu"                                                "0"
-        "tooltip"                                                   "jump.tf | Beginners (Los Angeles)"
     }
 
     "bh_favorite2"
     {
+        "command"                                                   "engine map itemtest"
+        "tooltip"                                                   "itemtest"
         "label"                                                     ""
-        "command"                                                   "engine connect 74.91.113.87:27025"
         "OnlyAtMenu"                                                "0"
-        "tooltip"                                                   "jumpacademy.tf | Beginners (Chicago)"
     }
 
     "bh_budhudtitle"
