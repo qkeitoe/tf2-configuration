@@ -1,4 +1,3 @@
-#base "../../#users/custom/resource/ui/matchmakingcategorymappanel.res"
 #base "../../_stream/resource/ui/matchmakingcategorymappanel.res"
 
 "Resource/UI/MatchmakingCategoryMapPanel.res"
@@ -17,7 +16,7 @@
 
     "mapnamelabel"
     {
-        "xpos"                                                      "2"
+        "xpos"                                                      "5"
         "ypos"                                                      "-3"
         "ControlName"                                               "Label"
         "fieldName"                                                 "MapNameLabel"
