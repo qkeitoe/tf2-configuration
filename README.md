@@ -38,5 +38,3 @@ My complete configuration of Team Fortress 2
 * Explosions:
   * pixxul for [Less distracting explosions](https://gamebanana.com/mods/12444)
   * shoras for [No explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
-* Misc:
-  * [yttrium](https://github.com/Yttrium-tYcLief) for [preload_room](https://github.com/Yttrium-tYcLief/CompVMInstaller/blob/master/Project/CompVMInstaller/Resources/preload_room.bsp)
