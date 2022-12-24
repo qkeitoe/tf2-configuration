@@ -25,6 +25,7 @@ My complete configuration of Team Fortress 2
 ## Credits
 * HUD:
   * [Hypnootize](https://github.com/Hypnootize) for Speedo (from [sunsethud](https://github.com/Hypnootize/sunsethud))
+  * [Hypnootize](https://github.com/Hypnootize) for `SelectNumber`s (from [m0rehud](https://github.com/Hypnootize/m0rehud/blob/master/resource/ui/charinfoloadoutsubpanel.res))
 * Config:
   * BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
   * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
