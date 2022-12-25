@@ -9,8 +9,28 @@
 #base "../../#customization/_enabled/bh_player_teamindicator.res"
 #base "../../_stream/resource/ui/hudplayerclass.res"
 
-"Resource/UI/Speedo.res"
+"Resource/UI/HudPlayerClass.res"
 {
+
+    "playerstatusclassimage"
+    {
+        "alpha"                                                     "0"
+        "xpos"                                                      "50"
+        "ypos"                                                      "r50"
+        "wide"                                                      "50"
+        "tall"                                                      "50"
+        "ControlName"                                               "CTFClassImage"
+        "fieldName"                                                 "PlayerStatusClassImage"
+        "xpos$_disabled_"                                           "15"
+        "ypos$_disabled_"                                           "r54"
+        "zpos"                                                      "2"
+        "wide$_disabled_"                                           "37"
+        "tall$_disabled_"                                           "37"
+        "visible"                                                   "1"
+        "enabled"                                                   "1"
+        "image"                                                     "../hud/class_scoutred"
+        "scaleImage"                                                "1"
+    }
 
     "speedo_anchor"
     {
@@ -529,25 +549,6 @@
                 "origin_z$_disabled_"                               "-52"
             }
         }
-    }
-
-    "playerstatusclassimage"
-    {
-        "xpos"                                                      "50"
-        "ypos"                                                      "r50"
-        "wide"                                                      "50"
-        "tall"                                                      "50"
-        "ControlName"                                               "CTFClassImage"
-        "fieldName"                                                 "PlayerStatusClassImage"
-        "xpos$_disabled_"                                           "15"
-        "ypos$_disabled_"                                           "r54"
-        "zpos"                                                      "2"
-        "wide$_disabled_"                                           "37"
-        "tall$_disabled_"                                           "37"
-        "visible"                                                   "1"
-        "enabled"                                                   "1"
-        "image"                                                     "../hud/class_scoutred"
-        "scaleImage"                                                "1"
     }
 
     "bh_classmodelpanel"
