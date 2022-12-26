@@ -9,7 +9,7 @@
 		"zpos"						"3"
 		"wide"						"128"
 		"tall"						"128"
-		"visible"					"0" // "1" to enable the team-colored HP cross border
+		"visible"					"1"
 		"enabled"					"1"
 		"image"						"replay/thumbnails/health_border_red"
 		"teambg_2"					"replay/thumbnails/health_border_red"
@@ -40,7 +40,7 @@
 		"xpos"						"75"
 		"ypos"						"83"
 		"zpos"						"4"
-		"wide"						"60" // "59" if the HP cross isn't centered inside the background cross
+		"wide"						"59"
 		"tall"						"60"
 		"visible"					"1"
 		"enabled"					"1"
@@ -58,7 +58,7 @@
 		"tall"						"64"
 		"visible"					"1"
 		"enabled"					"1"
-		"image"						"../hud/health_bg" // "replay/thumbnails/health_bg" for transparent health cross
+		"image"						"replay/thumbnails/health_bg"
 		"scaleImage"				"1"
 	}
 	
