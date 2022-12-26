@@ -30,14 +30,15 @@
 			"paintborder"	"0"
 			"text_forcesize" "2"
 			
-			"model_xpos"	"25"
+			"model_xpos"	"0"
 			"model_ypos"	"3"
 			"model_wide"	"58"		
 			"model_tall"	"34"
 			
 			"text_center"	"1"
 			"text_xpos"		"60"
-			"text_wide"		"190"
+			"text_ypos"		"15"
+			"text_wide"		"160"
 			"name_only"		"1"
 			
 			"noitem_textcolor"		"117 107 94 255"
@@ -118,9 +119,9 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"itemcontainerscroller"
-		"xpos"			"5"
+		"xpos"			"35"
 		"ypos"			"30"
-		"wide"			"265"
+		"wide"			"240"
 		"tall"			"125"
 		"PaintBackgroundType"	"2"
 		"fgcolor_override"	"59 54 48 255"
@@ -132,7 +133,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"itemcontainer"
-		"xpos"			"30"
+		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"240"
 		"tall"			"125"
