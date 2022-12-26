@@ -24,8 +24,15 @@ My complete configuration of Team Fortress 2
 
 ## Credits
 * HUD:
-  * [CriticalFlaw](https://github.com/CriticalFlaw) and others for [TF2HUD.Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
-  * [SiFWolf](https://gamebanana.com/members/1417462) for [Better Consistent and Missing Kill Icons](https://gamebanana.com/mods/406361)
+  * [fblue](https://github.com/fblue) for [broeselhud_blue](https://github.com/fblue/broeselhud_blue)
+  * Broesel and [Hypnootize](https://github.com/Hypnootize) for [Broesel Hud](https://github.com/Hypnootize/Broesel-Hud)
+  * [andy013](https://github.com/andy013) for [votehud_custom_font](https://github.com/andy013/votehud_custom_font)
+  * samozvanka for [broesel pyro fix](https://www.teamfortress.tv/post/898069/broeselhud-blue)
+  * [mastercoms](https://github.com/mastercoms) for [Fix for lingering HUD animations on death](https://www.teamfortress.tv/43786/fix-for-lingering-hud-animations-on-death)
+  * [Eniere](https://github.com/Eniere) for [idhud](https://github.com/Eniere/idhud)
+  * [CriticalFlaw](https://github.com/CriticalFlaw) for [TF2 Community HUD Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
+  * [Hypnootize](https://github.com/Hypnootize) for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
+  * [Hypnootize](https://github.com/Hypnootize) and [PapaPeach](https://github.com/PapaPeach) for Speedo (from [sunsethud](https://github.com/Hypnootize/sunsethud) and [xhud](https://github.com/PapaPeach/xhud))
 * Config:
   * BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
   * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
