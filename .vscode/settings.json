@@ -25,11 +25,11 @@
         "editor.tabSize": 2,
     },
     "[vdf]": {
-        // "editor.insertSpaces": false,
+        "editor.insertSpaces": false,
 
         "files.insertFinalNewline": false,
-        // "files.trimTrailingWhitespace": false,
-        // "files.trimFinalNewlines": false,
+        "files.trimTrailingWhitespace": false,
+        "files.trimFinalNewlines": false,
     },
     "cSpell.words": [
         "ahud",
