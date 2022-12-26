@@ -20,7 +20,7 @@
 		"ControlName"	"CircularProgressBar"
 		"fieldName"	"ProgressBar"
 		"xpos"		"28"
-		"xpos_minmode"		"18"
+		"xpos_minmode"		"cs-0.5+1"
 		"ypos"		"5"
 		"ypos_minmode"		"3"
 		"zpos"		"23"
@@ -34,6 +34,7 @@
 		"enabled"	"1"
 		"fg_image"	"progress_bar_blu"
 		"bg_image"	"progress_bar_blu"
+		"proportionaltoparent"	"1"
 	}
 
 	"Teardrop"
@@ -41,7 +42,7 @@
 		"ControlName"	"CIconPanel"
 		"fieldName"	"Teardrop"
 		"xpos"		"24"
-		"xpos_minmode"		"16"
+		"xpos_minmode"		"cs-0.5+1"
 		"ypos"		"0"
 		"ypos_minmode"		"0"
 		"zpos"		"21"
@@ -54,6 +55,7 @@
 		"scaleImage"	"1"
 		"icon"		"cappoint_progressbar_teardrop"
 		"iconColor"	"255 255 255 255"
+		"proportionaltoparent"	"1"
 	}
 	
 	"TeardropSide"
