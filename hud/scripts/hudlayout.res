@@ -363,7 +363,7 @@
 		"ypos"				"r100"
 		"wide"				"100"
 		"tall"				"100"
-		"xpos_minmode"		"65"
+		"xpos_minmode"		"105"
 		"ypos_minmode"		"r88"
 		"visible" 			"0"
 		"enabled" 			"1"
