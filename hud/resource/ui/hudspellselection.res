@@ -2,12 +2,12 @@
 {		
 	HudSpellMenu
 	{
-		"xpos"			"130"
+		"xpos"			"160"
 
-		"if_killstreak_visible"
-		{
-			"xpos"			"160"
-		}
+//		"if_killstreak_visible"
+//		{
+//			"xpos"			"160"
+//		}
 	}
 			
 	"ItemEffectMeterBG"
