@@ -25,6 +25,7 @@ My complete configuration of Team Fortress 2
 ## Credits
 * HUD:
   * [CriticalFlaw](https://github.com/CriticalFlaw) and others for [TF2HUD.Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
+  * [SiFWolf](https://gamebanana.com/members/1417462) for [Better Consistent and Missing Kill Icons](https://gamebanana.com/mods/406361)
 * Config:
   * BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
   * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
