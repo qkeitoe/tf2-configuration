@@ -32,7 +32,6 @@ My complete configuration of Team Fortress 2
   * [Hypnootize](https://github.com/Hypnootize) for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
 * Crosshairs:
   * leth for [VTF Crosshair pack](https://www.teamfortress.tv/35367/vtf-crosshair-pack) and [HOW TO MAKE VTF CROSSHAIRS](https://www.teamfortress.tv/37767/how-to-make-vtf-crosshairs)
-  * jayhyunpae for seeker crosshair
   * [cfg.tf](https://cfg.tf/tools/crosshairs/)
 * Explosions:
   * pixxul for [Less distracting explosions](https://gamebanana.com/mods/12444)
