@@ -361,11 +361,11 @@
 		}
 		"sniperrifle" // both AWP and Sniper
 		{
-				"dfile"	"vgui/logos/ImprovedKillIcons/d"
-				"dnegfile"	"vgui/logos/ImprovedKillIcons/dneg"
-				"x"		"896"
-				"y"		"672"
-				"width"		"127"
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"16"
+				"y"		"96"
+				"width"		"32"
 				"height"	"32"
 		}
 		"smg"
