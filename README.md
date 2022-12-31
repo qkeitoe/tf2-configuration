@@ -33,6 +33,7 @@ My complete configuration of Team Fortress 2
   * [CriticalFlaw](https://github.com/CriticalFlaw) for [TF2 Community HUD Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
   * [Hypnootize](https://github.com/Hypnootize) for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
   * [Hypnootize](https://github.com/Hypnootize) and [PapaPeach](https://github.com/PapaPeach) for Speedo (from [sunsethud](https://github.com/Hypnootize/sunsethud) and [xhud](https://github.com/PapaPeach/xhud))
+  * [rbjaxter](https://github.com/rbjaxter) for [budhud](https://github.com/rbjaxter/budhud)
 * Config:
   * BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
   * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)

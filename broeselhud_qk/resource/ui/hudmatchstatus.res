@@ -480,7 +480,7 @@
 			{
 				"ControlName"			"CExLabel"
 				"fieldName"				"respawntime"
-				"font"					"PlayerPanelPlayerName"
+				"font"					"Default"
 				"xpos"					"cs-0.5"
 				"ypos"					"0"
 				"zpos"					"5"
@@ -492,6 +492,7 @@
 				"labelText"				"%respawntime%"
 				"textAlignment"			"center"
 				"proportionaltoparent"	"1"
+				"fgcolor"				"255 255 0 255"
 			}
 			"chargeamount"
 			{
@@ -547,12 +548,13 @@
 				"ControlName"			"ImagePanel"
 				"fieldName"				"SkullPanel"
 				"xpos"					"cs-0.5"
+				"ypos"					"21"
 				"zpos"					"1"
-				"wide"					"o1.2"
-				"tall"					"p0.15"
+				"wide"					"7"
+				"tall"					"7"
 				"visible"				"0"
 				"enabled"				"1"
-				"image"					"../HUD/comp_player_status_skull"
+				"image"					"replay\thumbnails\skull"
 				"scaleImage"			"1"
 				"proportionaltoparent"	"1"	
 			}
