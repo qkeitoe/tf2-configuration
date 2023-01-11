@@ -185,3 +185,19 @@ event TeamStatus_PlayerAlive
 	SetVisible SkullPanel  0 0.2
 	SetVisible respawntime 0 0.2
 }
+
+event HudMatchStatus_ShowMatchStartDoors
+{
+}
+
+event HudMatchStatus_ShowMatchWinDoors
+{
+}
+
+event HudMatchStatus_ShowMatchWinDoors_NoOpen
+{
+}
+
+event HudMatchStatus_ShowRankMatch
+{
+}
