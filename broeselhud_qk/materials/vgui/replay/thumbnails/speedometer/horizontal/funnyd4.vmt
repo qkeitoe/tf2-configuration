@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	$basetexture "vgui/replay/thumbnails/xspeed"
+	$basetexture "vgui/replay/thumbnails/speedometer/numbers"
 	$translucent 1
 	$vertexcolor 1
 	$no_fullbright 1
@@ -19,7 +19,7 @@
 	$const_forceupdate 15 // every ($const_forceupdate + 1) updates, do an update even if the threshold above is not reached
 	$const_forceupdate_counter 0
 	$const_forceupdate_tmp 0
-
+	
 	$const_interval	0.035 // update interval
 
 	$temp			0.0
@@ -66,6 +66,7 @@
 	$ten_int_10		0
 
 	Proxies {
+		
 		// Reset oldtime on new map
 		LessOrEqual
 		{
@@ -505,8 +506,7 @@
 		}
 
 
-
-
+		
 		// Copy old value into value_backup so we can revert it if the change is not significant
 		Equals
 		{
@@ -591,9 +591,6 @@
 			resultVar		$const_forceupdate_counter
 		}
 
-
-
-
 		// Display digit
 		Divide
 		{
@@ -604,52 +601,6 @@
 		Int
 		{
 			srcVar1		$thou
-			resultVar	$thou_int
-		}
-		Divide
-		{
-			srcVar1		$value
-			srcVar2		$const_hund
-			resultVar	$hund
-		}
-		Int
-		{
-			srcVar1		$hund
-			resultVar	$hund_int
-		}
-		Divide
-		{
-			srcVar1		$value
-			srcVar2		$const_ten
-			resultVar	$ten
-		}
-		Int
-		{
-			srcVar1		$ten
-			resultVar	$ten_int
-		}
-		Multiply
-		{
-			srcVar1		$thou_int
-			srcVar2		$const_ten
-			resultVar	$thou_int_10
-		}
-		Multiply
-		{
-			srcVar1		$hund_int
-			srcVar2		$const_ten
-			resultVar	$hund_int_10
-		}
-		Multiply
-		{
-			srcVar1		$ten_int
-			srcVar2		$const_ten
-			resultVar	$ten_int_10
-		}
-		Subtract
-		{
-			srcVar1		$hund_int
-			srcVar2		$thou_int_10
 			resultVar	$frame
 		}
 	}

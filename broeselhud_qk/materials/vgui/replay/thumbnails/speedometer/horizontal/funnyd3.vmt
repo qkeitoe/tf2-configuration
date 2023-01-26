@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	$basetexture "vgui/replay/thumbnails/xspeed"
+	$basetexture "vgui/replay/thumbnails/speedometer/numbers"
 	$translucent 1
 	$vertexcolor 1
 	$no_fullbright 1
@@ -507,7 +507,6 @@
 
 
 
-
 		// Copy old value into value_backup so we can revert it if the change is not significant
 		Equals
 		{
@@ -593,6 +592,8 @@
 		}
 
 
+
+
 		// Display digit
 		Divide
 		{
@@ -611,7 +612,8 @@
 			srcVar2		$const_hund
 			resultVar	$hund
 		}
-		Int {
+		Int
+		{
 			srcVar1		$hund
 			resultVar	$hund_int
 		}
@@ -646,8 +648,8 @@
 		}
 		Subtract
 		{
-			srcVar1		$ten_int
-			srcVar2		$hund_int_10
+			srcVar1		$hund_int
+			srcVar2		$thou_int_10
 			resultVar	$frame
 		}
 	}
