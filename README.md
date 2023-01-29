@@ -32,7 +32,8 @@ My complete configuration of Team Fortress 2
   * [Eniere](https://github.com/Eniere) for [idhud](https://github.com/Eniere/idhud)
   * [CriticalFlaw](https://github.com/CriticalFlaw) for [TF2 Community HUD Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
   * [Hypnootize](https://github.com/Hypnootize) for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
-  * [Hypnootize](https://github.com/Hypnootize) and [PapaPeach](https://github.com/PapaPeach) for Speedo (from [sunsethud](https://github.com/Hypnootize/sunsethud) and [xhud](https://github.com/PapaPeach/xhud))
+  * [Hypnootize](https://github.com/Hypnootize) for [speedometer.res](https://github.com/Hypnootize/sunsethud/blob/master/resource/ui/speedometer.res)
+  * [Waldo](https://www.teamfortress.tv/user/Waldo) for [speedometer of absolute speed](https://www.teamfortress.tv/post/1065237/speedometer-in-any-hud)
   * [rbjaxter](https://github.com/rbjaxter) for [budhud](https://github.com/rbjaxter/budhud)
 * Config:
   * BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
