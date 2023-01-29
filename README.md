@@ -33,6 +33,7 @@ My complete configuration of Team Fortress 2
   * [CriticalFlaw](https://github.com/CriticalFlaw) for [TF2 Community HUD Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
   * [Hypnootize](https://github.com/Hypnootize) for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
   * [Hypnootize](https://github.com/Hypnootize) for [speedometer.res](https://github.com/Hypnootize/sunsethud/blob/master/resource/ui/speedometer.res)
+  * [thomas k](https://www.youtube.com/@thomask5944) (?) for [speedometer of horizontal speed](https://www.youtube.com/watch?v=8HV87JZ0go4&lc=Ugy0K8rlIBCvj_-l2xN4AaABAg)
   * [Waldo](https://www.teamfortress.tv/user/Waldo) for [speedometer of absolute speed](https://www.teamfortress.tv/post/1065237/speedometer-in-any-hud)
   * [rbjaxter](https://github.com/rbjaxter) for [budhud](https://github.com/rbjaxter/budhud)
 * Config:
