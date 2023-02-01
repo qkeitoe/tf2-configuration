@@ -5,7 +5,7 @@ My complete configuration of Team Fortress 2
 
 ## Dependencies
 * [mastercomfig](https://github.com/mastercomfig/mastercomfig)
-  * Low preset
+  * Medium Low preset
   * Null-Canceling Movement addon
   * No Tutorial addon (optional)
   * Flat Mouse addon (optional)
