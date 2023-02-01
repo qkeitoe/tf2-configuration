@@ -1,9 +1,10 @@
-My complete configuration of Team Fortress 2
+# My complete configuration of Team Fortress 2
 
 > **Warning**
 > This TF2 configuration is intended for 1024x768 (stretched) resolution. So some stuff may be broken on other resolutions.
 
 ## Dependencies
+
 * [mastercomfig](https://github.com/mastercomfig/mastercomfig)
   * Medium Low preset
   * Null-Canceling Movement addon
@@ -15,14 +16,15 @@ My complete configuration of Team Fortress 2
 * [Smooth textures (Quake-like textures)](https://www.teamfortress.tv/35876/get-quake-like-textures-high-lod-bias-again) (optional)
 
 ## Launch options
-```
--novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
-```
+
+    -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
+
 * `-dxlevel 81` (optional)
   > **Info:**  Add this launch option to your first launch, and then remove it.
 * `-nostartupsound` (optional)
 
 ## Credits
+
 * HUD:
   * fblue for [broeselhud_blue](https://github.com/fblue/broeselhud_blue)
   * Broesel and Hypnootize for [Broesel Hud](https://github.com/Hypnootize/Broesel-Hud)
