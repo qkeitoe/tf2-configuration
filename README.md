@@ -24,6 +24,8 @@
 
 ## Credits
 
+* HUD:
+  * Hypnootize for [lighthud](https://github.com/Hypnootize/lighthud)
 * Config:
   * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
   * rbjaxter for [bh_recommendedcommands.cfg](https://github.com/rbjaxter/budhud/blob/master/cfg/bh_recommendedcommands.cfg)
