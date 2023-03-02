@@ -233,6 +233,18 @@
 		"fieldName"									"mouseoveritempanel"
 		"xpos"										"9999"
 	}
+	"RankModelPanel"
+	{
+		"ControlName"								"CPvPRankPanel"
+		"fieldName"									"RankModelPanel"
+		"xpos"										"9999"
+	}
+	"RankPanel"
+	{
+		"ControlName"								"CPvPRankPanel"
+		"fieldName"									"RankPanel"
+		"xpos"										"9999"
+	}
 	"MenuThumbMissingFix"
 	{
 		"ControlName"								"ImagePanel"
