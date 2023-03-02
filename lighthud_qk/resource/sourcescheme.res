@@ -155,7 +155,7 @@
 
 		"TreeView.BgColor"								"ListBG"
 
-		"Console.TextColor"								"50 205 50 255"
+		"Console.TextColor"								"80 175 115 255"
 		"Console.DevTextColor"							"White"
 	}
 

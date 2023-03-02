@@ -2,7 +2,7 @@
 {
 	"CDamageAccountPanel"
 	{
-		"PositiveColor"	  							"50 205 50 255"
+		"PositiveColor"	  							"Main"
 		"fieldName"									"CDamageAccountPanel"
 		"text_x"									"0"
 		"text_y"									"0"
