@@ -28,9 +28,6 @@
   * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
   * rbjaxter for [bh_recommendedcommands.cfg](https://github.com/rbjaxter/budhud/blob/master/cfg/bh_recommendedcommands.cfg)
   * Hypnootize for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
-* Crosshairs:
-  * leth for [VTF Crosshair pack](https://www.teamfortress.tv/35367/vtf-crosshair-pack) and [HOW TO MAKE VTF CROSSHAIRS](https://www.teamfortress.tv/37767/how-to-make-vtf-crosshairs)
-  * [cfg.tf](https://cfg.tf/tools/crosshairs/)
 * Explosions:
   * pixxul for [Less distracting explosions](https://gamebanana.com/mods/12444)
   * shoras for [No explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
