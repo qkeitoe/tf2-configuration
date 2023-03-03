@@ -7,8 +7,8 @@
 		"White"											"230 232 235 255"
 		"OffWhite"										"200 200 210 255"
 		"DullWhite"										"230 232 235 255"
-		"Orange"										"0 165 255 255"
-		"Blue"											"0 165 255 255"
+		"Orange"										"80 175 115 255"
+		"Blue"											"80 175 115 255"
 		"Black"											"0 0 0 255"
 		"Blank"											"0 0 0 0"
 
@@ -17,13 +17,13 @@
 		"ListBG"										"0 0 0 90"
 
 		"Button"										"60 63 66 255"
-		"ButtonArmed"									"0 165 255 255"
+		"ButtonArmed"									"80 175 115 255"
 		"ButtonText"									"230 232 235 255"
 		"ButtonTextArmed"								"230 232 235 255"
 
 		"CheckButtonText"								"230 232 235 255"
-		"CheckButtonTextArmed"							"0 165 255 255"
-		"CheckButtonFG"									"0 165 255 255"
+		"CheckButtonTextArmed"							"80 175 115 255"
+		"CheckButtonFG"									"80 175 115 255"
 		"CheckButtonBG"									"0 0 0 100"
 	}
 
@@ -155,7 +155,7 @@
 
 		"TreeView.BgColor"								"ListBG"
 
-		"Console.TextColor"								"80 175 115 255"
+		"Console.TextColor"								"Blue"
 		"Console.DevTextColor"							"White"
 	}
 
