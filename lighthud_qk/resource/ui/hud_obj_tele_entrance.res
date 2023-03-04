@@ -382,7 +382,7 @@
 				"fieldName"							"UpgradeLabel"
 				"font"								"ScoreboardVerySmall"
 				"xpos"								"0"
-				"ypos"								"0"
+				"ypos"								"1"
 				"zpos"								"3"
 				"wide"								"35"
 				"tall"								"6"

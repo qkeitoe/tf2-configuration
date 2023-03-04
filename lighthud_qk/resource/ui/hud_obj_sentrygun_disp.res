@@ -309,7 +309,7 @@
 				"fieldName"							"ShellsLabel"
 				"font"								"ScoreboardVerySmall"
 				"xpos"								"0"
-				"ypos"								"0"
+				"ypos"								"1"
 				"zpos"								"1"
 				"wide"								"35"
 				"tall"								"6"
