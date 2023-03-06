@@ -35,7 +35,7 @@
 		"AnimStatsLabelPanel12v12YPos"				"20"
 		"AnimBlueTeamLabel12v12YPos"				"47"
 		"AnimRedTeamLabel12v12YPos"					"47"
-		"AnimStatsContainer12v12YPos"				"-20"
+		"AnimStatsContainer12v12YPos"				"60"
 
 		if_large
 		{
