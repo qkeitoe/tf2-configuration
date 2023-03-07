@@ -1,36 +1,17 @@
 {
-    "cSpell.language": "en",
-
-    "diffEditor.ignoreTrimWhitespace": false,
-
-    "editor.autoIndent": "full",
-    "editor.insertSpaces": true,
-    "editor.renderWhitespace": "all",
-    "editor.rulers": [
-    ],
-    "editor.tabSize": 4,
-    "editor.wordWrap": "on",
-
-    "files.associations": {
-        "*.txt": "vdf"
-    },
-    "files.insertFinalNewline": true,
-    "files.trimTrailingWhitespace": true,
-    "files.trimFinalNewlines": true,
-
     "[cfg]": {
-        "editor.autoIndent": "keep",
+        "editor.autoIndent": "keep"
     },
     "[markdown]": {
-        "editor.tabSize": 2,
+        "editor.tabSize": 2
     },
     "[vdf]": {
         "editor.insertSpaces": false,
-
         "files.insertFinalNewline": false,
-        "files.trimTrailingWhitespace": false,
         "files.trimFinalNewlines": false,
+        "files.trimTrailingWhitespace": false
     },
+    "cSpell.language": "en",
     "cSpell.words": [
         "ahud",
         "bgum",
@@ -74,4 +55,17 @@
         "viewmodels",
         "votehud"
     ],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.autoIndent": "full",
+    "editor.insertSpaces": true,
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [],
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "files.associations": {
+        "*.txt": "vdf"
+    },
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true
 }
