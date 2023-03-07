@@ -79,7 +79,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/crosshairs/crosshair5"
+				"file"		""
 				"x"			"0"
 				"y"			"0"
 				"width"		"64"
