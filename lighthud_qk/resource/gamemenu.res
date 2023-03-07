@@ -48,15 +48,4 @@
 		"command"								"OpenMutePlayerDialog"
 		"OnlyInGame"							"1"
 	}
-	"Disconnect"
-	{
-		"label"									"disconnect"
-		"command"								"engine disconnect"
-		"OnlyInGame"							"1"
-	}
-	"Quit"
-	{
-		"label"									"quit"
-		"command"								"engine replay_confirmquit"
-	}
 }
