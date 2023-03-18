@@ -12,6 +12,7 @@
   * Flat Mouse addon (optional)
   * Disable Pyroland addon (optional)
   * No Soundscapes addon (optional)
+* [Ultimate Offline Jump Pack](https://jump.tf/forum/index.php/topic,3294.msg27678.html) (optional)
 * [Smooth textures (Quake-like textures)](https://www.teamfortress.tv/35876/get-quake-like-textures-high-lod-bias-again) (optional)
 
 ## Launch options
@@ -27,6 +28,7 @@
 * HUD:
   * Hypnootize for [lighthud](https://github.com/Hypnootize/lighthud)
 * Config:
+  * BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
   * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
   * rbjaxter for [bh_recommendedcommands.cfg](https://github.com/rbjaxter/budhud/blob/master/cfg/bh_recommendedcommands.cfg)
   * Hypnootize for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
