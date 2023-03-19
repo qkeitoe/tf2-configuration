@@ -342,7 +342,7 @@
 		"font"			            				"HudFontMediumSmall"
 		"labelText"		        					"%servertimeleft%"
 		"textAlignment"     						"center"
-		"fgcolor"               					"Main"
+		"fgcolor"               					"255 255 0 255"
 
 		"if_mvm"
 		{

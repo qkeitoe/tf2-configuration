@@ -391,7 +391,7 @@
 		"HudIcon_Green"										"GreenSolid"
 		"HudIcon_Red"										"Red"
 
-		"ItemColor"											"White"
+		"ItemColor"											"255 167 42 255"
 		"MenuColor"											"White"
 		"MenuBoxBg"											"TransparentBlack"
 
