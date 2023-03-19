@@ -87,7 +87,7 @@
 		"fieldName"		 							"HTMLMessage"
 		"xpos"			 							"cs-0.5"
 		"ypos"			 							"cs-0.5"
-		"zpos"			 							"1"
+		"zpos"			 							"10"
 		"wide"			 							"400"
 		"tall"			 							"200"
 		"visible"		 							"1"
