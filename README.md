@@ -13,6 +13,8 @@
   * Disable Pyroland addon (optional)
   * No Soundscapes addon (optional)
 * [Ultimate Offline Jump Pack](https://jump.tf/forum/index.php/topic,3294.msg27678.html) (optional)
+* [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
+* [Lawena Stickybomb Trail](https://gamebanana.com/mods/196115) (optional)
 * [Smooth textures (Quake-like textures)](https://www.teamfortress.tv/35876/get-quake-like-textures-high-lod-bias-again) (optional)
 
 ## Launch options
