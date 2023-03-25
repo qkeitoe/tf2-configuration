@@ -864,7 +864,7 @@
 			"1"
 			{
 				"name"										"HeeboUber2"
-				"tall"										"12"
+				"tall"										"14"
 				"antialias" 								"1"
 				"dropshadow"								"1"
 			}
