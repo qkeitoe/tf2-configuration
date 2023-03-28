@@ -27,8 +27,6 @@
 
 ## Credits
 
-* HUD:
-  * Hypnootize for [lighthud](https://github.com/Hypnootize/lighthud)
 * Config:
   * BobbusMcGee for [First person toggle script](https://gamebanana.com/scripts/8831)
   * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
