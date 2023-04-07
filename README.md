@@ -21,7 +21,7 @@
 
     -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 
-* `-dxlevel 81` (optional)
+* `-dxlevel 100` (optional)
   > **Info:**  Add this launch option to your first launch, and then remove it.
 * `-nostartupsound` (optional)
 
