@@ -37,3 +37,5 @@
 * Explosions:
   * pixxul for [Less distracting explosions](https://gamebanana.com/mods/12444)
   * shoras for [No explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
+* HUD:
+  * CriticalFlaw for [Fixed console errors related to missing files](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/678c6ff7d63f0f7220845af7c6f29a86e082b3a2)
