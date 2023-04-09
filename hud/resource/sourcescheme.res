@@ -68,6 +68,8 @@
 		"ComboBoxButton.BgColor"									"Blank"
 		"ComboBoxButton.DisabledBgColor"							"Blank"
 
+		"Console.TextColor"											"100 255 100 255"
+
 		"RadioButton.TextColor"										"TFTextBright"
 		"RadioButton.SelectedTextColor"								"TFTextBright"
 		"RadioButton.ArmedTextColor"								"TFTextMedium"
