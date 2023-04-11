@@ -968,7 +968,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"11"
 				"weight"											"500"
 				"additive"											"0"
@@ -979,7 +979,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"11"
 				"weight"											"500"
 				"additive"											"0"
@@ -1049,7 +1049,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"9"
 				"weight"											"0"
 				"additive"											"0"
@@ -1085,7 +1085,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"11"
 				"weight"											"500"
 				"additive"											"0"
@@ -1458,7 +1458,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"11"
 				"tall_lodef"										"14"
 				"antialias"											"1"
@@ -1576,7 +1576,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"10"
 				"tall_hidef"										"12"
 				"tall_lodef"										"14"
@@ -1775,7 +1775,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"10"
 				"weight"											"400"
 				"additive"											"0"
@@ -1786,7 +1786,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"7"
 				"weight"											"400"
 				"additive"											"0"
@@ -1798,7 +1798,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"10"
 				"tall_hidef"										"12"
 				"tall_lodef"										"14"
@@ -2142,7 +2142,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"11"
 				"weight"											"600"
 				"additive"											"0"
@@ -2288,7 +2288,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"7"
 				"weight"											"500"
 				"additive"											"0"
@@ -2309,7 +2309,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"8"
 				"weight"											"500"
 				"additive"											"0"
@@ -2320,7 +2320,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"11"
 				"weight"											"500"
 				"additive"											"0"
@@ -2628,7 +2628,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"10"
 				"weight"											"400"
 				"additive"											"0"
@@ -2731,7 +2731,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"11"
 				"weight"											"500"
 				"additive"											"0"
@@ -2891,7 +2891,7 @@
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"TF2 Secondary"
 				"tall"												"9"
 				"weight"											"400"
 				"additive"											"0"
