@@ -40,5 +40,5 @@
   * pixxul for [Less distracting explosions](https://gamebanana.com/mods/12444)
   * shoras for [No explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
 * HUD:
-  * CriticalFlaw for [Fixed console errors related to missing files](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/678c6ff7d63f0f7220845af7c6f29a86e082b3a2), [Added a stylized icon for the taunt button](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/f5fe8a8ab4af7279943237ea52646a71d8a87238)
+  * CriticalFlaw for [Fixed console errors related to missing files](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/678c6ff7d63f0f7220845af7c6f29a86e082b3a2), [Added a stylized icon for the taunt button](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/f5fe8a8ab4af7279943237ea52646a71d8a87238), [Fixed item containers appearing misaligned on the Loadout Quickswitch panel](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/233ad0257a4ce899c77b0a0b82670b559e76a19f)
   * [b4nny](https://www.twitch.tv/b4nny) for [enhanced tf2 fonts](https://goo.gl/HVf1Tv)
