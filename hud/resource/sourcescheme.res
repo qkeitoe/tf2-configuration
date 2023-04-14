@@ -36,6 +36,7 @@
 		"SelectionBG2"												"69 64 57 255"  // selection background in window w/o focus
 		"ListBG"													"39 36 34 255"  // background of server browser, buddy list, etc.
 	}
+
 	"BaseSettings"
 	{
 		"Border.Bright"												"TFTanLightDark"  // the lit side of a control
@@ -126,6 +127,14 @@
 		"TextEntry.TextColor"										"TFTextBright"
 		"TextEntry.DisabledTextColor"								"TFTextMedium"
 		"TextEntry.SelectedBgColor"									"TFOrangeBright"
+	}
+
+	"Borders"
+	{
+		"FrameBorder"
+		{
+			"backgroundtype"										"0"
+		}
 	}
 
 	"Fonts"
