@@ -40,6 +40,7 @@
 		{
 			"AnimBlueMedalsYPos"									"50"
 			"AnimRedMedalsYPos"										"50"
+			"AnimStatsContainer12v12YPos"							"68"
 		}
 	}
 
@@ -473,7 +474,9 @@
 						if_large
 						{
 							"tall"									"340"
+							"linespacing"							"20"
 							"linegap"								"1"
+							"horiz_inset"							"0"
 						}
 					}
 				}
@@ -496,6 +499,7 @@
 					{
 						"ypos"										"57"
 						"tall"										"360"
+						"visible"									"0"
 					}
 				}
 			}
@@ -742,7 +746,9 @@
 						if_large
 						{
 							"tall"									"340"
+							"linespacing"							"20"
 							"linegap"								"1"
+							"horiz_inset"							"0"
 						}
 					}
 				}
@@ -765,6 +771,7 @@
 					{
 						"ypos"										"57"
 						"tall"										"360"
+						"visible"									"0"
 					}
 				}
 			}
