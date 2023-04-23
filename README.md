@@ -33,12 +33,6 @@
   * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
   * rbjaxter for [bh_recommendedcommands.cfg](https://github.com/rbjaxter/budhud/blob/master/cfg/bh_recommendedcommands.cfg)
   * Hypnootize for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
-* Crosshairs:
-  * leth for [VTF Crosshair pack](https://www.teamfortress.tv/35367/vtf-crosshair-pack) and [HOW TO MAKE VTF CROSSHAIRS](https://www.teamfortress.tv/37767/how-to-make-vtf-crosshairs)
-  * [cfg.tf](https://cfg.tf/tools/crosshairs/)
-* Explosions:
-  * pixxul for [Less distracting explosions](https://gamebanana.com/mods/12444)
-  * shoras for [No explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
 * HUD:
   * CriticalFlaw for [Fixed console errors related to missing files](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/678c6ff7d63f0f7220845af7c6f29a86e082b3a2) and [Fixed console error for menu_thumb_missing file](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/f07a9a7a1cd2a5c85cc7bb0df90719d788eb80c8), [Added a stylized icon for the taunt button](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/f5fe8a8ab4af7279943237ea52646a71d8a87238), [Fixed item containers appearing misaligned on the Loadout Quickswitch panel](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/233ad0257a4ce899c77b0a0b82670b559e76a19f)
   * horiuchii for [Fix 12 player scroll bar appearing](https://github.com/CriticalFlaw/TF2HUD.Fixes/pull/65)
