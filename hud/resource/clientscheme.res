@@ -964,6 +964,17 @@
 				"dropshadow"										"1"
 			}
 		}
+		"HudFontSmaller"
+		{
+			"1"
+			{
+				"name"												"TF2 Secondary"
+				"tall"												"12"
+				"weight"											"500"
+				"additive"											"0"
+				"antialias"											"1"
+			}
+		}
 		"HudFontSmallest"
 		{
 			"1"
