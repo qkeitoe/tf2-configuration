@@ -36,7 +36,8 @@
         "rbjaxter",
         "recommendedcommands",
         "shoras",
-        "Stickybomb"
+        "Stickybomb",
+        "Viewmodels"
     ],
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.autoIndent": "full",
