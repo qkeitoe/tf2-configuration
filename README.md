@@ -12,6 +12,10 @@
   * Flat Mouse addon (optional)
   * Disable Pyroland addon (optional)
   * No Soundscapes addon (optional)
+  * Customizations (optional):
+    * Weapons:
+      * No Shell Ejection
+      * Explosion Effect: Sapper Destroyed
 * [Ultimate Offline Jump Pack](https://jump.tf/forum/index.php/topic,3294.msg27678.html) (optional)
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 * [Lawena Stickybomb Trail](https://gamebanana.com/mods/196115) (optional)
