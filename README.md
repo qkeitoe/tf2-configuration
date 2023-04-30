@@ -42,3 +42,4 @@
   * horiuchii for [Fix 12 player scroll bar appearing](https://github.com/CriticalFlaw/TF2HUD.Fixes/pull/65)
   * [b4nny](https://www.twitch.tv/b4nny) for [enhanced tf2 fonts](https://goo.gl/HVf1Tv)
   * rbjaxter for [Medic Rainbow Uber Flash](https://github.com/rbjaxter/budhud/blob/master/scripts/bh_hudanimations/medic_animations/bh_medic_chargerainbow.txt)
+  * Hypnootize for [TF2 Hud Crosshairs](https://github.com/Hypnootize/TF2-HUD-Crosshairs)

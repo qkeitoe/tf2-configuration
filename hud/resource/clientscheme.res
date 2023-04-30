@@ -3015,6 +3015,28 @@
 				"antialias"											"1"
 			}
 		}
+
+		"TF2Crosshairs Size:20"
+		{
+			"1"
+			{
+				"name"												"TF2Crosshairs"
+				"tall"												"20"
+				"weight"											"0"
+				"antialias"											"1"
+			}
+		}
+		"TF2Crosshairs Size:20 Blur:1"
+		{
+			"1"
+			{
+				"name"												"TF2Crosshairs"
+				"tall"												"20"
+				"weight"											"0"
+				"antialias"											"1"
+				"blur"												"1"
+			}
+		}
 	}
 
 	"Borders"
@@ -5732,6 +5754,11 @@
 			{
 				"range"												"0x0000 0x007E"
 			}
+		}
+		"8"
+		{
+			"font"													"resource/TF2Crosshairs.ttf"
+			"name"													"TF2Crosshairs"
 		}
 	}
 }
