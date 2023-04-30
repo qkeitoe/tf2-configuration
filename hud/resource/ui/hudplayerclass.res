@@ -418,39 +418,4 @@
 			"auto_wide_tocontents"									"1"
 		}
 	}
-
-	"CustomCrosshair"
-	{
-		"ControlName"												"CExLabel"
-		"fieldName"													"CustomCrosshair"
-		"font"														"TF2Crosshairs Size:20"
-		"xpos"														"cs-0.5"
-		"ypos"														"cs-0.5"
-		"zpos"														"0"
-		"wide"														"f0"
-		"tall"														"f0"
-		"visible"													"1"
-		"enabled"													"1"
-		"textAlignment"												"center"
-		"labelText"													"?"
-		"fgcolor"													"0 255 0 255"
-	}
-	"CustomCrosshairBlurShadow"
-	{
-		"ControlName"												"CExLabel"
-		"fieldName"													"CustomCrosshairBlurShadow"
-		"font"														"TF2Crosshairs Size:20 Blur:1"
-		"xpos"														"0"
-		"ypos"														"0"
-		"zpos"														"-1"
-		"wide"														"f0"
-		"tall"														"f0"
-		"visible"													"1"
-		"enabled"													"1"
-		"textAlignment"												"center"
-		"labelText"													"?"
-		"fgcolor"													"0 0 0 255"
-
-		"pin_to_sibling"											"CustomCrosshair"
-	}
 }
