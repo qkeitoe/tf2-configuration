@@ -17,6 +17,7 @@
       * No Shell Ejection
       * Explosion Effect: Sapper Destroyed
 * [Ultimate Offline Jump Pack](https://jump.tf/forum/index.php/topic,3294.msg27678.html) (optional)
+* [JTimer](https://jump.tf/forum/index.php?topic=904.0) (optional)
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 * [Lawena Stickybomb Trail](https://gamebanana.com/mods/196115) (optional)
 
