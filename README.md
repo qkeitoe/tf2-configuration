@@ -39,7 +39,14 @@
   * rbjaxter for [bh_recommendedcommands.cfg](https://github.com/rbjaxter/budhud/blob/master/cfg/bh_recommendedcommands.cfg)
   * Hypnootize for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
 * HUD:
-  * CriticalFlaw for [Fixed console errors related to missing files](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/678c6ff7d63f0f7220845af7c6f29a86e082b3a2), [Fixed console error for menu_thumb_missing file](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/f07a9a7a1cd2a5c85cc7bb0df90719d788eb80c8), [Added a stylized icon for the taunt button](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/f5fe8a8ab4af7279943237ea52646a71d8a87238), [Fixed item containers appearing misaligned on the Loadout Quickswitch panel](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/233ad0257a4ce899c77b0a0b82670b559e76a19f), [null.wav](https://github.com/CriticalFlaw/TF2HUD.Fixes/blob/main/sound/vo/null.wav), [Updated the Class/Team Selection pages](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/e0ba58a0ddf85ddfbe5984b5725faca061aa7c77), [Updated the Loadout page](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/253bbbf283f051b76cfec8f217b5457687f03bd1)
+  * CriticalFlaw for
+    * [Fixed console errors related to missing files](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/678c6ff7d63f0f7220845af7c6f29a86e082b3a2)
+    * [Fixed console error for menu_thumb_missing file](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/f07a9a7a1cd2a5c85cc7bb0df90719d788eb80c8)
+    * [Added a stylized icon for the taunt button](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/f5fe8a8ab4af7279943237ea52646a71d8a87238)
+    * [Fixed item containers appearing misaligned on the Loadout Quickswitch panel](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/233ad0257a4ce899c77b0a0b82670b559e76a19f)
+    * [Updated the Class/Team Selection pages](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/e0ba58a0ddf85ddfbe5984b5725faca061aa7c77)
+    * [Updated the Loadout page](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/253bbbf283f051b76cfec8f217b5457687f03bd1)
+    * [null.wav](https://github.com/CriticalFlaw/TF2HUD.Fixes/blob/main/sound/vo/null.wav)
   * horiuchii for [Fix 12 player scroll bar appearing](https://github.com/CriticalFlaw/TF2HUD.Fixes/pull/65)
   * [b4nny](https://www.twitch.tv/b4nny) for [enhanced tf2 fonts](https://goo.gl/HVf1Tv)
   * rbjaxter for [Medic Rainbow Uber Flash](https://github.com/rbjaxter/budhud/blob/master/scripts/bh_hudanimations/medic_animations/bh_medic_chargerainbow.txt)
