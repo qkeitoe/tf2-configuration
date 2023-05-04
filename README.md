@@ -46,6 +46,7 @@
     * [Fixed item containers appearing misaligned on the Loadout Quickswitch panel](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/233ad0257a4ce899c77b0a0b82670b559e76a19f)
     * [Updated the Class/Team Selection pages](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/e0ba58a0ddf85ddfbe5984b5725faca061aa7c77)
     * [Updated the Loadout page](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/253bbbf283f051b76cfec8f217b5457687f03bd1)
+    * [classloadoutpanel.res](https://github.com/CriticalFlaw/TF2HUD.Fixes/blob/main/.extras/resource/ui/classloadoutpanel.res)
     * [null.wav](https://github.com/CriticalFlaw/TF2HUD.Fixes/blob/main/sound/vo/null.wav)
   * horiuchii for [Fix 12 player scroll bar appearing](https://github.com/CriticalFlaw/TF2HUD.Fixes/pull/65)
   * [b4nny](https://www.twitch.tv/b4nny) for [enhanced tf2 fonts](https://goo.gl/HVf1Tv)
