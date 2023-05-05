@@ -18,7 +18,7 @@
       * Explosion Effect: Sapper Destroyed
 * [Metamod:Source](https://www.sourcemm.net/downloads.php?branch=stable) (optional)
 * [SourceMod](http://www.sourcemod.net/downloads.php?branch=stable) (optional)
-* Plugins: (optional)
+* Plugins (optional):
   > **Info:** Some plugins require a bit of manual modification to get them to work (e.g. removing hooks of tempus-related event or deleting updater-related stuff).
   * [[Any] Plugin Enable/Disable](https://forums.alliedmods.net/showthread.php?p=1682844)
   * [tempus sourcemod plugins](https://gitlab.com/tempus-2/public/tempus-sourcemod-plugins)
@@ -48,7 +48,7 @@
     -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 
 * `-dxlevel 95` (optional)
-  > **Info:**  Add this launch option to your first launch, and then remove it.
+  > **Info:** Add this launch option to your first launch, and then remove it.
 * `-nostartupsound` (optional)
 
 ## Credits
