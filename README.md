@@ -21,6 +21,15 @@
 * Plugins: (optional)
   * [[Any] Plugin Enable/Disable](https://forums.alliedmods.net/showthread.php?p=1682844)
   * [tempus sourcemod plugins](https://gitlab.com/tempus-2/public/tempus-sourcemod-plugins)
+    * abounce
+    * speedo (conflicts with TF2-Speedometer)
+    * tempus_spook
+    * tempus_spray
+    * tf2_classhealths
+    * tf2_deleteroundtimer
+    * tf2_fcvar
+    * tf2_hide (conflicts with TF2-ECJ-JumpAssist)
+    * tf2_lockcps
   * [groundfix](https://github.com/laurirasanen/groundfix)
   * [SM-SaveLoc](https://github.com/JoinedSenses/SM-SaveLoc)
   * [TF2-NoShake](https://github.com/JoinedSenses/TF2-NoShake)
