@@ -15,7 +15,7 @@
   * Customizations (optional):
     * Weapons:
       * No Shell Ejection
-      * Explosion Effect: Sapper Destroyed
+      * Explosion Effect: Pyro Pool Explosion
 * [Metamod:Source](https://www.sourcemm.net/downloads.php?branch=stable) (optional)
 * [SourceMod](http://www.sourcemod.net/downloads.php?branch=stable) (optional)
 * Plugins (optional):
