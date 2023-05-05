@@ -16,20 +16,20 @@
     * Weapons:
       * No Shell Ejection
       * Explosion Effect: Sapper Destroyed
-* Addons (optional):
-  * [Metamod:Source](https://www.sourcemm.net/downloads.php?branch=stable)
-  * [SourceMod](http://www.sourcemod.net/downloads.php?branch=stable)
-    * [[Any] Plugin Enable/Disable](https://forums.alliedmods.net/showthread.php?p=1682844)
-    * [tempus sourcemod plugins](https://gitlab.com/tempus-2/public/tempus-sourcemod-plugins)
-    * [groundfix](https://github.com/laurirasanen/groundfix)
-    * [SM-SaveLoc](https://github.com/JoinedSenses/SM-SaveLoc)
-    * [TF2-NoShake](https://github.com/JoinedSenses/TF2-NoShake)
-    * [TF2-ECJ-JumpAssist](https://github.com/JoinedSenses/TF2-ECJ-JumpAssist)
-    * [TF2-Speedometer](https://github.com/JoinedSenses/TF2-Speedometer)
-    * [JTimer](https://jump.tf/forum/index.php?topic=904.0)
-    * Build dependencies:
-      * [morecolors.inc](https://github.com/DoctorMcKay/sourcemod-plugins/blob/master/scripting/include/morecolors.inc)
-      * [smlib](https://gitlab.com/counterstrikesource/sm-plugins/smlib)
+* [Metamod:Source](https://www.sourcemm.net/downloads.php?branch=stable) (optional)
+* [SourceMod](http://www.sourcemod.net/downloads.php?branch=stable) (optional)
+* Plugins: (optional)
+  * [[Any] Plugin Enable/Disable](https://forums.alliedmods.net/showthread.php?p=1682844)
+  * [tempus sourcemod plugins](https://gitlab.com/tempus-2/public/tempus-sourcemod-plugins)
+  * [groundfix](https://github.com/laurirasanen/groundfix)
+  * [SM-SaveLoc](https://github.com/JoinedSenses/SM-SaveLoc)
+  * [TF2-NoShake](https://github.com/JoinedSenses/TF2-NoShake)
+  * [TF2-ECJ-JumpAssist](https://github.com/JoinedSenses/TF2-ECJ-JumpAssist)
+  * [TF2-Speedometer](https://github.com/JoinedSenses/TF2-Speedometer)
+  * [JTimer](https://jump.tf/forum/index.php?topic=904.0)
+  * Build dependencies:
+    * [morecolors.inc](https://github.com/DoctorMcKay/sourcemod-plugins/blob/master/scripting/include/morecolors.inc)
+    * [smlib](https://gitlab.com/counterstrikesource/sm-plugins/smlib)
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 * [Lawena Stickybomb Trail](https://gamebanana.com/mods/196115) (optional)
 
