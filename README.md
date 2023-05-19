@@ -20,7 +20,7 @@
 * [SourceMod](http://www.sourcemod.net/downloads.php?branch=stable) (optional)
 * Plugins (optional):
   > **Info:** Some plugins require a bit of manual modification to get them to work on a local server (e.g. removing hooks of tempus-related events or deleting updater-related stuff).
-  * [[Any] Plugin Enable/Disable](https://forums.alliedmods.net/showthread.php?p=1682844)
+  * [\[Any\] Plugin Enable/Disable](https://forums.alliedmods.net/showthread.php?p=1682844)
   * [jumpqol](https://github.com/chrb22/jumpqol)
   * [tempus sourcemod plugins](https://gitlab.com/tempus-2/public/tempus-sourcemod-plugins)
     * abounce
