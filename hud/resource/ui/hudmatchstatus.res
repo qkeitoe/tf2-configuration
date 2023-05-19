@@ -357,11 +357,11 @@
 
 		"team1_grow_dir"											"west"
 		"team1_base_x"												"c-45"
-		"team1_max_expand"											"133"
+		"team1_max_expand"											"239"
 
 		"team2_grow_dir"											"east"
 		"team2_base_x"												"c47"
-		"team2_max_expand"											"133"
+		"team2_max_expand"											"239"
 
 		"playerpanels_kv"
 		{
@@ -431,10 +431,10 @@
 				"fieldName"											"healthbar"
 				"font"												"Default"
 				"xpos"												"0"
-				"ypos"												"19"
+				"ypos"												"20"
 				"zpos"												"5"
 				"wide"												"f0"
-				"tall"												"2"
+				"tall"												"3"
 				"autoResize"										"0"
 				"pinCorner"											"0"
 				"visible"											"1"
@@ -451,10 +451,10 @@
 				"fieldName"											"overhealbar"
 				"font"												"Default"
 				"xpos"												"0"
-				"ypos"												"19"
+				"ypos"												"20"
 				"zpos"												"6"
 				"wide"												"f0"
-				"tall"												"2"
+				"tall"												"3"
 				"autoResize"										"0"
 				"pinCorner"											"0"
 				"visible"											"1"
@@ -522,7 +522,7 @@
 			{
 				"ControlName"										"CExLabel"
 				"fieldName"											"respawntime"
-				"font"												"PlayerPanelPlayerName"
+				"font"												"HudFontSmallBoldShadow"
 				"xpos"												"cs-0.5"
 				"ypos"												"0"
 				"zpos"												"5"
@@ -534,6 +534,7 @@
 				"labelText"											"%respawntime%"
 				"textAlignment"										"center"
 				"proportionaltoparent"								"1"
+				"fgcolor"											"255 255 0 255"
 			}
 			"chargeamount"
 			{
@@ -589,12 +590,13 @@
 				"ControlName"										"ImagePanel"
 				"fieldName"											"SkullPanel"
 				"xpos"												"cs-0.5"
+				"ypos"												"21"
 				"zpos"												"1"
-				"wide"												"o1.2"
-				"tall"												"p0.15"
+				"wide"												"7"
+				"tall"												"7"
 				"visible"											"0"
 				"enabled"											"1"
-				"image"												"../HUD/comp_player_status_skull"
+				"image"												"replay\thumbnails\skull"
 				"scaleImage"										"1"
 				"proportionaltoparent"								"1"
 			}
