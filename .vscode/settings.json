@@ -6,7 +6,8 @@
         "editor.tabSize": 2
     },
     "[vdf]": {
-        "editor.insertSpaces": false
+        "editor.insertSpaces": false,
+        "editor.rulers": [68]
     },
     "cSpell.language": "en",
     "cSpell.words": [
