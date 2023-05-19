@@ -243,6 +243,7 @@
 		"ypos"														"r70" [$WIN32]
 		"xpos"														"50" [$X360]
 		"ypos"														"330" [$X360]
+		"zpos"														"3"
 		"wide"														"500"
 		"tall"														"200"
 		"TextFont"													"Default" [$X360]
@@ -274,7 +275,7 @@
 		"visible"													"0"
 		"enabled"													"1"
 		"xpos"														"c-126"
-		"ypos"														"250"
+		"ypos"														"335"
 		"wide"														"252"
 		"tall"														"35"
 		"tall_minmode"												"28"
@@ -496,7 +497,7 @@
 		"visible"													"1"
 		"enabled"													"1"
 		"xpos"														"r640" [$WIN32]
-		"ypos"														"18" [$WIN32]
+		"ypos"														"37" [$WIN32]
 		"xpos"														"r672" [$X360]
 		"ypos"														"35" [$X360]
 		"wide"														"628"
@@ -505,7 +506,7 @@
 		"MaxDeathNotices"											"4"
 		"IconScale"													"0.35"
 		"LineHeight"												"16"
-		"LineSpacing"												"4"
+		"LineSpacing"												"2"
 		"CornerRadius"												"3"
 		"RightJustify"												"1"  // If 1, draw notices from the right
 
@@ -1241,7 +1242,7 @@
 		"fieldName"													"HudAchievementTracker"
 		"xpos"														"5"
 		"NormalY"													"10"
-		"EngineerY"													"170"
+		"EngineerY"													"190"
 		"zpos"														"2"
 		"wide"														"280"
 		"tall"														"280"
@@ -1370,7 +1371,7 @@
 	{
 		"fieldName"													"HudAlert"
 		"visible"													"0"
-		"enable"													"1"
+		"enabled"													"1"
 		"xpos"														"c-160"
 		"ypos"														"100"
 		"wide"														"320"
