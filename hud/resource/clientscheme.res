@@ -684,7 +684,6 @@
 			"1"
 			{
 				"name"												"Trebuchet MS" [!$OSX]
-				"name"												"Helvetica" [$OSX]
 				"tall"												"18"
 				"weight"											"900"
 				"antialias"											"1"
@@ -1486,7 +1485,6 @@
 				"tall_lodef"										"48"
 				"tall_hidef"										"48"
 				"antialias"											"1"
-				"custom"											"1" [$OSX]
 				"weight"											"500"
 				"weight_lodef"										"800"
 				"weight_hidef"										"1000"
@@ -1501,7 +1499,6 @@
 				"tall_lodef"										"48"
 				"tall_hidef"										"48"
 				"antialias"											"1"
-				"custom"											"1" [$OSX]
 				"weight"											"500"
 				"weight_lodef"										"800"
 				"weight_hidef"										"1000"
@@ -1516,7 +1513,6 @@
 				"tall_lodef"										"36"
 				"tall_hidef"										"36"
 				"antialias"											"1"
-				"custom"											"1" [$OSX]
 				"weight"											"500"
 			}
 		}
@@ -1526,11 +1522,9 @@
 			{
 				"name"												"TF2 Professor"
 				"tall"												"14" [!$OSX]
-				"tall"												"15" [$OSX]
 				"tall_lodef"										"32"
 				"tall_hidef"										"32"
 				"antialias"											"1"
-				"custom"											"1" [$OSX]
 				"weight"											"500"
 			}
 		}
@@ -2010,7 +2004,6 @@
 			{
 				"name"												"Verdana"
 				"tall"												"11" [!$OSX]
-				"tall"												"9" [$OSX]
 				"weight"											"800"
 				"additive"											"0"
 				"antialias"											"1"
@@ -2491,7 +2484,6 @@
 				"name"												"TF2 Professor"
 				"tall"												"20"
 				"antialias"											"1"
-				"custom"											"1" [$OSX]
 				"weight"											"500"
 			}
 		}

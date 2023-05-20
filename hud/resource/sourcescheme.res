@@ -164,16 +164,6 @@
 			}
 		}
 
-		"Default" [$OSX]
-		{
-			"1"
-			{
-				"name"												"Verdana"
-				"tall"												"14"
-				"weight"											"500"
-			}
-		}
-
 		"ServerBrowserSmall"
 		{
 			"1"
@@ -227,10 +217,8 @@
 			"1"
 			{
 				"name"												"Arial" [!$OSX]
-				"name"												"Verdana Bold" [$OSX]
 				"weight"											"1500"
 				"tall"												"16" [!$OSX]
-				"tall"												"18" [$OSX]
 				"antialias"											"1"
 			}
 		}
@@ -240,10 +228,8 @@
 			"1"
 			{
 				"name"												"Arial" [!$OSX]
-				"name"												"Verdana Bold" [$OSX]
 				"weight"											"1500"
 				"tall"												"18" [!$OSX]
-				"tall"												"19" [$OSX]
 				"antialias"											"1"
 			}
 		}
@@ -253,10 +239,8 @@
 			"1"
 			{
 				"name"												"Arial" [!$OSX]
-				"name"												"Verdana" [$OSX]
 				"weight"											"1000"
 				"tall"												"14" [!$OSX]
-				"tall"												"12" [$OSX]
 				"antialias"											"1" [!$OSX]
 			}
 		}
