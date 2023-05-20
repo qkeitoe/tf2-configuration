@@ -266,7 +266,6 @@
 		"xpos_lodef"												"c-150"
 		"ypos"														"0" [$WIN32]
 		"ypos_minmode"												"-14" [$WIN32]
-		"ypos"														"24" [$X360]
 		"zpos"														"2"
 		"wide"														"110"
 		"wide_hidef"												"300"
@@ -275,7 +274,6 @@
 		"visible"													"0"
 		"enabled"													"1"
 		"delta_item_x"												"22" [$WIN32]
-		"delta_item_x"												"115" [$X360]
 		"delta_item_start_y"										"50"
 		"delta_item_end_y"											"70"
 		"PositiveColor"												"0 255 0 255"

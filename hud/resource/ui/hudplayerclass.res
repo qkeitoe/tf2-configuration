@@ -23,8 +23,6 @@
 		"xpos_minmode"												"15" [$WIN32]
 		"ypos"														"r88" [$WIN32]
 		"ypos_minmode"												"r54" [$WIN32]
-		"xpos"														"57" [$X360]
-		"ypos"														"r110" [$X360]
 		"zpos"														"2"
 		"wide"														"75"
 		"wide_minmode"												"37"
@@ -44,8 +42,6 @@
 		"xpos_minmode"												"-5" [$WIN32]
 		"ypos"														"r67" [$WIN32]
 		"ypos_minmode"												"r44" [$WIN32]
-		"xpos"														"35" [$X360]
-		"ypos"														"r89" [$X360]
 		"zpos"														"2"
 		"wide"														"55"
 		"wide_minmode"												"27"
@@ -67,8 +63,6 @@
 		"xpos_minmode"												"-5" [$WIN32]
 		"ypos"														"r67" [$WIN32]
 		"ypos_minmode"												"r44" [$WIN32]
-		"xpos"														"35" [$X360]
-		"ypos"														"r89" [$X360]
 		"zpos"														"7"
 		"wide"														"55"
 		"wide_minmode"												"27"
@@ -88,8 +82,6 @@
 		"xpos_minmode"												"-10" [$WIN32]
 		"ypos"														"r60" [$WIN32]
 		"ypos_minmode"												"r40" [$WIN32]
-		"xpos"														"41" [$X360]
-		"ypos"														"r82" [$X360]
 		"zpos"														"1"
 		"wide"														"100"
 		"tall"														"50"
@@ -111,8 +103,6 @@
 		"xpos_minmode"												"-15" [$WIN32]
 		"ypos"														"r60" [$WIN32]
 		"ypos_minmode"												"r40" [$WIN32]
-		"xpos"														"41" [$X360]
-		"ypos"														"r82" [$X360]
 		"zpos"														"1"
 		"wide"														"109"
 		"tall"														"50"
