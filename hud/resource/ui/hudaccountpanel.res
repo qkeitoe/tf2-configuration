@@ -36,7 +36,7 @@
 		"fieldName"													"MetalIcon"
 		"xpos"														"19"
 		"xpos_lodef"												"12"
-		"ypos"														"116"
+		"ypos"														"119"
 		"ypos_lodef"												"112"
 		"zpos"														"1"
 		"wide"														"10"
