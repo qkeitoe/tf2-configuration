@@ -16,10 +16,10 @@
 		"fieldName"													"HudWeaponAmmo"
 		"visible"													"1"
 		"enabled"													"1"
-		"xpos"														"r95" [$WIN32]
-		"xpos_minmode"												"r85" [$WIN32]
-		"ypos"														"r57" [$WIN32]
-		"ypos_minmode"												"r36" [$WIN32]
+		"xpos"														"r95"
+		"xpos_minmode"												"r85"
+		"ypos"														"r57"
+		"ypos_minmode"												"r36"
 		"wide"														"94"
 		"tall"														"50"
 	}
@@ -57,10 +57,10 @@
 		"fieldName"													"HudItemEffectMeter"
 		"visible"													"1"
 		"enabled"													"1"
-		"xpos"														"r162" [$WIN32]
-		"xpos_minmode"												"r52" [$WIN32]
-		"ypos"														"r52" [$WIN32]
-		"ypos_minmode"												"r50" [$WIN32]
+		"xpos"														"r162"
+		"xpos_minmode"												"r52"
+		"ypos"														"r52"
+		"ypos_minmode"												"r50"
 		"wide"														"100"
 		"tall"														"50"
 		"MeterFG"													"White"
@@ -83,10 +83,10 @@
 		"fieldName"													"HudDemomanCharge"
 		"visible"													"1"
 		"enabled"													"1"
-		"xpos"														"r80" [$WIN32]
-		"xpos_minmode"												"r52" [$WIN32]
-		"ypos"														"r21" [$WIN32]
-		"ypos_minmode"												"r40" [$WIN32]
+		"xpos"														"r80"
+		"xpos_minmode"												"r52"
+		"ypos"														"r21"
+		"ypos_minmode"												"r40"
 		"zpos"														"1"  // draw in front of ammo
 		"wide"														"60"
 		"wide_minmode"												"50"
@@ -100,10 +100,10 @@
 		"fieldName"													"HudBowCharge"
 		"visible"													"1"
 		"enabled"													"1"
-		"xpos"														"r80" [$WIN32]
-		"xpos_minmode"												"r52" [$WIN32]
-		"ypos"														"r21" [$WIN32]
-		"ypos_minmode"												"r40" [$WIN32]
+		"xpos"														"r80"
+		"xpos_minmode"												"r52"
+		"ypos"														"r21"
+		"ypos_minmode"												"r40"
 		"zpos"														"1"  // draw in front of ammo
 		"wide"														"60"
 		"wide_minmode"												"50"
@@ -117,10 +117,10 @@
 		"fieldName"													"HudFlameRocketCharge"
 		"visible"													"1"
 		"enabled"													"1"
-		"xpos"														"r80" [$WIN32]
-		"xpos_minmode"												"r52" [$WIN32]
-		"ypos"														"r21" [$WIN32]
-		"ypos_minmode"												"r40" [$WIN32]
+		"xpos"														"r80"
+		"xpos_minmode"												"r52"
+		"ypos"														"r21"
+		"ypos_minmode"												"r40"
 		"zpos"														"1"  // draw in front of ammo
 		"wide"														"60"
 		"wide_minmode"												"50"
@@ -162,12 +162,12 @@
 		"PlusStyleExpandSelected"									"0.3"
 		"LargeBoxWide"												"110"
 		"LargeBoxTall"												"77"
-		"BoxGap"													"4" [$WIN32]
+		"BoxGap"													"4"
 		"SelectionNumberXPos"										"12"
 		"SelectionNumberYPos"										"4"
 		"IconXPos"													"8"
 		"IconYPos"													"0"
-		"TextYPos"													"70" [$WIN32]
+		"TextYPos"													"70"
 		"ErrorYPos"													"48"
 		"TextColor"													"SelectionTextFg"
 		"MaxSlots"													"6"
@@ -183,9 +183,9 @@
 	"CHudAccountPanel"
 	{
 		"fieldName"													"CHudAccountPanel"
-		"xpos"														"r162" [$WIN32]
-		"ypos"														"r152" [$WIN32]
-		"ypos_minmode"												"r134" [$WIN32]
+		"xpos"														"r162"
+		"ypos"														"r152"
+		"ypos_minmode"												"r134"
 		"wide"														"116"
 		"tall"														"180"
 		"visible"													"1"
@@ -225,8 +225,8 @@
 		"fieldName"													"DisguiseStatus"
 		"visible"													"1"
 		"enabled"													"1"
-		"xpos"														"10" [$WIN32]
-		"ypos"														"r70" [$WIN32]
+		"xpos"														"10"
+		"ypos"														"r70"
 		"zpos"														"3"
 		"wide"														"500"
 		"tall"														"200"
@@ -294,8 +294,8 @@
 		"fieldName"													"BuildingStatus_Spy"
 		"visible"													"1"
 		"enabled"													"1"
-		"xpos"														"0" [$WIN32]
-		"ypos"														"0" [$WIN32]
+		"xpos"														"0"
+		"ypos"														"0"
 		"wide"														"640"
 		"tall"														"480"
 
@@ -477,8 +477,8 @@
 		"fieldName"													"HudDeathNotice"
 		"visible"													"1"
 		"enabled"													"1"
-		"xpos"														"r640" [$WIN32]
-		"ypos"														"37" [$WIN32]
+		"xpos"														"r640"
+		"ypos"														"37"
 		"wide"														"628"
 		"tall"														"468"
 
@@ -496,8 +496,8 @@
 		"IconColor"													"HudWhite"
 		"LocalPlayerColor"											"HUDBlack"
 
-		"BaseBackgroundColor"										"46 43 42 220" [$WIN32]
-		"LocalBackgroundColor"										"245 229 196 200" [$WIN32]
+		"BaseBackgroundColor"										"46 43 42 220"
+		"LocalBackgroundColor"										"245 229 196 200"
 	}
 
 	"HudVehicle"
@@ -590,9 +590,9 @@
 		"visible"													"1"
 		"enabled"													"1"
 		"xpos"														"c-250"
-		"ypos"														"276" [$WIN32]
+		"ypos"														"276"
 		"wide"														"500"
-		"tall"														"136" [$WIN32]
+		"tall"														"136"
 
 		"BgAlpha"													"128"
 
@@ -608,7 +608,7 @@
 		"fieldName"													"HudHistoryResource"
 		"visible"													"0"
 		"enabled"													"0"
-		"xpos"														"r640" [$WIN32]
+		"xpos"														"r640"
 		"wide"														"640"
 		"tall"														"330"
 		"history_gap"												"55"
@@ -714,8 +714,8 @@
 		"fieldName"													"HudVoiceSelfStatus"
 		"visible"													"1"
 		"enabled"													"1"
-		"xpos"														"r42" [$WIN32]
-		"ypos"														"355" [$WIN32]
+		"xpos"														"r42"
+		"ypos"														"355"
 		"wide"														"32"
 		"tall"														"32"
 	}
@@ -725,8 +725,8 @@
 		"fieldName"													"HudVoiceStatus"
 		"visible"													"1"
 		"enabled"													"1"
-		"xpos"														"r145" [$WIN32]
-		"ypos"														"0" [$WIN32]
+		"xpos"														"r145"
+		"ypos"														"0"
 		"wide"														"145"
 		"tall"														"400"
 
@@ -814,7 +814,7 @@
 		"enabled"													"1"
 		"separator_width"											"9"  // distance between the icons (including their backgrounds)
 		"separator_height"											"7"
-		"height_offset"												"0" [$WIN32]  // distance from the bottom of the panel
+		"height_offset"												"0"  // distance from the bottom of the panel
 	}
 
 	"HudCapturePanel"
@@ -952,7 +952,7 @@
 		"fieldName"													"HudChat"
 		"visible"													"1"
 		"enabled"													"1"
-		"xpos"														"10" [$WIN32]
+		"xpos"														"10"
 		"ypos"														"275"
 		"wide"														"320"
 		"tall"														"120"
@@ -1005,7 +1005,7 @@
 		"ypos_hidef"												"c-42"
 		"ypos_lodef"												"c-42"
 		"wide"														"470"
-		"tall"														"200" [$WIN32]
+		"tall"														"200"
 		"PaintBackgroundType"										"0"
 	}
 
@@ -1014,10 +1014,10 @@
 		"fieldName"													"HudDemomanPipes"
 		"visible"													"1"
 		"enabled"													"1"
-		"xpos"														"r162" [$WIN32]
-		"xpos_minmode"												"r110" [$WIN32]
-		"ypos"														"r52" [$WIN32]
-		"ypos_minmode"												"r30" [$WIN32]
+		"xpos"														"r162"
+		"xpos_minmode"												"r110"
+		"ypos"														"r52"
+		"ypos_minmode"												"r30"
 		"wide"														"100"
 		"tall"														"50"
 	}
@@ -1152,11 +1152,11 @@
 		"enabled"													"1"
 		"xpos"														"0"
 		"ypos"														"180"
-		"wide"														"f10" [$WIN32]
+		"wide"														"f10"
 		"tall"														"100"
 	}
 
-	"CriticalPanel" [$WIN32]
+	"CriticalPanel"
 	{
 		"fieldName"													"CriticalPanel"
 		"visible"													"1"
@@ -1167,7 +1167,7 @@
 		"tall"														"25"
 	}
 
-	"HudArenaClassLayout" [$WIN32]
+	"HudArenaClassLayout"
 	{
 		"fieldName"													"HudArenaClassLayout"
 		"visible"													"1"
@@ -1178,7 +1178,7 @@
 		"tall"														"320"
 	}
 
-	"HudArenaVsPanel" [$WIN32]
+	"HudArenaVsPanel"
 	{
 		"fieldName"													"HudArenaVsPanel"
 		"visible"													"1"
@@ -1189,7 +1189,7 @@
 		"tall"														"240"
 	}
 
-	"HudArenaPlayerCount" [$WIN32]
+	"HudArenaPlayerCount"
 	{
 		"fieldName"													"HudArenaPlayerCount"
 		"visible"													"1"

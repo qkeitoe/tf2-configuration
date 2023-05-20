@@ -80,7 +80,7 @@
 		"FrameGrip.Color1"											"TFTanMedium"
 		"FrameGrip.Color2"											"TFDarkBrown"
 		"FrameTitleButton.FgColor"									"TFTanBright"
-		"FrameTitleBar.Font"										"DefaultLarge" [$WIN32]
+		"FrameTitleBar.Font"										"DefaultLarge"
 		"FrameTitleBar.TextColor"									"TFTanBright"
 		"FrameTitleBar.DisabledTextColor"							"TFTanLight"
 
@@ -97,8 +97,8 @@
 		"ListPanel.SelectedBgColor"									"SelectionBG"
 		"ListPanel.SelectedOutOfFocusBgColor"						"SelectionBG2"
 
-		"MainMenu.TextColor"										"TanLight" [$WIN32]
-		"MainMenu.ArmedTextColor"									"117 107  94 255" [$WIN32]
+		"MainMenu.TextColor"										"TanLight"
+		"MainMenu.ArmedTextColor"									"117 107  94 255"
 		"MainMenu.Inset"											"32"
 
 		"Menu.TextInset"											"6"
@@ -141,7 +141,7 @@
 	{
 		"MainMenuFont"
 		{
-			"1" [$WIN32]
+			"1"
 			{
 				"name"												"TF2 Build"
 				"tall"												"18"
@@ -212,36 +212,36 @@
 		}
 
 
-		"AchievementItemTitle" [$WIN32]
+		"AchievementItemTitle"
 		{
 			"1"
 			{
-				"name"												"Arial" [!$OSX]
+				"name"												"Arial"
 				"weight"											"1500"
-				"tall"												"16" [!$OSX]
+				"tall"												"16"
 				"antialias"											"1"
 			}
 		}
 
-		"AchievementItemTitleLarge" [$WIN32]
+		"AchievementItemTitleLarge"
 		{
 			"1"
 			{
-				"name"												"Arial" [!$OSX]
+				"name"												"Arial"
 				"weight"											"1500"
-				"tall"												"18" [!$OSX]
+				"tall"												"18"
 				"antialias"											"1"
 			}
 		}
 
-		"AchievementItemDescription" [$WIN32]
+		"AchievementItemDescription"
 		{
 			"1"
 			{
-				"name"												"Arial" [!$OSX]
+				"name"												"Arial"
 				"weight"											"1000"
-				"tall"												"14" [!$OSX]
-				"antialias"											"1" [!$OSX]
+				"tall"												"14"
+				"antialias"											"1"
 			}
 		}
 

@@ -6,11 +6,11 @@
 		"visible"													"1"
 		"enabled"													"1"
 		"x_offset"													"40"
-		"xpos"														"r174" [$WIN32]
-		"ypos"														"r57" [$WIN32]
-		"xpos_minmode"												"r52" [$WIN32]
-		"ypos_minmode"												"r68" [$WIN32]
-		"x_offset_minmode"											"0" [$WIN32]
+		"xpos"														"r174"
+		"ypos"														"r57"
+		"xpos_minmode"												"r52"
+		"ypos_minmode"												"r68"
+		"x_offset_minmode"											"0"
 		"wide"														"100"
 		"tall"														"50"
 		"MeterFG"													"White"

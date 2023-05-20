@@ -5,10 +5,10 @@
 	{
 		"ControlName"												"EditablePanel"
 		"fieldName"													"HudPlayerHealth"
-		"xpos"														"0" [$WIN32]
-		"xpos_minmode"												"-5" [$WIN32]
-		"ypos"														"r120" [$WIN32]
-		"ypos_minmode"												"r88" [$WIN32]
+		"xpos"														"0"
+		"xpos_minmode"												"-5"
+		"ypos"														"r120"
+		"ypos_minmode"												"r88"
 		"zpos"														"2"
 		"wide"														"f0"
 		"tall"														"120"
@@ -54,15 +54,15 @@
 	{
 		"ControlName"												"ImagePanel"
 		"fieldName"													"PlayerStatusHealthBonusImage"
-		"xpos"														"73" [$WIN32]
-		"xpos_minmode"												"65" [$WIN32]
-		"ypos"														"33" [$WIN32]
-		"ypos_minmode"												"40" [$WIN32]
+		"xpos"														"73"
+		"xpos_minmode"												"65"
+		"ypos"														"33"
+		"ypos_minmode"												"40"
 		"zpos"														"2"
-		"wide"														"55" [$WIN32]
-		"wide_minmode"												"40" [$WIN32]
-		"tall"														"55" [$WIN32]
-		"tall_minmode"												"40" [$WIN32]
+		"wide"														"55"
+		"wide_minmode"												"40"
+		"tall"														"55"
+		"tall_minmode"												"40"
 		"visible"													"0"
 		"enabled"													"1"
 		"image"														"../hud/health_over_bg"
@@ -75,7 +75,7 @@
 		"fieldName"													"PlayerStatusHealthValue"
 		"xpos"														"76"
 		"xpos_minmode"												"61"
-		"ypos"														"52" [$WIN32]
+		"ypos"														"52"
 		"zpos"														"5"
 		"wide"														"50"
 		"tall"														"18"

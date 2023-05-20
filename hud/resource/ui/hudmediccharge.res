@@ -4,10 +4,10 @@
 	{
 		"ControlName"												"CTFImagePanel"
 		"fieldName"													"Background"
-		"xpos"														"r138" [$WIN32]
-		"xpos_minmode"												"r100" [$WIN32]
-		"ypos"														"r69" [$WIN32]
-		"ypos_minmode"												"r34" [$WIN32]
+		"xpos"														"r138"
+		"xpos_minmode"												"r100"
+		"ypos"														"r69"
+		"ypos_minmode"												"r34"
 		"zpos"														"0"
 		"wide"														"130"
 		"tall"														"65"
