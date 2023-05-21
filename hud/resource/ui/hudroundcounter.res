@@ -63,7 +63,5 @@
 
 		"image"														"../hud/comp_round_timer"
 		"scaleimage"												"1"
-
-		"alpha"														"200"
 	}
 }
