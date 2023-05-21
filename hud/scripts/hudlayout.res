@@ -17,9 +17,7 @@
 		"visible"													"1"
 		"enabled"													"1"
 		"xpos"														"r95"
-		"xpos_minmode"												"r85"
 		"ypos"														"r57"
-		"ypos_minmode"												"r36"
 		"wide"														"94"
 		"tall"														"50"
 	}
@@ -46,10 +44,8 @@
 		"tall"														"160"
 
 		"blue_active_xpos"											"16"
-		"blue_active_xpos_minmode"									"55"
 
 		"red_active_xpos"											"106"
-		"red_active_xpos_minmode"									"105"
 	}
 
 	"HudItemEffectMeter"
@@ -58,9 +54,7 @@
 		"visible"													"1"
 		"enabled"													"1"
 		"xpos"														"r162"
-		"xpos_minmode"												"r52"
 		"ypos"														"r52"
-		"ypos_minmode"												"r50"
 		"wide"														"100"
 		"tall"														"50"
 		"MeterFG"													"White"
@@ -84,12 +78,9 @@
 		"visible"													"1"
 		"enabled"													"1"
 		"xpos"														"r80"
-		"xpos_minmode"												"r52"
 		"ypos"														"r21"
-		"ypos_minmode"												"r40"
 		"zpos"														"1"  // draw in front of ammo
 		"wide"														"60"
-		"wide_minmode"												"50"
 		"tall"														"8"
 		"MeterFG"													"White"
 		"MeterBG"													"Gray"
@@ -101,12 +92,9 @@
 		"visible"													"1"
 		"enabled"													"1"
 		"xpos"														"r80"
-		"xpos_minmode"												"r52"
 		"ypos"														"r21"
-		"ypos_minmode"												"r40"
 		"zpos"														"1"  // draw in front of ammo
 		"wide"														"60"
-		"wide_minmode"												"50"
 		"tall"														"8"
 		"MeterFG"													"White"
 		"MeterBG"													"Gray"
@@ -118,12 +106,9 @@
 		"visible"													"1"
 		"enabled"													"1"
 		"xpos"														"r80"
-		"xpos_minmode"												"r52"
 		"ypos"														"r21"
-		"ypos_minmode"												"r40"
 		"zpos"														"1"  // draw in front of ammo
 		"wide"														"60"
-		"wide_minmode"												"50"
 		"tall"														"8"
 		"MeterFG"													"White"
 		"MeterBG"													"Gray"
@@ -151,8 +136,6 @@
 		"ypos"														"0"
 		"tall"														"480"
 		"RightMargin"												"0"
-		"RightMargin_hidef"											"32"
-		"RightMargin_lodef"											"38"
 		"visible"													"1"
 		"enabled"													"1"
 		"SmallBoxWide"												"72"
@@ -185,7 +168,6 @@
 		"fieldName"													"CHudAccountPanel"
 		"xpos"														"r162"
 		"ypos"														"r152"
-		"ypos_minmode"												"r134"
 		"wide"														"116"
 		"tall"														"180"
 		"visible"													"1"
@@ -197,9 +179,7 @@
 	{
 		"fieldName"													"CHealthAccountPanel"
 		"xpos"														"76"
-		"xpos_minmode"												"61"
 		"ypos"														"r152"
-		"ypos_minmode"												"r134"
 		"wide"														"116"
 		"tall"														"180"
 		"visible"													"1"
@@ -241,9 +221,7 @@
 		"ypos"														"285"
 		"wide"														"252"
 		"tall"														"35"
-		"tall_minmode"												"28"
 		"priority"													"40"
-		"priority_lodef"											"5"
 
 		if_vr
 		{
@@ -261,9 +239,7 @@
 		"ypos"														"335"
 		"wide"														"252"
 		"tall"														"35"
-		"tall_minmode"												"28"
 		"priority"													"40"
-		"priority_lodef"											"35"
 
 		"x_offset"													"20"
 		"y_offset"													"20"
@@ -278,7 +254,6 @@
 		"ypos"														"335"
 		"wide"														"252"
 		"tall"														"35"
-		"tall_minmode"												"28"
 		"priority"													"35"
 
 		if_vr
@@ -308,11 +283,7 @@
 		"visible"													"1"
 		"enabled"													"1"
 		"xpos"														"0"
-		"xpos_hidef"												"32"
-		"xpos_lodef"												"40"
 		"ypos"														"0"
-		"ypos_hidef"												"16"
-		"ypos_lodef"												"25"
 		"wide"														"640"
 		"tall"														"480"
 
@@ -341,8 +312,6 @@
 		"ypos"														"r100"
 		"wide"														"100"
 		"tall"														"100"
-		"xpos_minmode"												"65"
-		"ypos_minmode"												"r88"
 		"visible"													"0"
 		"enabled"													"1"
 
@@ -878,13 +847,9 @@
 		"visible"													"1"
 		"enabled"													"1"
 		"xpos"														"c-133"
-		"xpos_lodef"												"c-190"
 		"ypos"														"270"
-		"ypos_lodef"												"250"
 		"wide"														"266"
-		"wide_lodef"												"400"
 		"tall"														"120"
-		"tall_lodef"												"190"
 	}
 
 	"FreezePanel"
@@ -1002,8 +967,6 @@
 		"enabled"													"1"
 		"xpos"														"c-235"
 		"ypos"														"c-52"
-		"ypos_hidef"												"c-42"
-		"ypos_lodef"												"c-42"
 		"wide"														"470"
 		"tall"														"200"
 		"PaintBackgroundType"										"0"
@@ -1015,9 +978,7 @@
 		"visible"													"1"
 		"enabled"													"1"
 		"xpos"														"r162"
-		"xpos_minmode"												"r110"
 		"ypos"														"r52"
-		"ypos_minmode"												"r30"
 		"wide"														"100"
 		"tall"														"50"
 	}
@@ -1029,7 +990,6 @@
 		"enabled"													"1"
 		"xpos"														"c-160"
 		"ypos"														"65"
-		"ypos_lodef"												"75"
 		"wide"														"320"
 		"tall"														"100"
 	}
@@ -1041,7 +1001,6 @@
 		"enabled"													"1"
 		"xpos"														"c-160"
 		"ypos"														"15"
-		"ypos_lodef"												"75"
 		"wide"														"320"
 		"tall"														"300"
 	}
@@ -1053,8 +1012,6 @@
 		"enabled"													"1"
 		"xpos"														"c-160"
 		"ypos"														"75"
-		"ypos_hidef"												"90"
-		"ypos_lodef"												"90"
 		"wide"														"320"
 		"tall"														"100"
 	}
@@ -1066,8 +1023,6 @@
 		"enabled"													"1"
 		"xpos"														"c-160"
 		"ypos"														"75"
-		"ypos_hidef"												"90"
-		"ypos_lodef"												"90"
 		"wide"														"320"
 		"tall"														"150"
 	}
@@ -1091,7 +1046,6 @@
 		"enabled"													"1"
 		"xpos"														"c-160"
 		"ypos"														"65"
-		"ypos_lodef"												"75"
 		"wide"														"320"
 		"tall"														"100"
 	}
@@ -1103,7 +1057,6 @@
 		"enabled"													"1"
 		"xpos"														"c-125"
 		"ypos"														"5"
-		"ypos_lodef"												"75"
 		"zpos"														"2"
 		"wide"														"250"
 		"tall"														"80"
@@ -1116,7 +1069,6 @@
 		"enabled"													"1"
 		"xpos"														"c-90"
 		"ypos"														"-70"
-		"ypos_lodef"												"75"
 		"wide"														"180"
 		"tall"														"65"
 	}
@@ -1128,8 +1080,6 @@
 		"enabled"													"1"
 		"xpos"														"c-160"
 		"ypos"														"30"
-		"ypos_minmode"												"15"
-		"ypos_lodef"												"75"
 		"wide"														"125"
 		"tall"														"70"
 	}
@@ -1374,8 +1324,6 @@
 		"enabled"													"1"
 		"xpos"														"c-235"
 		"ypos"														"c-52"
-		"ypos_hidef"												"c-42"
-		"ypos_lodef"												"c-42"
 		"wide"														"470"
 		"tall"														"200"
 		"PaintBackgroundType"										"0"
