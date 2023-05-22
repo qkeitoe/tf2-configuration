@@ -111,7 +111,7 @@
 		"RichText.SelectedTextColor"								"Black"
 		"RichText.SelectedBgColor"									"Orange"
 
-		"ScrollBar.Wide"											"17"
+		"ScrollBar.Wide"											"10"
 
 		"ScrollBarButton.FgColor"									"White"
 		"ScrollBarButton.BgColor"									"Blank"
