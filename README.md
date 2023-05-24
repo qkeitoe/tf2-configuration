@@ -38,6 +38,7 @@
   * [TF2-ECJ-JumpAssist](https://github.com/JoinedSenses/TF2-ECJ-JumpAssist) (conflicts with tf2_hide)
   * [TF2-Speedometer](https://github.com/JoinedSenses/TF2-Speedometer) (conflicts with speedo) [disabled]
   * [JTimer](https://jump.tf/forum/index.php?topic=904.0)
+  * [TFTurbo](https://forums.alliedmods.net/showthread.php?t=190389)
   * Build dependencies:
     * [morecolors.inc](https://github.com/DoctorMcKay/sourcemod-plugins/blob/master/scripting/include/morecolors.inc)
     * [smlib](https://gitlab.com/counterstrikesource/sm-plugins/smlib)
