@@ -7,7 +7,9 @@
     },
     "[vdf]": {
         "editor.insertSpaces": false,
-        "editor.rulers": [68]
+        "editor.rulers": [
+            68
+        ]
     },
     "cSpell.language": "en",
     "cSpell.words": [
