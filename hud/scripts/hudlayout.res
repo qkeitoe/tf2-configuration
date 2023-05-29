@@ -831,12 +831,12 @@
 	"StatPanel"
 	{
 		"fieldName"													"StatPanel"
-		"visible"													"1"
-		"enabled"													"1"
-		"xpos"														"c-133"
-		"ypos"														"270"
-		"wide"														"266"
-		"tall"														"120"
+		"visible"													"0"
+		"enabled"													"0"
+		"xpos"														"9999"
+		"ypos"														"9999"
+		"wide"														"0"
+		"tall"														"0"
 	}
 
 	"FreezePanel"
