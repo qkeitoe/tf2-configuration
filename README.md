@@ -14,6 +14,7 @@
   * No Soundscapes addon (optional)
   * Customizations (optional):
     * Weapons:
+      * Crosshairs: Plus (Outlined)
       * No Shell Ejection
       * Explosion Effect: Pyro Pool Explosion
 * [Metamod:Source](https://www.sourcemm.net/downloads.php?branch=stable) (optional)
