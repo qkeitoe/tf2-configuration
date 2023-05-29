@@ -72,7 +72,6 @@
     * [Updated the Loadout page](https://github.com/CriticalFlaw/TF2HUD.Fixes/commit/253bbbf283f051b76cfec8f217b5457687f03bd1)
     * [classloadoutpanel.res](https://github.com/CriticalFlaw/TF2HUD.Fixes/blob/main/.extras/resource/ui/classloadoutpanel.res)
     * [null.wav](https://github.com/CriticalFlaw/TF2HUD.Fixes/blob/main/sound/vo/null.wav)
-    * []
   * horiuchii for [Fix 12 player scroll bar appearing](https://github.com/CriticalFlaw/TF2HUD.Fixes/pull/65)
   * [b4nny](https://www.twitch.tv/b4nny) for [enhanced tf2 fonts](https://goo.gl/HVf1Tv)
   * rbjaxter for [Medic Rainbow Uber Flash](https://github.com/rbjaxter/budhud/blob/master/scripts/bh_hudanimations/medic_animations/bh_medic_chargerainbow.txt) and [skull.vtf](https://github.com/rbjaxter/budhud/blob/master/materials/vgui/replay/thumbnails/skull.vtf)
