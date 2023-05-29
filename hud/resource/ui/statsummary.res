@@ -57,36 +57,66 @@
 			"ControlName"											"ImagePanel"
 			"fieldName"												"MapImage"
 			"xpos"													"9999"
+			"ypos"													"9999"
+			"wide"													"0"
+			"tall"													"0"
+			"visible"												"0"
+			"enabled"												"0"
 		}
 		"ContributedLabel"
 		{
 			"ControlName"											"EditablePanel"
 			"fieldName"												"ContributedLabel"
 			"xpos"													"9999"
+			"ypos"													"9999"
+			"wide"													"0"
+			"tall"													"0"
+			"visible"												"0"
+			"enabled"												"0"
 		}
 		"InfoBG"
 		{
 			"ControlName"											"EditablePanel"
 			"fieldName"												"InfoBG"
 			"xpos"													"9999"
+			"ypos"													"9999"
+			"wide"													"0"
+			"tall"													"0"
+			"visible"												"0"
+			"enabled"												"0"
 		}
 		"Title"
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"Title"
 			"xpos"													"9999"
+			"ypos"													"9999"
+			"wide"													"0"
+			"tall"													"0"
+			"visible"												"0"
+			"enabled"												"0"
 		}
 		"MapAuthors"
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"MapAuthors"
 			"xpos"													"9999"
+			"ypos"													"9999"
+			"wide"													"0"
+			"tall"													"0"
+			"visible"												"0"
+			"enabled"												"0"
 		}
 		"MapLeaderboardTitle"
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"MapLeaderboardTitle"
 			"xpos"													"9999"
+			"ypos"													"9999"
+			"wide"													"0"
+			"tall"													"0"
+			"visible"												"0"
+			"enabled"												"0"
 		}
 	}
 
@@ -149,6 +179,11 @@
 		"ControlName"												"EditablePanel"
 		"fieldName"													"StatData"
 		"xpos"														"9999"
+		"ypos"														"9999"
+		"wide"														"0"
+		"tall"														"0"
+		"visible"													"0"
+		"enabled"													"0"
 	}
 
 	"TipImage"
@@ -189,29 +224,54 @@
 		"ControlName"												"Button"
 		"fieldName"													"NextTipButton"
 		"xpos"														"9999"
+		"ypos"														"9999"
+		"wide"														"0"
+		"tall"														"0"
+		"visible"													"0"
+		"enabled"													"0"
 	}
 	"ResetStatsButton"
 	{
 		"ControlName"												"Button"
 		"fieldName"													"ResetStatsButton"
 		"xpos"														"9999"
+		"ypos"														"9999"
+		"wide"														"0"
+		"tall"														"0"
+		"visible"													"0"
+		"enabled"													"0"
 	}
 	"CloseButton"
 	{
 		"ControlName"												"Button"
 		"fieldName"													"CloseButton"
 		"xpos"														"9999"
+		"ypos"														"9999"
+		"wide"														"0"
+		"tall"														"0"
+		"visible"													"0"
+		"enabled"													"0"
 	}
 	"Footer"
 	{
 		"ControlName"												"CTFFooter"
 		"fieldName"													"Footer"
 		"xpos"														"9999"
+		"ypos"														"9999"
+		"wide"														"0"
+		"tall"														"0"
+		"visible"													"0"
+		"enabled"													"0"
 	}
 	"TitleBanner"
 	{
 		"ControlName"												"ImagePanel"
 		"fieldName"													"TitleBanner"
 		"xpos"														"9999"
+		"ypos"														"9999"
+		"wide"														"0"
+		"tall"														"0"
+		"visible"													"0"
+		"enabled"													"0"
 	}
 }
