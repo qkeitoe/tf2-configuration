@@ -20,7 +20,7 @@
 		"fieldName"													"TopBar"
 		"xpos"														"0"
 		"ypos"														"0"
-		"tall"														"20"
+		"tall"														"26"
 		"wide"														"f0"
 		"autoResize"												"0"
 		"pinCorner"													"0"

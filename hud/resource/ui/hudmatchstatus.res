@@ -327,7 +327,7 @@
 		"ControlName"												"CTFTeamStatus"
 		"fieldName"													"TeamStatus"
 		"xpos"														"0"
-		"ypos"														"0"
+		"ypos"														"2"
 		"zpos"														"2"
 		"wide"														"f0"
 		"tall"														"75"
@@ -340,11 +340,11 @@
 		"12v12_gap"													"1"
 
 		"team1_grow_dir"											"west"
-		"team1_base_x"												"c-45"
+		"team1_base_x"												"c-47"
 		"team1_max_expand"											"239"
 
 		"team2_grow_dir"											"east"
-		"team2_base_x"												"c47"
+		"team2_base_x"												"c49"
 		"team2_max_expand"											"239"
 
 		"playerpanels_kv"
