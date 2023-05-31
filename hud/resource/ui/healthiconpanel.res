@@ -28,5 +28,7 @@
 		"TFFont"													"HudFontSmall"
 		"TextColor"													"HudOffWhite"
 		"autoResize"												"1"
+
+		"HealthBonusPosAdj"											"10"
 	}
 }
