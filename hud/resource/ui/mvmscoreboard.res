@@ -4,7 +4,7 @@
 	{
 		"ControlName"												"CWaveStatusPanel"
 		"fieldName"													"WaveStatusPanel"
-		"xpos"														"0"
+		"xpos"														"cs-0.5"
 		"ypos"														"8"
 		"zpos"														"0"
 		"wide"														"600"
@@ -13,6 +13,8 @@
 		"enabled"													"1"
 
 		"verbose"													"1"
+
+		"proportionaltoparent"										"1"
 	}
 
 	"PopFileLabel"
@@ -72,7 +74,7 @@
 	{
 		"ControlName"												"ScalableImagePanel"
 		"fieldName"													"PlayerListBackground"
-		"xpos"														"25"
+		"xpos"														"cs-0.5"
 		"ypos"														"75"
 		"zpos"														"-1"
 		"wide"														"550"
@@ -88,13 +90,15 @@
 
 		"draw_corner_width"											"5"  // screen size of the corners ( and sides ), proportional
 		"draw_corner_height"										"5"
+
+		"proportionaltoparent"										"1"
 	}
 
 	"MvMPlayerList"
 	{
 		"ControlName"												"SectionedListPanel"
 		"fieldName"													"MvMPlayerList"
-		"xpos"														"35"
+		"xpos"														"cs-0.5"
 		"ypos"														"79"
 		"wide"														"530"
 		"tall"														"148"
@@ -105,17 +109,21 @@
 		"autoresize"												"3"
 		"linespacing"												"22"
 		"textcolor"													"White"
+
+		"proportionaltoparent"										"1"
 	}
 
 	"CreditStatsContainer"
 	{
 		"ControlName"												"EditablePanel"
 		"fieldName"													"CreditStatsContainer"
-		"xpos"														"100"
+		"xpos"														"cs-0.5"
 		"ypos"														"230"
 		"wide"														"400"
 		"tall"														"205"
 		"visible"													"1"
+
+		"proportionaltoparent"										"1"
 
 		"CreditStatsBackground"
 		{
