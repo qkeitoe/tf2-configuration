@@ -45,11 +45,3 @@ event HudSpyDisguiseChanged
 
 	RunEvent HudSpyDisguiseHide 0.7
 }
-
-event HudSpyDisguiseHide
-{
-	Animate PlayerStatusSpyOutlineImage Position "3 413" Linear 0.0 0.2
-	Animate PlayerStatusSpyOutlineImage Size "55 55" Linear 0.0 0.2
-
-	Animate PlayerStatusSpyOutlineImage Alpha "0" Linear 0.2 0.1
-}
