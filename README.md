@@ -43,7 +43,8 @@
     * [morecolors.inc](https://github.com/DoctorMcKay/sourcemod-plugins/blob/master/scripting/include/morecolors.inc)
     * [smlib](https://gitlab.com/counterstrikesource/sm-plugins/smlib)
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
-* [Lawena Stickybomb Trail](https://gamebanana.com/mods/196115) (optional)
+* [stickybomb.pcf](https://discord.com/channels/373855931169243146/373855931169243149/1057117208205066311) (optional)
+* [TF2 Texture Improvement Project: Rockettrails](https://gamebanana.com/mods/12389) (optional)
 
 ## Launch options
 
