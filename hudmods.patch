@@ -1,5 +1,5 @@
-﻿diff --git a/speedo/materials/vgui/replay/thumbnails/speedo/mod.vmt b/speedo/materials/vgui/replay/thumbnails/speedo/mod.vmt
-index c2683dc..42fdde9 100644
+diff --git a/speedo/materials/vgui/replay/thumbnails/speedo/mod.vmt b/speedo/materials/vgui/replay/thumbnails/speedo/mod.vmt
+index c2683dc..e50a7c2 100644
 --- a/speedo/materials/vgui/replay/thumbnails/speedo/mod.vmt
 +++ b/speedo/materials/vgui/replay/thumbnails/speedo/mod.vmt
 @@ -1,9 +1,9 @@
@@ -10,9 +10,8 @@ index c2683dc..42fdde9 100644
 +	$basetexture "vgui/replay/thumbnails/speedo/digits_trebuchet"
  
  	$translucent 1 $vertexcolor 1 $no_fullbright 1 $ignorez 1
--	
+ 	
 -	// $color "[1 0.8 0.8]"
-+
 +	$color "[1 0.8 0.8]"
  	// $alpha 0.75
  }
