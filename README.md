@@ -61,6 +61,7 @@
 * [Valve](https://www.valvesoftware.com/en/)
 
 * Config:
+  * makly for `v_pitch` and `v_yaw`
   * ondkaja for [Collection of useful generic jumping scripts](https://jump.tf/forum/index.php?topic=3299.0)
   * Kjr for [tpfp](https://discord.com/channels/373855931169243146/373855931169243149/1101732562172379228)
   * riot for [wj](https://www.youtube.com/watch?v=LBmxSPiP3To) (in the comments section)
