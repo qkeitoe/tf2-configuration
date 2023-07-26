@@ -16,7 +16,7 @@ index c2683dc..e50a7c2 100644
  	// $alpha 0.75
  }
 diff --git a/speedo/resource/speedo_absolute_center.res b/speedo/resource/speedo_absolute_center.res
-index ff6d7df..781b1e8 100644
+index ff6d7df..43d673f 100644
 --- a/speedo/resource/speedo_absolute_center.res
 +++ b/speedo/resource/speedo_absolute_center.res
 @@ -3,43 +3,43 @@
@@ -123,7 +123,7 @@ index ff6d7df..781b1e8 100644
 -			"xpos" "10"
 -			"wide" "10"
 -			"tall" "10"
-+			"xpos" "12"
++			"xpos" "s1.0"
 +			"wide" "11"
 +			"tall" "11"
  			"image" "replay/thumbnails/speedo/absolute/center/d2_2k"
