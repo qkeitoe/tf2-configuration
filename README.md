@@ -14,7 +14,7 @@
     * Crosshair: Custom Plus (Outlined)
     * No Shell Ejection
     * Explosion Effect: Invisible
-* [m0rehud](https://github.com/qkeitoe/m0rehud) (optional)
+* [ahud](https://github.com/n0kk/ahud) (optional)
 * [hudmods](https://github.com/bakapear/hudmods) (optional)
   * speedo
 * [Metamod:Source](https://www.sourcemm.net/downloads.php?branch=stable) (optional)
