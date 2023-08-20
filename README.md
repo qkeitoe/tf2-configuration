@@ -10,10 +10,6 @@
   * Null-Canceling Movement addon
   * No Tutorial addon (optional)
   * Flat Mouse addon (optional)
-  * Weapons (optional):
-    * Crosshair: Custom Plus (Outlined)
-    * No Shell Ejection
-    * Explosion Effect: Invisible
 * [ahud](https://github.com/qkeitoe/ahud) (optional)
 * [hudmods](https://github.com/bakapear/hudmods) (optional)
   * speedo
