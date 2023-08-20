@@ -48,14 +48,13 @@
     ],
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.autoIndent": "full",
+    "editor.detectIndentation": true,
+    "editor.formatOnSave": true,
     "editor.insertSpaces": true,
     "editor.renderWhitespace": "all",
     "editor.rulers": [],
     "editor.tabSize": 4,
-    "editor.wordWrap": "on",
-    "files.associations": {
-        "*.txt": "vdf"
-    },
+    "editor.wordWrap": "off",
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true
