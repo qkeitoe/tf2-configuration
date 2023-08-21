@@ -9,14 +9,15 @@
 	"autoswitchto"					"0"
 	"Damage"						"60"
 	"TimeFireDelay"					"0.8"
-	"TimeIdle"						"5"
+	"TimeIdle"						"5.0"
 	"primary_ammo"					"None"
 	"secondary_ammo"				"None"
 	"bucket"						"0"
 	"bucket_position"				"1"
-	"viewmodel"						"models"
-	"playermodel"					"models"
+	"viewmodel"						"models/passtime/ball/passtime_ball.mdl"
+	"playermodel"					"models/passtime/ball/passtime_ball.mdl"
 	"anim_prefix"					"ball"
+	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	"SoundData"
 	{
 		"melee_miss"			"Weapon_Wrench.Miss"
@@ -69,5 +70,4 @@
 			"height"		"24"
 		}
 	}
-	"classname"						"tf_weapon_passtime_gun"
 }

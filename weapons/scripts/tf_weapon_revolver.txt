@@ -1,10 +1,12 @@
 "WeaponData"
 {
+	// Attributes Base.
 	"printname"						"#TF_Weapon_Revolver"
 	"BuiltRightHanded"				"0"
 	"weight"						"3"
 	"WeaponType"					"secondary"
 	"ITEM_FLAG_NOITEMPICKUP"		"1"
+	// Attributes TF.
 	"Damage"						"40"
 	"Range"							"4096"
 	"BulletsPerShot"				"1"
@@ -14,14 +16,20 @@
 	"DoInstantEjectBrass"			"0"
 	"HasTeamSkins_Viewmodel"		"1"
 	"TracerEffect"					"bullet_pistol_tracer01"
+	// Ammo & Clip.
 	"primary_ammo"					"TF_AMMO_SECONDARY"
 	"secondary_ammo"				"None"
 	"clip_size"						"6"
 	"default_clip"					"6"
+	// Buckets.
 	"bucket"						"0"
 	"bucket_position"				"0"
+	// Animation.
 	"anim_prefix"					"ac"
+	// Muzzleflash
 	"MuzzleFlashParticleEffect"		"muzzle_revolver"
+	// Sounds.
+	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	"SoundData"
 	{
 		"reload"			"Weapon_Revolver.WorldReload"
@@ -29,6 +37,7 @@
 		"single_shot"		"Weapon_Revolver.Single"
 		"burst"				"Weapon_Revolver.SingleCrit"
 	}
+	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
 		"weapon"
@@ -72,5 +81,4 @@
 			"height"		"24"
 		}
 	}
-	"classname"						"tf_weapon_revolver"
 }

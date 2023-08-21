@@ -1,17 +1,19 @@
 "WeaponData"
 {
+	// Attributes Base.
 	"printname"						"#TF_Weapon_Shotgun"
 	"BuiltRightHanded"				"0"
 	"weight"						"3"
 	"WeaponType"					"primary"
 	"ITEM_FLAG_NOITEMPICKUP"		"1"
+	// Primary Attributes
 	"Damage"						"6"
 	"Range"							"8192"
 	"BulletsPerShot"				"10"
 	"Spread"						"0.0675"
-	"PunchAngle"					"3"
+	"PunchAngle"					"3.0"
 	"TimeFireDelay"					"0.625"
-	"TimeIdle"						"5"
+	"TimeIdle"						"5.0"
 	"TimeIdleEmpty"					"0.25"
 	"TimeReloadStart"				"0.1"
 	"TimeReload"					"0.5"
@@ -25,10 +27,15 @@
 	"DoInstantEjectBrass"			"0"
 	"BrassModel"					""
 	"TracerEffect"					"bullet_shotgun_tracer01"
+	// Buckets.
 	"bucket"						"0"
 	"bucket_position"				"0"
+	// Animation.
 	"anim_prefix"					"shotgun"
+	// Muzzleflash
 	"MuzzleFlashParticleEffect"		"muzzle_shotgun"
+	// Sounds.
+	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	"SoundData"
 	{
 		"single_shot"		"Weapon_Shotgun.Single"
@@ -37,6 +44,7 @@
 		"special1"			"Weapon_Shotgun.Pump"
 		"burst"				"Weapon_Shotgun.SingleCrit"
 	}
+	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
 		"weapon"
@@ -80,5 +88,4 @@
 			"height"		"24"
 		}
 	}
-	"classname"						"tf_weapon_shotgun_primary"
 }

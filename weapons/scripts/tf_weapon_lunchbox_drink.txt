@@ -1,5 +1,6 @@
 "WeaponData"
 {
+	// Attributes Base.
 	"printname"						"#TF_Weapon_LunchBox"
 	"BuiltRightHanded"				"0"
 	"weight"						"1"
@@ -9,16 +10,21 @@
 	"HasTeamSkins_Worldmodel"		"1"
 	"AutoSwitchTo"					"1"
 	"MeleeWeapon"					"1"
+	// Ammo & Clip
 	"primary_ammo"					"TF_AMMO_GRENADES2"
 	"secondary_ammo"				"None"
+	// Buckets.
 	"bucket"						"1"
 	"bucket_position"				"0"
+	// Model & Animation
 	"viewmodel"						"models/weapons/v_models/v_pda_spy.mdl"
 	"playermodel"					"models/weapons/w_models/w_cigarette_case.mdl"
 	"anim_prefix"					"secondary"
+	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	"SoundData"
 	{
 	}
+	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
 		"weapon"
@@ -62,5 +68,4 @@
 			"height"		"24"
 		}
 	}
-	"classname"						"tf_weapon_lunchbox_drink"
 }

@@ -1,30 +1,38 @@
 "WeaponData"
 {
+	// Attributes Base.
 	"printname"						"#TF_Weapon_Peppergun"
 	"BuiltRightHanded"				"0"
 	"weight"						"2"
 	"WeaponType"					"primary"
 	"ITEM_FLAG_NOITEMPICKUP"		"1"
+	// Attributes TF.
 	"Damage"						"12"
 	"Range"							"8192"
 	"BulletsPerShot"				"4"
 	"Spread"						"0.04"
 	"TimeFireDelay"					"0.35"
-	"TimeIdle"						"5"
+	"TimeIdle"						"5.0"
 	"TimeIdleEmpty"					"0.25"
 	"TimeReload"					"0.5"
 	"ProjectileType"				"projectile_bullet"
 	"BrassModel"					""
 	"UseRapidFireCrits"				"1"
 	"TracerEffect"					"bullet_pistol_tracer01"
+	// Ammo & Clip.
 	"primary_ammo"					"TF_AMMO_PRIMARY"
 	"secondary_ammo"				"None"
 	"clip_size"						"4"
 	"default_clip"					"4"
+	// Buckets.
 	"bucket"						"0"
 	"bucket_position"				"0"
+	// Animation.
 	"anim_prefix"					"ac"
+	// Muzzleflash
 	"MuzzleFlashParticleEffect"		"muzzle_pistol"
+	// Sounds.
+	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	"SoundData"
 	{
 		"reload"			"Weapon_Pistol.WorldReload"
@@ -32,6 +40,7 @@
 		"single_shot"		"Weapon_Pistol.Single"
 		"burst"				"Weapon_Pistol.SingleCrit"
 	}
+	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
 		"weapon"
@@ -75,5 +84,4 @@
 			"height"		"24"
 		}
 	}
-	"classname"						"tf_weapon_handgun_scout_primary"
 }

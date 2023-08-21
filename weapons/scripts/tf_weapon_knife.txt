@@ -1,22 +1,29 @@
 "WeaponData"
 {
+	// Attributes Base.
 	"printname"						"#TF_Weapon_Knife"
 	"BuiltRightHanded"				"0"
 	"MeleeWeapon"					"1"
 	"weight"						"2"
 	"WeaponType"					"melee"
 	"ITEM_FLAG_NOITEMPICKUP"		"1"
+	// Attributes TF
 	"Damage"						"40"
 	"TimeFireDelay"					"0.8"
-	"TimeIdle"						"5"
+	"TimeIdle"						"5.0"
 	"HasTeamSkins_Viewmodel"		"1"
 	"SmackDelay"					"0.1"
 	"Secondary_SmackDelay"			"0.3"
+	// Ammo & Clip
 	"primary_ammo"					"None"
 	"secondary_ammo"				"None"
+	// Buckets.
 	"bucket"						"2"
 	"bucket_position"				"0"
+	// Model & Animation.
 	"anim_prefix"					"knife"
+	// Sounds.
+	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	"SoundData"
 	{
 		"melee_miss"			"Weapon_Knife.Miss"
@@ -24,6 +31,7 @@
 		"melee_hit_world"		"Weapon_Knife.HitWorld"
 		"burst"					"Weapon_Knife.MissCrit"
 	}
+	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
 		"weapon"
@@ -67,5 +75,4 @@
 			"height"		"24"
 		}
 	}
-	"classname"						"tf_weapon_knife"
 }

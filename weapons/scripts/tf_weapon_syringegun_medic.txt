@@ -1,27 +1,35 @@
 "WeaponData"
 {
+	// Attributes Base.
 	"printname"						"#TF_Weapon_SyringeGun"
 	"BuiltRightHanded"				"0"
 	"weight"						"4"
 	"WeaponType"					"primary"
 	"ITEM_FLAG_NOITEMPICKUP"		"1"
+	// Attributes TF.
 	"Damage"						"10"
 	"Range"							"8192"
 	"BulletsPerShot"				"1"
-	"Spread"						"0"
+	"Spread"						"0.0"
 	"TimeFireDelay"					"0.1"
 	"ProjectileType"				"projectile_syringe"
 	"HasTeamSkins_Viewmodel"		"1"
 	"UseRapidFireCrits"				"1"
 	"HasTeamSkins_Worldmodel"		"1"
+	// Ammo & Clip.
 	"primary_ammo"					"TF_AMMO_PRIMARY"
 	"secondary_ammo"				"None"
 	"clip_size"						"40"
 	"default_clip"					"40"
+	// Buckets.
 	"bucket"						"0"
 	"bucket_position"				"0"
+	// Muzzleflash
 	"MuzzleFlashParticleEffect"		"muzzle_syringe"
+	// Animation.
 	"anim_prefix"					"ac"
+	// Sounds.
+	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	"SoundData"
 	{
 		"reload"			"Weapon_SyringeGun.WorldReload"
@@ -29,6 +37,7 @@
 		"single_shot"		"Weapon_SyringeGun.Single"
 		"burst"				"Weapon_SyringeGun.SingleCrit"
 	}
+	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
 		"weapon"
@@ -72,5 +81,4 @@
 			"height"		"24"
 		}
 	}
-	"classname"						"tf_weapon_syringegun_medic"
 }

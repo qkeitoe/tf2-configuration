@@ -1,15 +1,17 @@
 "WeaponData"
 {
+	// Attributes Base.
 	"printname"						"#TF_Weapon_RocketLauncher"
 	"BuiltRightHanded"				"0"
 	"weight"						"3"
 	"WeaponType"					"primary"
 	"ITEM_FLAG_NOITEMPICKUP"		"1"
+	// Primary Attributes.
 	"Damage"						"90"
 	"Range"							"0"
 	"BulletsPerShot"				"1"
-	"Spread"						"0"
-	"PunchAngle"					"0"
+	"Spread"						"0.0"
+	"PunchAngle"					"0.0"
 	"TimeFireDelay"					"0.8"
 	"TimeIdle"						"0.8"
 	"TimeIdleEmpty"					"0.8"
@@ -20,19 +22,28 @@
 	"default_clip"					"4"
 	"ProjectileType"				"projectile_rocket"
 	"HasTeamSkins_Viewmodel"		"1"
+	// Secondary Attributes.
 	"secondary_ammo"				"None"
+	// Buckets.
 	"bucket"						"0"
 	"bucket_position"				"0"
 	"ExplosionEffect"				"duck_collect_trail_special_red"
 	"ExplosionPlayerEffect"			"duck_collect_trail_special_red"
 	"ExplosionWaterEffect"			"duck_collect_trail_special_red"
 	"ExplosionSound"				"Weapon_RPG_DirectHit.Explode"
+	// Animation.
+	// "viewmodel"     -viewmodel is now defined in _items_main.txt
+	// "playermodel"   -playermodel is now defined in _items_main.txt
 	"anim_prefix"					"gl"
+	// Sounds.
+	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	"SoundData"
 	{
 		"single_shot"		"Weapon_RPG_DirectHit.Single"
 		"burst"				"Weapon_RPG_DirectHit.SingleCrit"
+		// "reload"		"Weapon_RPG.WorldReload"
 	}
+	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
 		"weapon"
@@ -76,5 +87,4 @@
 			"height"		"24"
 		}
 	}
-	"classname"						"tf_weapon_rocketlauncher_directhit"
 }

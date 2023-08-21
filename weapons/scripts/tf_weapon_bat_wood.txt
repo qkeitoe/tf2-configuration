@@ -1,19 +1,25 @@
 "WeaponData"
 {
+	// Attributes Base.
 	"printname"						"#TF_Weapon_Bat"
 	"BuiltRightHanded"				"0"
 	"MeleeWeapon"					"1"
 	"weight"						"1"
 	"WeaponType"					"melee"
 	"ITEM_FLAG_NOITEMPICKUP"		"1"
+	// Attributes TF.
 	"Damage"						"35"
 	"TimeFireDelay"					"0.5"
-	"TimeIdle"						"5"
+	"TimeIdle"						"5.0"
+	// Ammo & Clip
 	"primary_ammo"					"TF_AMMO_GRENADES1"
 	"secondary_ammo"				"None"
+	// Buckets.
 	"bucket"						"2"
 	"bucket_position"				"0"
+	// Model & Animation
 	"anim_prefix"					"bat"
+	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	"SoundData"
 	{
 		"melee_miss"			"Weapon_Bat.Miss"
@@ -23,6 +29,7 @@
 		"special1"				"Weapon_Baseball.HitWorld"
 		"special2"				"Weapon_BaseballBat.HitBall"
 	}
+	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
 		"weapon"
@@ -66,5 +73,4 @@
 			"height"		"24"
 		}
 	}
-	"classname"						"tf_weapon_bat_wood"
 }

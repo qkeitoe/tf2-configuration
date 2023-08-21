@@ -1,5 +1,6 @@
 "WeaponData"
 {
+	// Attributes Base.
 	"printname"						"#TF_Weapon_PDA_Engineer_Build"
 	"BuiltRightHanded"				"0"
 	"weight"						"1"
@@ -8,15 +9,20 @@
 	"AutoSwitchTo"					"0"
 	"MeleeWeapon"					"1"
 	"HasTeamSkins_Viewmodel"		"1"
+	// Ammo & Clip
 	"primary_ammo"					"None"
 	"secondary_ammo"				"None"
+	// Buckets.
 	"bucket"						"3"
 	"bucket_position"				"0"
+	// Model & Animation
 	"anim_prefix"					"pda"
+	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	"SoundData"
 	{
 	}
 	"DontDrop"						"1"
+	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
 		"weapon"
@@ -60,5 +66,4 @@
 			"height"		"24"
 		}
 	}
-	"classname"						"tf_weapon_pda_engineer_build"
 }

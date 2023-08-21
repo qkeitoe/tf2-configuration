@@ -1,5 +1,6 @@
 "WeaponData"
 {
+	// Attributes Base.
 	"printname"						"#TF_Unique_Achievement_SoldierBuff1"
 	"BuiltRightHanded"				"0"
 	"MeleeWeapon"					"1"
@@ -7,15 +8,22 @@
 	"WeaponType"					"melee"
 	"ITEM_FLAG_NOITEMPICKUP"		"1"
 	"DontDrop"						"1"
+	// Attributes TF.
 	"Damage"						"65"
 	"TimeFireDelay"					"0.8"
-	"TimeIdle"						"5"
+	"TimeIdle"						"5.0"
+	// Ammo & Clip
 	"primary_ammo"					"None"
 	"secondary_ammo"				"None"
+	// Buckets.
 	"bucket"						"0"
 	"bucket_position"				"0"
+	// Model & Animation
+	// "viewmodel"     -viewmodel is now defined in _items_main.txt
+	// "playermodel"   -playermodel is now defined in _items_main.txt
 	"anim_prefix"					"pipe"
 	"HasTeamSkins_Viewmodel"		"1"
+	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	"SoundData"
 	{
 		"melee_miss"			"Weapon_Fist.Miss"
@@ -23,6 +31,7 @@
 		"melee_hit_world"		"Weapon_Fist.HitWorld"
 		"burst"					"Weapon_Fist.MissCrit"
 	}
+	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
 		"weapon"
@@ -66,5 +75,4 @@
 			"height"		"24"
 		}
 	}
-	"classname"						"tf_weapon_parachute_primary"
 }

@@ -1,11 +1,13 @@
 "WeaponData"
 {
+	// Attributes Base.
 	"printname"						"#TF_Weapon_Minigun"
 	"BuiltRightHanded"				"0"
 	"weight"						"3"
 	"WeaponType"					"primary"
 	"ITEM_FLAG_NOITEMPICKUP"		"1"
 	"HasTeamSkins_Viewmodel"		"1"
+	// Attributes TF.
 	"Damage"						"9"
 	"Range"							"8192"
 	"BulletsPerShot"				"4"
@@ -15,13 +17,21 @@
 	"BrassModel"					""
 	"UseRapidFireCrits"				"1"
 	"TracerEffect"					"bullet_tracer01"
+	// Ammo & Clip.
 	"primary_ammo"					"TF_AMMO_PRIMARY"
 	"secondary_ammo"				"TF_AMMO_PRIMARY"
 	"clip_size"						"-1"
+	// Buckets.
 	"bucket"						"0"
 	"bucket_position"				"0"
+	// Animation.
+	// "viewmodel"     -viewmodel is now defined in _items_main.txt
+	// "playermodel"   -playermodel is now defined in _items_main.txt
 	"anim_prefix"					"ac"
+	// Muzzleflash
 	"MuzzleFlashParticleEffect"		"muzzle_minigun"
+	// Sounds.
+	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	"SoundData"
 	{
 		"reload"			"Weapon_Minigun.Reload"
@@ -32,6 +42,7 @@
 		"special3"			"Weapon_Minigun.Spin"
 		"burst"				"Weapon_Minigun.FireCrit"
 	}
+	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
 		"weapon"
@@ -75,5 +86,4 @@
 			"height"		"24"
 		}
 	}
-	"classname"						"tf_weapon_minigun"
 }
