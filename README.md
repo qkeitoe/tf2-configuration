@@ -10,7 +10,7 @@
   * Null-Canceling Movement addon
   * No Tutorial addon (optional)
   * Flat Mouse addon (optional)
-* [ahud](https://github.com/qkeitoe/ahud) (optional)
+* [m0rehud](https://github.com/qkeitoe/m0rehud) (optional)
 * [hudmods](https://github.com/bakapear/hudmods) (optional)
   * speedo
 * [Metamod:Source](https://www.sourcemm.net/downloads.php?branch=stable) (optional)
