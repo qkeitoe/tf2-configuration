@@ -15,32 +15,6 @@
 * [m0rehud](https://github.com/qkeitoe/m0rehud) (optional)
 * [hudmods](https://github.com/bakapear/hudmods) (optional)
   * speedo
-* [Metamod:Source](https://www.sourcemm.net/downloads.php?branch=stable) (optional)
-* [SourceMod](http://www.sourcemod.net/downloads.php?branch=stable) (optional)
-* Plugins (optional):
-  > **Info:** Some plugins require a bit of manual modification to get them to work on a local server (e.g. removing hooks of tempus-related events or deleting updater-related stuff).
-  * [\[Any\] Plugin Enable/Disable](https://forums.alliedmods.net/showthread.php?p=1682844)
-  * [jumpqol](https://github.com/chrb22/jumpqol)
-  * [tempus sourcemod plugins](https://gitlab.com/tempus-2/public/tempus-sourcemod-plugins)
-    * abounce
-    * speedo (conflicts with TF2-Speedometer)
-    * tempus_spook [disabled]
-    * tempus_spray
-    * tf2_classhealths
-    * tf2_deleteroundtimer
-    * tf2_fcvar
-    * tf2_hide (conflicts with TF2-ECJ-JumpAssist) [disabled]
-    * tf2_lockcps
-  * [groundfix](https://github.com/laurirasanen/groundfix) (is covered by jumpqol functionality) [disabled]
-  * [SM-SaveLoc](https://github.com/JoinedSenses/SM-SaveLoc)
-  * [TF2-NoShake](https://github.com/JoinedSenses/TF2-NoShake) [disabled]
-  * [TF2-ECJ-JumpAssist](https://github.com/JoinedSenses/TF2-ECJ-JumpAssist) (conflicts with tf2_hide)
-  * [TF2-Speedometer](https://github.com/JoinedSenses/TF2-Speedometer) (conflicts with speedo) [disabled]
-  * [JTimer](https://jump.tf/forum/index.php?topic=904.0)
-  * [TFTurbo](https://forums.alliedmods.net/showthread.php?t=190389)
-  * Build dependencies:
-    * [morecolors.inc](https://github.com/DoctorMcKay/sourcemod-plugins/blob/master/scripting/include/morecolors.inc)
-    * [smlib](https://gitlab.com/counterstrikesource/sm-plugins/smlib)
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 * [stickybomb.pcf](https://discord.com/channels/373855931169243146/373855931169243149/1057117208205066311) (optional)
 * [Removing Water Particles](https://jump.tf/forum/index.php?topic=3152.0) (optional)
