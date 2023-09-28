@@ -40,3 +40,6 @@
   * gedu for [loadouts script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
   * rbjaxter for [`bh_recommendedcommands.cfg`](https://github.com/rbjaxter/budhud/blob/master/cfg/bh_recommendedcommands.cfg)
   * Hypnootize for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
+ 
+* Weapons:
+  * optivex for [`xhairshadowdefault.vtf`](https://drive.google.com/file/d/1J5q1A2Pxf0NtX8MRHxrNjAiv7KcaMXVC/edit)
