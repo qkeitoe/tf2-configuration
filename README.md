@@ -13,8 +13,9 @@
   * Disable Pyroland addon (optional)
   * No Soundscapes addon (optional)
 * [m0rehud](https://github.com/qkeitoe/m0rehud) (optional)
-* [hudmods](https://github.com/bakapear/hudmods) (optional)
-  * speedo
+* [hudmods](https://github.com/qkeitoe/hudmods) (optional)
+  * speedo_absolute_center
+  * speedo2
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 * [Removing Water Particles](https://jump.tf/forum/index.php?topic=3152.0) (optional)
 * [Original Left Hand Fix](https://gamebanana.com/mods/206388) (optional)
