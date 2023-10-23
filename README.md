@@ -11,9 +11,6 @@
   * No Tutorial addon (optional)
   * Flat Mouse addon (optional)
 * [m0rehud](https://github.com/qkeitoe/m0rehud) (optional)
-* [hudmods](https://github.com/qkeitoe/hudmods) (optional)
-  * speedo_absolute_center
-  * speedo2
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 * [stickybomb.pcf](https://discord.com/channels/373855931169243146/373855931169243149/1057117208205066311) (optional)
 * [Removing Water Particles](https://jump.tf/forum/index.php?topic=3152.0) (optional)
