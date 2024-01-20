@@ -11,8 +11,8 @@
   * No Tutorial addon (optional)
   * Flat Mouse addon (optional)
 * [m0rehud](https://github.com/qkeitoe/m0rehud) (optional)
-* [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
-* [stickybomb.pcf](https://discord.com/channels/373855931169243146/373855931169243149/1057117208205066311) (optional)
+* [stickies](https://discordapp.com/channels/373855931169243146/373855931169243149/1152747955359588352) (optional)
+* [stickybomb.pcf](https://discordapp.com/channels/310494288570089472/310494288570089472/665752388589715490) (optional)
 * [Removing Water Particles](https://jump.tf/forum/index.php?topic=3152.0) (optional)
 * [Original Left Hand Fix](https://gamebanana.com/mods/206388) (optional)
 
