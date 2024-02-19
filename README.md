@@ -38,4 +38,4 @@
   * Hypnootize for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
 
 * Weapons:
-  * optivex for [`xhairshadowdefault.vtf` and `ql_2.vtf](https://drive.google.com/file/d/1J5q1A2Pxf0NtX8MRHxrNjAiv7KcaMXVC/edit)
+  * optivex for [`xhairshadowdefault.vtf` and `ql_2.vtf`](https://drive.google.com/file/d/1J5q1A2Pxf0NtX8MRHxrNjAiv7KcaMXVC/edit)
