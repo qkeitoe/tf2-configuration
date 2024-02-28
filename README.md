@@ -14,7 +14,6 @@
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 * [Removing Water Particles](https://jump.tf/forum/index.php?topic=3152.0) (optional)
 * [Original Left Hand Fix](https://gamebanana.com/mods/206388) (optional)
-* [flat textures](https://github.com/JarateKing/CleanTF2plus/releases/tag/1.0.0) (optional)
 
 ## Launch options
 
