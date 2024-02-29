@@ -33,6 +33,9 @@
   * rbjaxter for [`bh_recommendedcommands.cfg`](https://github.com/rbjaxter/budhud/blob/master/cfg/bh_recommendedcommands.cfg)
   * Hypnootize for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
 
+* HUD:
+  * rbjaxter for [Medic Rainbow Uber Flash](https://github.com/rbjaxter/budhud/blob/master/scripts/bh_hudanimations/medic_animations/bh_medic_chargerainbow.txt)
+
 * Weapons:
   * optivex for [`crosshair3OL.vtf`, `ql_2.vtf`, `sniperOLShadow.vtf`, `xhairshadowdefault.vtf`](https://drive.google.com/file/d/1J5q1A2Pxf0NtX8MRHxrNjAiv7KcaMXVC/edit)
 
