@@ -1,6 +1,10 @@
 * text=auto
 
 *.vdf linguist-detectable=true
-{*.res,*.txt,*.vmt} linguist-detectable=true linguist-language=vdf
+*.res linguist-detectable=true linguist-language=vdf
+*.txt linguist-detectable=true linguist-language=vdf
+*.vmt linguist-detectable=true linguist-language=vdf
 
-{.gitattributes,.gitignore,.vscode} export-ignore
+.gitattributes export-ignore
+.gitignore export-ignore
+.vscode export-ignore
