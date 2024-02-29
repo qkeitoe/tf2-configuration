@@ -34,6 +34,7 @@
   * Hypnootize for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
 
 * HUD:
+  * b4nny for [enhanced tf2 fonts](https://goo.gl/HVf1Tv)
   * rbjaxter for [Medic Rainbow Uber Flash](https://github.com/rbjaxter/budhud/blob/master/scripts/bh_hudanimations/medic_animations/bh_medic_chargerainbow.txt)
 
 * Weapons:
