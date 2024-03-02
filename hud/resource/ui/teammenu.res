@@ -63,7 +63,7 @@
 	{
 		"ControlName"			"CTFTeamButton"
 		"fieldName"				"teambutton0"
-		"xpos"					"c-29"
+		"xpos"					"c-27"
 		"ypos"					"101"
 		"zpos"					"3"
 		"wide"					"124"
@@ -89,7 +89,7 @@
 	{
 		"ControlName"			"CTFTeamButton"
 		"fieldName"				"teambutton1"
-		"xpos"					"c159"
+		"xpos"					"c160"
 		"ypos"					"101"
 		"zpos"					"3"
 		"wide"					"124"
@@ -115,7 +115,7 @@
 	{
 		"ControlName"			"CTFTeamButton"
 		"fieldName"				"teambutton2"
-		"xpos"					"c-290"
+		"xpos"					"c-285"
 		"ypos"					"101"
 		"zpos"					"3"
 		"wide"					"124"
@@ -239,7 +239,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"wrap"				"0"
-		"font"				"MenuSmallestFont"
+		"font"				"CapPlayerFontSmall"
 		"fgcolor"			"white"
 	}
 	"MenuBG"
