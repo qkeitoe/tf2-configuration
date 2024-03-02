@@ -22,4 +22,12 @@
 			}
 		}
 	}
+	"CustomFontFiles"
+	{
+		"100"
+		{
+			"font"		"resource/TF2 Icons.ttf"
+			"name"		"TF2 Icons"
+		}
+	}
 }
