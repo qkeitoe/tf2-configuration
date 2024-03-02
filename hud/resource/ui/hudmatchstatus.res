@@ -286,14 +286,14 @@
 			"enabled"			"1"
 			"textAlignment"		"center"
 			"labelText"			"0:00"
-			"if_match"
-			{
-				"proportionaltoparent"		"1"
-				"xpos"						"cs-0.5"
-				"ypos"						"12"
-				"tall"						"10"
-				"font"						"HudFontSmall"
-			}
+			// "if_match"
+			// {
+			// "proportionaltoparent"		"1"
+			// "xpos"						"cs-0.5"
+			// "ypos"						"12"
+			// "tall"						"10"
+			// "font"						"HudFontSmall"
+			// }
 		}
 	}
 	"TeamStatus"
