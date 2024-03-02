@@ -21,6 +21,15 @@
 				"tall"		"22"
 			}
 		}
+		"TF2Icons22"
+		{
+			"1"
+			{
+				"name"			"TF2 Icons"
+				"tall"			"22"
+				"antialias"		"1"
+			}
+		}
 	}
 	"CustomFontFiles"
 	{
