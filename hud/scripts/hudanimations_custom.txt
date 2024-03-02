@@ -20,3 +20,12 @@ event HudMedicCharged
     // Increasing this value slows the speed of the animation down
     RunEvent    HudMedicChargedLoop    1.6
 }
+
+// Less distracting spy disguise change
+event HudSpyDisguiseChanged
+{
+    Animate     PlayerStatusSpyOutlineImage    Alpha       255          Linear    0.0    0.2
+    Animate     PlayerStatusSpyOutlineImage    Position    "0 r200"     Linear    0.0    0.2
+    Animate     PlayerStatusSpyOutlineImage    Size        "200 200"    Linear    0.0    0.2
+    RunEvent    HudSpyDisguiseHide             0.7
+}
