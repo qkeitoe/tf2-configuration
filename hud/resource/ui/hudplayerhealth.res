@@ -73,21 +73,16 @@
 		"font"				"HudClassHealth"
 		"fgcolor"			"TanDark"
 	}
-	"PlayerStatusMaxHealthValue"
+	"PlayerStatusMaxHealthValue"	// Removed
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"PlayerStatusMaxHealthValue"
-		"xpos"				"76"
-		"ypos"				"20"
-		"zpos"				"6"
-		"wide"				"50"
-		"tall"				"18"
-		"visible"			"1"
-		"enabled"			"1"
-		"labelText"			"%MaxHealth%"
-		"textAlignment"		"center"
-		"font"				"DefaultSmall"
-		"fgcolor"			"TanDark"
+		"xpos"				"9999"
+		"ypos"				"9999"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"0"
+		"enabled"			"0"
 	}
 	"PlayerStatusBleedImage"
 	{
