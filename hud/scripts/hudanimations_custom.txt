@@ -87,3 +87,12 @@ event HudTournament_HideTimer
     SetVisible    CountdownLabel          0    0
     SetVisible    CountdownLabelShadow    0    0
 }
+// TempusSpeedoBG
+event TempusSpeedoBGon
+{
+    SetVisible    TempusSpeedoBG    1    0
+}
+event TempusSpeedoBGoff
+{
+    SetVisible    TempusSpeedoBG    0    0
+}
