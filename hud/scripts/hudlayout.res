@@ -5,4 +5,8 @@
 	{
 		"ypos"		"c127"
 	}
+	"DisguiseStatus"
+	{
+		"zpos"		"1"
+	}
 }
