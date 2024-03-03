@@ -49,3 +49,5 @@
 ## TODO
 
 * Clean up comments
+* Improve end of casual match summary scoreboard
+* Fix item effect meters and counters
