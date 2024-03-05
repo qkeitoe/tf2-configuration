@@ -51,3 +51,4 @@
 * Clean up comments
 * Fix item effect meters and counters
 * Improve in-game chat window
+* Find better position for `Notifications_ShowButtonPanel`, `Notifications_Panel` and `QuestLogButton`
