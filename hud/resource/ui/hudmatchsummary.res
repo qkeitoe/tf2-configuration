@@ -36,8 +36,9 @@
 		"AnimStatsContainer12v12YPos"			"-20"
 		"if_large"
 		{
-			"AnimBlueMedalsYPos"		"50"
-			"AnimRedMedalsYPos"			"50"
+			"AnimBlueMedalsYPos"				"50"
+			"AnimRedMedalsYPos"					"50"
+			"AnimStatsContainer12v12YPos"		"70"
 		}
 	}
 	"RankBorder"
@@ -55,7 +56,7 @@
 		"proportionaltoparent"		"1"
 		"if_uses_xp"
 		{
-			"visible"		"1"
+			"visible"		"0"
 		}
 	}
 	"RankPanel"
@@ -408,7 +409,7 @@
 					"enabled"			"1"
 					"if_large"
 					{
-						"ypos"		"77"
+						"ypos"		"75"
 						"tall"		"340"
 					}
 					"BluePlayerList"
@@ -437,8 +438,10 @@
 						"horiz_inset"		"5"
 						"if_large"
 						{
-							"tall"			"340"
-							"linegap"		"1"
+							"tall"				"340"
+							"linespacing"		"20"
+							"linegap"			"1"
+							"horiz_inset"		"0"
 						}
 					}
 				}
@@ -458,8 +461,9 @@
 					"border"			"TFFatLineBorderClearBG"
 					"if_large"
 					{
-						"ypos"		"57"
-						"tall"		"360"
+						"ypos"			"57"
+						"tall"			"360"
+						"visible"		"0"
 					}
 				}
 			}
@@ -663,7 +667,7 @@
 					"enabled"			"1"
 					"if_large"
 					{
-						"ypos"		"77"
+						"ypos"		"75"
 						"tall"		"340"
 					}
 					"RedPlayerList"
@@ -692,8 +696,10 @@
 						"horiz_inset"		"5"
 						"if_large"
 						{
-							"tall"			"340"
-							"linegap"		"1"
+							"tall"				"340"
+							"linespacing"		"20"
+							"linegap"			"1"
+							"horiz_inset"		"0"
 						}
 					}
 				}
@@ -713,8 +719,9 @@
 					"border"			"TFFatLineBorderClearBG"
 					"if_large"
 					{
-						"ypos"		"57"
-						"tall"		"360"
+						"ypos"			"57"
+						"tall"			"360"
+						"visible"		"0"
 					}
 				}
 			}

@@ -96,3 +96,8 @@ event TempusSpeedoBGoff
 {
     SetVisible    TempusSpeedoBG    0    0
 }
+// Improved end of casual match summary scoreboard
+event CompetitiveGame_LowerChatWindow
+{
+    Animate    HudChat    ypos    0    Accel    0    0
+}
