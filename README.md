@@ -37,6 +37,7 @@
   * CriticalFlaw and other contributors for [TF2HUD.Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
   * Eniere for [idhud](https://github.com/Eniere/idhud)
   * Hypnootize for [TF2-HUD-Icons](https://github.com/Hypnootize/TF2-HUD-Icons) and [m0rehud](https://github.com/Hypnootize/m0rehud)
+  * n0kk for [ahud](https://github.com/n0kk/ahud)
   * b4nny for [enhanced tf2 fonts](https://goo.gl/HVf1Tv)
   * rbjaxter for [Medic Rainbow Uber Flash](https://github.com/rbjaxter/budhud/blob/master/scripts/bh_hudanimations/medic_animations/bh_medic_chargerainbow.txt)
 

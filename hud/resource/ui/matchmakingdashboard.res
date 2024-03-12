@@ -569,13 +569,13 @@
 				"xpos"						"cs-0.5"
 				"ypos"						"rs1-5"
 				"zpos"						"1"
-				"wide"						"14"
-				"tall"						"14"
+				"wide"						"15"
+				"tall"						"15"
 				"visible"					"1"
 				"enabled"					"1"
 				"scaleImage"				"1"
 				"proportionaltoparent"		"1"
-				"image"						"glyph_quit"
+				"image"						"replay/thumbnails/shutdown"
 				"drawcolor_override"		"TanLight"
 			}
 		}
