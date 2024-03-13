@@ -1,3 +1,5 @@
+// Counter for:
+// PowerUp Canteen in MvM
 "Resource/UI/HudItemEffectMeter_PowerupBottles.res"
 {
 	"HudItemEffectMeter"

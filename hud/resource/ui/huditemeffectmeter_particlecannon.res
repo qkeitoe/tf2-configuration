@@ -1,3 +1,5 @@
+// Charge meter for:
+// Cow Mangler
 "Resource/UI/HudItemEffectMeter_ParticleCannon.res"
 {
 	"HudItemEffectMeter"

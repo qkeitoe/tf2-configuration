@@ -1,3 +1,5 @@
+// Charge meter for:
+// Hitman's Heatmaker
 "Resource/UI/HudItemEffectMeter_SodaPopper.res"
 {
 	"HudItemEffectMeter"

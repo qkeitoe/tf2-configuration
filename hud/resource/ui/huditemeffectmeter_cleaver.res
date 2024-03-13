@@ -1,3 +1,5 @@
+// Charge meter for:
+// Flying Guillotine
 "Resource/UI/HudItemEffectMeter_Cleaver.res"
 {
 	"HudItemEffectMeter"

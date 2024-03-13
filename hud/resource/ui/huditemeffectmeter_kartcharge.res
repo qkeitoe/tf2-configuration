@@ -1,3 +1,5 @@
+// Charge meter for:
+// Halloween Karts
 "Resource/UI/HudItemEffectMeter_Scout.res"
 {
 	"HudItemEffectMeter"

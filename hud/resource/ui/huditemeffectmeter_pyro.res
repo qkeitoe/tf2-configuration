@@ -1,3 +1,5 @@
+// Charge meter for:
+// Phlogistinator
 "#base"		"HudItemEffectMeter.res"
 "Resource/UI/HudItemEffectMeter_Pyro.res"
 {

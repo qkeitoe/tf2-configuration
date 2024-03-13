@@ -1,3 +1,5 @@
+// Counter for:
+// Bazaar Bargain
 "Resource/UI/HudItemEffectMeter_Sniper.res"
 {
 	"HudItemEffectMeter"

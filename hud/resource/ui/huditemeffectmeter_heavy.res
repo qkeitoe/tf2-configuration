@@ -1,3 +1,5 @@
+// Charge meter for:
+// Heavy rage in MvM
 "Resource/UI/HudItemEffectMeter_Scout.res"
 {
 	"HudItemEffectMeter"

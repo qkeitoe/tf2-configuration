@@ -1,3 +1,5 @@
+// Charge meter for:
+// Righteous Bison
 "Resource/UI/HudItemEffectMeter_Raygun.res"
 {
 	"HudItemEffectMeter"

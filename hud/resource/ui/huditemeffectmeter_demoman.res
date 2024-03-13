@@ -1,3 +1,5 @@
+// Counter for:
+// Eyelander and AirStrike
 "Resource/UI/HudItemEffectMeter_Demoman.res"
 {
 	"HudItemEffectMeter"

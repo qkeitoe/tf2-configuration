@@ -1,3 +1,5 @@
+// Charge meter for:
+// Sapper
 "Resource/UI/HudItemEffectMeter_SodaPopper.res"
 {
 	"HudItemEffectMeter"

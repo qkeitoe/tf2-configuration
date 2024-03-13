@@ -1,3 +1,5 @@
+// Counter for:
+// Diamondback
 "Resource/UI/HudItemEffectMeter_Spy.res"
 {
 	"HudItemEffectMeter"

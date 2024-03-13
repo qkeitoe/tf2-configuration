@@ -1,3 +1,5 @@
+// Counter for:
+// Vita-Saw
 "Resource/UI/HudItemEffectMeter_Scout.res"
 {
 	"HudItemEffectMeter"

@@ -1,3 +1,5 @@
+// Counter for:
+// Frontier Justice and Manmelter
 "Resource/UI/HudItemEffectMeter_Engineer.res"
 {
 	"HudItemEffectMeter"

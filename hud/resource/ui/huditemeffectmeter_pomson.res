@@ -1,3 +1,5 @@
+// Charge meter for:
+// Pomson
 "Resource/UI/HudItemEffectMeter_Pomson.res"
 {
 	"HudItemEffectMeter"

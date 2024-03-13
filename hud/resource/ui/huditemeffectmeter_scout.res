@@ -1,3 +1,5 @@
+// Charge meter for:
+// Bonk! Atomic Punch / Crit-a-Cola / Mad Milk / MvM medic shield
 "Resource/UI/HudItemEffectMeter_Scout.res"
 {
 	"HudItemEffectMeter"

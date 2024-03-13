@@ -1,3 +1,5 @@
+// Charge meter for:
+// Sandman / Wrap Assassin / Sandvich / Spy Watches / Jarate / Razorback / Cleaner's Carbine / Soldier Banners / Gas Passer
 "Resource/UI/HudItemEffectMeter.res"
 {
 	"HudItemEffectMeter"

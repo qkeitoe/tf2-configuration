@@ -34,6 +34,7 @@
   * Hypnootize for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
 
 * HUD:
+  * JarateKing for [TF2-Hud-Reference](https://github.com/JarateKing/TF2-Hud-Reference)
   * CriticalFlaw and other contributors for [TF2HUD.Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
   * Eniere for [idhud](https://github.com/Eniere/idhud)
   * Hypnootize for [TF2-HUD-Icons](https://github.com/Hypnootize/TF2-HUD-Icons) and [m0rehud](https://github.com/Hypnootize/m0rehud)
