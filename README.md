@@ -33,15 +33,6 @@
   * rbjaxter for [`bh_recommendedcommands.cfg`](https://github.com/rbjaxter/budhud/blob/master/cfg/bh_recommendedcommands.cfg)
   * Hypnootize for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
 
-* HUD:
-  * JarateKing for [TF2-Hud-Reference](https://github.com/JarateKing/TF2-Hud-Reference)
-  * CriticalFlaw and other contributors for [TF2HUD.Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes)
-  * Eniere for [idhud](https://github.com/Eniere/idhud)
-  * Hypnootize for [TF2-HUD-Icons](https://github.com/Hypnootize/TF2-HUD-Icons) and [m0rehud](https://github.com/Hypnootize/m0rehud)
-  * n0kk for [ahud](https://github.com/n0kk/ahud)
-  * b4nny for [enhanced tf2 fonts](https://goo.gl/HVf1Tv)
-  * rbjaxter for [Medic Rainbow Uber Flash](https://github.com/rbjaxter/budhud/blob/master/scripts/bh_hudanimations/medic_animations/bh_medic_chargerainbow.txt)
-
 * Weapons:
   * optivex for [`crosshair3OL.vtf`, `ql_2.vtf`, `sniperOLShadow.vtf`, `xhairshadowdefault.vtf`](https://drive.google.com/file/d/1J5q1A2Pxf0NtX8MRHxrNjAiv7KcaMXVC/edit)
 
