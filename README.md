@@ -10,6 +10,7 @@
   * Null-Canceling Movement addon
   * No Tutorial addon (optional)
   * Flat Mouse addon (optional)
+* [LightHUD](https://github.com/Hypnootize/lighthud) (optional)
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 
 ## Launch options
