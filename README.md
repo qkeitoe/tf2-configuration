@@ -39,10 +39,3 @@
 
 * Other:
   * Hypnootize for [`vo/null.wav`](https://github.com/Hypnootize/m0rehud/blob/master/sound/vo/null.wav)
-
-## TODO
-
-* Clean up comments
-* Fix item effect meters and counters
-* Improve in-game chat window
-* Find better position for `Notifications_ShowButtonPanel`, `Notifications_Panel` and `QuestLogButton`
