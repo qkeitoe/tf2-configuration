@@ -2,10 +2,5 @@
     "editor.formatOnSave": true,
     "files.associations": {
         "casual_criteria.vdf": "txt",
-        "chapterbackgrounds.txt": "vdf"
-    },
-    "files.exclude": {
-        "**/.git": true,
-        "**/.vscode": true
     }
 }
