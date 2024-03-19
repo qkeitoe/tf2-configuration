@@ -1,3 +1,0 @@
-^\t*".*_(minmode|lodef|hidef)"\t*".*".*$\n
-^.*\[(\$X360|\$OSX)\]$\n
-\[(\$WIN32|!\$OSX)\]
