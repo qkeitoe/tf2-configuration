@@ -10,7 +10,7 @@
   * Null-Canceling Movement addon
   * No Tutorial addon (optional)
   * Flat Mouse addon (optional)
-* [ahud_qk](https://github.com/qkeitoe/ahud_qk)
+* [ahud_qk](https://github.com/qkeitoe/ahud_qk) (optional)
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 
 ## Launch options
