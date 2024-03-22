@@ -6,7 +6,7 @@
 ## Dependencies
 
 * [mastercomfig](https://github.com/mastercomfig/mastercomfig)
-  * Low preset
+  * None preset
   * Null-Canceling Movement addon
   * No Tutorial addon (optional)
   * Flat Mouse addon (optional)
