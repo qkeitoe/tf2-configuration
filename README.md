@@ -12,6 +12,8 @@
   * Flat Mouse addon (optional)
 * [ahud_qk](https://github.com/qkeitoe/ahud_qk) (optional)
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
+* [no-hats-bgum](https://pevhs.ch/tf2/vpk/nhbgum/)
+* [flat textures](https://github.com/JarateKing/CleanTF2plus/releases/tag/1.0.0) (optional)
 
 ## Launch options
 
