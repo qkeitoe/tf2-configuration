@@ -56,7 +56,7 @@
 		}
 		"crosshair"
 		{
-			"file"			"vgui/replay/thumbnails/fatcross"
+			"file"			"vgui/replay/thumbnails/melee"
 			"x"				"0"
 			"y"				"0"
 			"width"			"256"
