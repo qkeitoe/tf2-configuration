@@ -41,3 +41,4 @@
 
 * Other:
   * Hypnootize for [`vo/null.wav`](https://github.com/Hypnootize/m0rehud/blob/master/sound/vo/null.wav)
+  * Unknown authors for `hitsound.wav` and `killsound.wav`
