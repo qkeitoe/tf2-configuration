@@ -10,6 +10,8 @@
   * Null-Canceling Movement addon
   * No Tutorial addon (optional)
   * Flat Mouse addon (optional)
+  * Disable Pyroland addon (optional)
+  * No Soundscapes addon (optional)
 * [ahud_qk](https://github.com/qkeitoe/ahud_qk) (optional)
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 * [no-hats-bgum](https://pevhs.ch/tf2/vpk/nhbgum/) (optional)
