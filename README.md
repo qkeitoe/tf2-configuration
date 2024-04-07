@@ -14,7 +14,7 @@
   * No Soundscapes addon (optional)
 * [ahud_qk](https://github.com/qkeitoe/ahud_qk) (optional) [personal_2024.03.29]
 * [no-hats-bgum](https://pevhs.ch/tf2/vpk/nhbgum/) (optional) [b2c03b66-c079-4566-9f78-357aff785a7d]
-* [flat textures](https://github.com/JarateKing/CleanTF2plus/releases/tag/1.0.0) (optional) [1.0.0]
+* [flat textures](https://github.com/JarateKing/CleanTF2plus/releases) (optional) [1.0.0]
 * [Glowing stickies Skin Mod](https://jump.tf/forum/index.php?topic=17.0) (optional)
 * [sprays](https://github.com/Elandi-rj/sprays) (optional) [v5]
 
