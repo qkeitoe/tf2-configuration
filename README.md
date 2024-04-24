@@ -12,7 +12,7 @@
   * Flat Mouse addon (optional)
   * Disable Pyroland addon (optional)
   * No Soundscapes addon (optional)
-* [ahud_qk](https://github.com/qkeitoe/ahud_qk) (optional) [personal_2024.03.29]
+* [m0rehud](https://github.com/qkeitoe/m0rehud) (optional) [personal_2024.03.29]
 * [no-hats-bgum](https://pevhs.ch/tf2/vpk/nhbgum/) (optional) [b2c03b66-c079-4566-9f78-357aff785a7d]
 * [flat textures](https://github.com/JarateKing/CleanTF2plus/releases) (optional) [1.0.0]
 * [scoob_quick_bomb_edit](https://drive.google.com/file/d/19cxHc9WgjYOeaBg67LHMoQlexlGNIceY/view) (optional)
