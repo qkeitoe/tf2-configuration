@@ -20,7 +20,7 @@
 
 ## Launch options
 
-    -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
+    -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars
 
 * `-dxlevel 95` (optional)
   > **Info:** Add this launch option to your first launch, and then remove it.
