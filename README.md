@@ -42,5 +42,4 @@
   * optivex for [`ql_2.vtf`, `sniperOLShadow.vtf`](https://drive.google.com/file/d/1J5q1A2Pxf0NtX8MRHxrNjAiv7KcaMXVC/edit)
 
 * Other:
-  * Hypnootize for [`vo/null.wav`](https://github.com/Hypnootize/m0rehud/blob/master/sound/vo/null.wav)
   * Unknown authors for `hitsound.wav` and `killsound.wav`
