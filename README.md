@@ -39,7 +39,7 @@
   * Hypnootize for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
 
 * Weapons:
-  * optivex for [`ql_2.vtf`, `sniperOLShadow.vtf`](https://drive.google.com/file/d/1J5q1A2Pxf0NtX8MRHxrNjAiv7KcaMXVC/edit)
+  * optivex for [`ql_2.vtf`, `sniperOLShadow.vtf`, `xhairshadowdefault.vdf`](https://drive.google.com/file/d/1J5q1A2Pxf0NtX8MRHxrNjAiv7KcaMXVC) and [`c.vtf`](https://drive.google.com/file/d/1GQ7MvYK_whY7o_4eBBdqelaI40i3a5xE/view?usp=sharing)
 
 * Other:
   * Unknown authors for `hitsound.wav` and `killsound.wav`
