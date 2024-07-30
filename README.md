@@ -12,7 +12,7 @@
   * Flat Mouse addon (optional)
   * Disable Pyroland addon (optional)
   * No Soundscapes addon (optional)
-* [budhud](https://github.com/qkeitoe/budhud) [personal_2024.05.27]
+* [budhud](https://github.com/qkeitoe/budhud)
 * [scoob_quick_bomb_edit](https://drive.google.com/file/d/19cxHc9WgjYOeaBg67LHMoQlexlGNIceY/view) (optional)
 
 ## Launch options
