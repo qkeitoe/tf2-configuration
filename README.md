@@ -12,7 +12,6 @@
   * Flat Mouse addon (optional)
   * Disable Pyroland addon (optional)
   * No Soundscapes addon (optional)
-* [budhud](https://github.com/qkeitoe/budhud)
 
 ## Launch options
 
