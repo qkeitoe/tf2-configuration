@@ -17,9 +17,11 @@
 
     -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars
 
+* `-nostartupsound` (optional)
+* `-audiolanguage english` (optional)
+* `-noborder` (optional)
 * `-dxlevel 95` (optional)
   > **Info:** Add this launch option to your first launch, and then remove it.
-* `-nostartupsound` (optional)
 
 ## Credits
 
