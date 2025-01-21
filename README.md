@@ -10,8 +10,6 @@
   - Null-Canceling Movement addon
   - No Tutorial addon (optional)
   - Flat Mouse addon (optional)
-  - Disable Pyroland addon (optional)
-  - No Soundscapes addon (optional)
 
 ## Launch options
 
