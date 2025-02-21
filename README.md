@@ -1,7 +1,7 @@
 # My complete configuration of Team Fortress 2
 
 > **Warning**
-> This TF2 configuration is intended for 1920x1080 resolution. So some stuff may be broken on other resolutions.
+> This TF2 configuration is intended for 2560x1440 resolution. So some stuff may be broken on other resolutions.
 
 ## Dependencies
 
@@ -10,6 +10,8 @@
   - Null-Canceling Movement addon
   - No Tutorial addon (optional)
   - Flat Mouse addon (optional)
+- [budhud](https://github.com/qkeitoe/budhud) (optional)
+- [Horsie's Viewmodel Editor](https://github.com/qkeitoe/horsies-viewmodel-editor) (optional)
 
 ## Launch options
 
@@ -17,7 +19,6 @@
 
 - `-nostartupsound` (optional)
 - `-audiolanguage english` (optional)
-- `-noborder` (optional)
 - `-dxlevel 95` (optional)
   > **Info:** Add this launch option to your first launch, and then remove it.
 
@@ -40,4 +41,4 @@
   - optivex for [`ql_2.vtf`, `sniperOLShadow.vtf`, `xhairshadowdefault.vdf`](https://drive.google.com/file/d/1J5q1A2Pxf0NtX8MRHxrNjAiv7KcaMXVC) and [`c.vtf`](https://drive.google.com/file/d/1GQ7MvYK_whY7o_4eBBdqelaI40i3a5xE/view?usp=sharing)
 
 - Other:
-  - Unknown authors for `hitsound.wav` and `killsound.wav`
+  - Unknowns for `hitsound.wav` and `killsound.wav`
