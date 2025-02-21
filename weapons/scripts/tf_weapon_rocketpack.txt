@@ -59,11 +59,11 @@
 		}
 		"crosshair"
 		{
-			"file"			"vgui/replay/thumbnails/dot"
+			"file"			""
 			"x"				"0"
 			"y"				"0"
-			"width"			"256"
-			"height"		"256"
+			"width"			"0"
+			"height"		"0"
 		}
 		"autoaim"
 		{
