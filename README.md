@@ -11,7 +11,6 @@
   - No Tutorial addon (optional)
   - Flat Mouse addon (optional)
 - [budhud](https://github.com/qkeitoe/budhud) (optional)
-- [Horsie's Viewmodel Editor](https://github.com/qkeitoe/horsies-viewmodel-editor) (optional)
 
 ## Launch options
 
