@@ -1,6 +1,6 @@
 {
-    "editor.formatOnSave": true,
-    "files.associations": {
-        "casual_criteria.vdf": "txt",
-    }
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "casual_criteria.vdf": "txt"
+  }
 }
