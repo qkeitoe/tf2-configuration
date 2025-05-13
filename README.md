@@ -10,7 +10,7 @@
   - Null-Canceling Movement addon
   - No Tutorial addon (optional)
   - Flat Mouse addon (optional)
-- [budhud](https://github.com/qkeitoe/budhud) (optional)
+- [toonhud](https://toonhud.com/user/qkeitoe/theme/KIRUEM4K/) (optional)
 
 ## Launch options
 
