@@ -75,7 +75,7 @@
 		}
 		"crosshair"
 		{
-			"file"			"vgui/replay/thumbnails/bigcross"
+			"file"			"vgui/replay/thumbnails/dot"
 			"x"				"0"
 			"y"				"0"
 			"width"			"256"

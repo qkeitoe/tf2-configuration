@@ -60,7 +60,7 @@
 		}
 		"crosshair"
 		{
-			"file"			"vgui/replay/thumbnails/melee"
+			"file"			"vgui/replay/thumbnails/dot"
 			"x"				"0"
 			"y"				"0"
 			"width"			"256"
