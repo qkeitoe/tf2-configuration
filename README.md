@@ -11,8 +11,6 @@
   - No Tutorial addon (optional)
   - Flat Mouse addon (optional)
 - [toonhud](https://toonhud.com/user/qkeitoe/theme/KIRUEM4K/) (optional)
-- [Metamod:Source](https://www.metamodsource.net/downloads.php?branch=stable) (optional)
-- [SourceMod](https://www.sourcemod.net/downloads.php?branch=stable) (optional)
 
 ## Launch options
 
