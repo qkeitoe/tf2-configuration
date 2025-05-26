@@ -1,5 +1,11 @@
 {
+  "[vdf][vmt]": {
+    "editor.insertSpaces": false
+  },
+  "editor.detectIndentation": false,
   "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4,
   "files.associations": {
     "casual_criteria.vdf": "txt"
   },
