@@ -1,3 +1,52 @@
+event HudHealthBonusPulse
+{
+    Animate     PlayerStatusHealthBonusImage    Alpha      255            Linear    0.0    0.2
+    Animate     PlayerStatusHealthBonusImage    Alpha      0              Linear    0.2    0.4
+    Animate     PlayerStatusHealthValue         FgColor    CustomGreen    Linear    0.0    0.2
+    RunEvent    HudHealthBonusPulseLoop         0.4
+}
+
+event HudHealthBonusPulseStop
+{
+    StopEvent    HudHealthBonusPulse        0.0
+    StopEvent    HudHealthBonusPulseLoop    0.0
+    Animate      PlayerStatusHealthValue    FgColor    TanDark    Linear    0.0    0.0
+}
+
+event HudHealthDyingPulse
+{
+    Animate     PlayerStatusHealthBonusImage    Alpha      255             Linear    0.0      0.075
+    Animate     PlayerStatusHealthBonusImage    Alpha      0               Linear    0.125    0.075
+    Animate     PlayerStatusHealthValue         FgColor    CustomOrange    Linear    0.0      0.2
+    RunEvent    HudHealthDyingPulseLoop         0.25
+}
+
+event HudHealthDyingPulseStop
+{
+    StopEvent    HudHealthDyingPulse        0.0
+    StopEvent    HudHealthDyingPulseLoop    0.0
+    Animate      PlayerStatusHealthValue    FgColor    TanDark    Linear    0.0    0.0
+}
+
+event HudLowAmmoPulse
+{
+    Animate     HudWeaponLowAmmoImage    Alpha      255             Linear    0.0      0.075
+    Animate     HudWeaponLowAmmoImage    Alpha      0               Linear    0.125    0.075
+    Animate     AmmoInClip               FgColor    CustomOrange    Linear    0.0      0.2
+    Animate     AmmoInReserve            FgColor    CustomOrange    Linear    0.0      0.2
+    Animate     AmmoNoClip               FgColor    CustomOrange    Linear    0.0      0.2
+    RunEvent    HudLowAmmoPulseLoop      0.25
+}
+
+event HudLowAmmoPulseStop
+{
+    StopEvent    HudLowAmmoPulse        0.0
+    StopEvent    HudLowAmmoPulseLoop    0.0
+    Animate      AmmoInClip             FgColor    TanLight    Linear    0.0    0.0
+    Animate      AmmoInReserve          FgColor    TanLight    Linear    0.0    0.0
+    Animate      AmmoNoClip             FgColor    TanLight    Linear    0.0    0.0
+}
+
 // Rainbow UberCharge Flash
 event HudMedicCharged
 {
@@ -25,8 +74,12 @@ event CompetitiveGame_LowerChatWindow
 {
 }
 
+// Fix for stuck HUD animations
 event CompetitiveGame_RestoreChatWindow
 {
+    RunEventChild    HudPlayerHealth    HudHealthBonusPulseStop    0
+    RunEventChild    HudPlayerHealth    HudHealthDyingPulseStop    0
+    RunEventChild    HudWeaponAmmo      HudLowAmmoPulseStop        0
 }
 
 event HudTournament_MoveChatWindow
