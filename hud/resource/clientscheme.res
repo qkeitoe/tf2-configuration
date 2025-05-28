@@ -14,4 +14,14 @@
 		"bh_rainbowcolor6"		"075 000 130 255"
 		"bh_rainbowcolor7"		"139 000 255 255"
 	}
+	"Fonts"
+	{
+		"HudClassHealth"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+			}
+		}
+	}
 }
