@@ -3,7 +3,8 @@
 {
 	"PlayerStatusHealthValue"
 	{
-		"ypos"		"51"
+		"ypos"			"51"
+		"fgcolor"		"TanLight"
 	}
 	"PlayerStatusHealthValueShadow"
 	{

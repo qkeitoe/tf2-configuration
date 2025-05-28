@@ -3,7 +3,8 @@
 {
 	"scores"
 	{
-		"ping_width"		"20"
+		"medal_column_width"		"25"
+		"ping_width"				"20"
 	}
 	"BluePlayerList"
 	{

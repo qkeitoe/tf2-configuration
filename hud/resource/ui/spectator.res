@@ -1,4 +1,3 @@
-"#base"		"hudinspectpanel.res"
 "#base"		"../../base_files/spectator.res"
 "Resource/UI/Spectator.res"
 {
@@ -107,5 +106,11 @@
 		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
+	}
+	"itempanel"
+	{
+		"model_ypos"		"20"
+		"model_wide"		"80"
+		"model_tall"		"50"
 	}
 }
