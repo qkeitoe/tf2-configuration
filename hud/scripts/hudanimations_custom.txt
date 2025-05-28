@@ -3,14 +3,16 @@ event HudHealthBonusPulse
     Animate     PlayerStatusHealthBonusImage    Alpha      255            Linear    0.0    0.2
     Animate     PlayerStatusHealthBonusImage    Alpha      0              Linear    0.2    0.4
     Animate     PlayerStatusHealthValue         FgColor    CustomGreen    Linear    0.0    0.2
+    Animate     OtherPlayerStatusHealthValue    FgColor    CustomGreen    Linear    0.0    0.2
     RunEvent    HudHealthBonusPulseLoop         0.4
 }
 
 event HudHealthBonusPulseStop
 {
-    StopEvent    HudHealthBonusPulse        0.0
-    StopEvent    HudHealthBonusPulseLoop    0.0
-    Animate      PlayerStatusHealthValue    FgColor    TanDark    Linear    0.0    0.0
+    StopEvent    HudHealthBonusPulse             0.0
+    StopEvent    HudHealthBonusPulseLoop         0.0
+    Animate      PlayerStatusHealthValue         FgColor    TanDark    Linear    0.0    0.0
+    Animate      OtherPlayerStatusHealthValue    FgColor    White      Linear    0.0    0.0
 }
 
 event HudHealthDyingPulse
@@ -18,14 +20,16 @@ event HudHealthDyingPulse
     Animate     PlayerStatusHealthBonusImage    Alpha      255             Linear    0.0      0.075
     Animate     PlayerStatusHealthBonusImage    Alpha      0               Linear    0.125    0.075
     Animate     PlayerStatusHealthValue         FgColor    CustomOrange    Linear    0.0      0.2
+    Animate     OtherPlayerStatusHealthValue    FgColor    CustomOrange    Linear    0.0      0.2
     RunEvent    HudHealthDyingPulseLoop         0.25
 }
 
 event HudHealthDyingPulseStop
 {
-    StopEvent    HudHealthDyingPulse        0.0
-    StopEvent    HudHealthDyingPulseLoop    0.0
-    Animate      PlayerStatusHealthValue    FgColor    TanDark    Linear    0.0    0.0
+    StopEvent    HudHealthDyingPulse             0.0
+    StopEvent    HudHealthDyingPulseLoop         0.0
+    Animate      PlayerStatusHealthValue         FgColor    TanDark    Linear    0.0    0.0
+    Animate      OtherPlayerStatusHealthValue    FgColor    White      Linear    0.0    0.0
 }
 
 event HudLowAmmoPulse
