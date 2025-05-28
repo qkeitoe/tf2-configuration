@@ -41,6 +41,7 @@
 
 - HUD:
 
+  - JarateKing for [Tutorial and reference for HUDs](https://github.com/JarateKing/TF2-Hud-Reference)
   - Hypnotize for [Default TF2 Hud Files](https://github.com/Hypnootize/TF2-Default-HUD)
   - CriticalFlaw for [TF2 Community HUD Fixes](https://github.com/CriticalFlaw/tf2hud-fixes)
   - Eniere for [Improved default HUD](https://github.com/idhud-tf2/idhud)
@@ -48,4 +49,17 @@
   - TheIcyStar for [Numerical-Health-Values](https://github.com/TheIcyStar/Numerical-Health-Values)
 
 - Other:
+
   - Unknowns for `hitsound.wav` and `killsound.wav`
+
+- Tools:
+
+  - [Source 2 Viewer](https://github.com/ValveResourceFormat/ValveResourceFormat)
+  - [GCFScape](https://developer.valvesoftware.com/wiki/Ru/GCFScape)
+  - [VTFEdit](https://developer.valvesoftware.com/wiki/VTFEdit)
+  - [VTFEdit Reloaded](https://github.com/Sky-rym/VTFEdit-Reloaded)
+  - [FontForge](https://fontforge.org/en-US/)
+  - [VS Code](https://code.visualstudio.com/)
+    - [VSCode VDF](https://github.com/cooolbros/vscode-vdf)
+    - [VSCode TTF](https://github.com/cooolbros/vscode-ttf)
+    - [CFG Games Support](https://github.com/joelcancela/VSCode-cfg-support)
