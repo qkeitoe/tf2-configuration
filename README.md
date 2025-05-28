@@ -52,14 +52,14 @@
 
   - Unknowns for `hitsound.wav` and `killsound.wav`
 
-- Tools:
+## Tools
 
-  - [Source 2 Viewer](https://github.com/ValveResourceFormat/ValveResourceFormat)
-  - [GCFScape](https://developer.valvesoftware.com/wiki/Ru/GCFScape)
-  - [VTFEdit](https://developer.valvesoftware.com/wiki/VTFEdit)
-  - [VTFEdit Reloaded](https://github.com/Sky-rym/VTFEdit-Reloaded)
-  - [FontForge](https://fontforge.org/en-US/)
-  - [VS Code](https://code.visualstudio.com/)
-    - [VSCode VDF](https://github.com/cooolbros/vscode-vdf)
-    - [VSCode TTF](https://github.com/cooolbros/vscode-ttf)
-    - [CFG Games Support](https://github.com/joelcancela/VSCode-cfg-support)
+- [Source 2 Viewer](https://github.com/ValveResourceFormat/ValveResourceFormat)
+- [GCFScape](https://developer.valvesoftware.com/wiki/Ru/GCFScape)
+- [VTFEdit](https://developer.valvesoftware.com/wiki/VTFEdit)
+- [VTFEdit Reloaded](https://github.com/Sky-rym/VTFEdit-Reloaded)
+- [FontForge](https://fontforge.org/en-US/)
+- [VS Code](https://code.visualstudio.com/)
+  - [VSCode VDF](https://github.com/cooolbros/vscode-vdf)
+  - [VSCode TTF](https://github.com/cooolbros/vscode-ttf)
+  - [CFG Games Support](https://github.com/joelcancela/VSCode-cfg-support)
