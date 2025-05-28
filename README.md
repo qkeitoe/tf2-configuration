@@ -24,20 +24,22 @@
 
 - [Valve](https://www.valvesoftware.com/en/)
 
+- [Valve Developer Community](https://developer.valvesoftware.com/wiki/Main_Page)
+
 - Config:
 
   - exer for [the script](https://discord.com/channels/373855931169243146/373855931169243149/1372915987401408603) that turns crouch jumps into ctaps
-  - makly for `v_pitch` and `v_yaw` scripts
+  - makly for `v_pitch` and `v_yaw`
   - ondkaja for [Collection of useful generic jumping scripts](https://jump.tf/forum/index.php?topic=3299.0)
   - Kjr for [`tpfp`](https://discord.com/channels/373855931169243146/373855931169243149/1101732562172379228)
   - riot for [`wj`](https://www.youtube.com/watch?v=LBmxSPiP3To) (in the comments section)
   - gedu for [loadout switcher script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
   - rbjaxter for [`bh_recommendedcommands.cfg`](https://github.com/rbjaxter/budhud/blob/master/cfg/bh_recommendedcommands.cfg)
-  - Hypnootize for [HUD editing tools](https://github.com/Hypnootize/hypnotize-hud/blob/master/resource/tools/hud%20cfg.cfg)
+  - Hypnootize for [`hud_config.cfg`](https://github.com/Hypnootize/hypnotizehud/blob/master/resource/dev/hud_config.cfg)
 
-- Weapons:
+- HUD:
 
-  - optivex for [`ql_2.vtf`, `sniperOLShadow.vtf`, `xhairshadowdefault.vdf`](https://drive.google.com/file/d/1J5q1A2Pxf0NtX8MRHxrNjAiv7KcaMXVC) and [`c.vtf`](https://drive.google.com/file/d/1GQ7MvYK_whY7o_4eBBdqelaI40i3a5xE/view?usp=sharing)
+  - TheIcyStar for [Numerical-Health-Values](https://github.com/TheIcyStar/Numerical-Health-Values)
 
 - Other:
   - Unknowns for `hitsound.wav` and `killsound.wav`
