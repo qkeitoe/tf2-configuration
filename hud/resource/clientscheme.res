@@ -3,6 +3,7 @@
 {
 	"Colors"
 	{
+		"TanLight"				"235 235 235 255"
 		"CustomGreen"			"0 255 63 255"
 		"CustomOrange"			"255 128 28 255"
 		// Rainbow UberCharge Flash
