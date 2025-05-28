@@ -1,4 +1,7 @@
 {
+  "[markdown]": {
+    "editor.tabSize": 2
+  },
   "[vdf][vmt]": {
     "editor.insertSpaces": false
   },
