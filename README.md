@@ -26,6 +26,8 @@
 
 - [Valve Developer Community](https://developer.valvesoftware.com/wiki/Main_Page)
 
+- [Official Team Fortress Wiki](https://wiki.teamfortress.com/wiki/Main_Page)
+
 - Config:
 
   - exer for [the script](https://discord.com/channels/373855931169243146/373855931169243149/1372915987401408603) that turns crouch jumps into ctaps
