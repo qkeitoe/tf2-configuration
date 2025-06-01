@@ -1,4 +1,5 @@
 "#base"		"../../base_files/freezepanelkillerhealth.res"
+
 "Resource/UI/FreezePanelKillerHealth.res"
 {
 	"PlayerStatusHealthImage"
@@ -8,6 +9,7 @@
 		"wide"		"18"
 		"tall"		"18"
 	}
+
 	"PlayerStatusHealthImageBG"
 	{
 		"xpos"		"5"
@@ -15,6 +17,7 @@
 		"wide"		"22"
 		"tall"		"22"
 	}
+
 	"PlayerStatusHealthBonusImage"
 	{
 		"xpos"		"5"
@@ -22,6 +25,7 @@
 		"wide"		"22"
 		"tall"		"22"
 	}
+
 	"PlayerStatusHealthValue"
 	{
 		"xpos"			"9999"
@@ -30,6 +34,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 	}
+
 	"OtherPlayerStatusHealthValue"
 	{
 		"ControlName"		"CExLabel"
@@ -46,6 +51,7 @@
 		"font"				"HudFontSmallBold"
 		"fgcolor"			"TanLight"
 	}
+
 	"OhterPlayerStatusHealthValueShadow"
 	{
 		"pin_to_sibling"		"OtherPlayerStatusHealthValue"

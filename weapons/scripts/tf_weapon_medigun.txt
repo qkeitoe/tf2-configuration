@@ -27,6 +27,7 @@
 	// Muzzleflash
 	"MuzzleFlashModel"				"models/effects/sentry1_muzzle/sentry1_muzzle.mdl"
 	"MuzzleFlashModelDuration"		"0.1"
+
 	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
@@ -38,6 +39,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"weapon_s"
 		{
 			"file"			"sprites/bucket_medigun_blue"
@@ -46,6 +48,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"ammo"
 		{
 			"file"			"sprites/a_icons1"
@@ -54,6 +57,7 @@
 			"width"			"73"
 			"height"		"15"
 		}
+
 		"crosshair"
 		{
 			"file"			"vgui/replay/thumbnails/dot"
@@ -62,6 +66,7 @@
 			"width"			"256"
 			"height"		"256"
 		}
+
 		"autoaim"
 		{
 			"file"			"sprites/crosshairs"

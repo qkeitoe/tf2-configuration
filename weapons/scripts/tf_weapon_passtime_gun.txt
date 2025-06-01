@@ -17,6 +17,7 @@
 	"viewmodel"						"models/passtime/ball/passtime_ball.mdl"
 	"playermodel"					"models/passtime/ball/passtime_ball.mdl"
 	"anim_prefix"					"ball"
+
 	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	"SoundData"
 	{
@@ -27,6 +28,7 @@
 		"special1"				"Weapon_Wrench.HitBuilding_Success"
 		"special2"				"Weapon_Wrench.HitBuilding_Failure"
 	}
+
 	"TextureData"
 	{
 		"weapon"
@@ -37,6 +39,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"weapon_s"
 		{
 			"file"			"sprites/bucket_wrench"
@@ -45,6 +48,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"ammo"
 		{
 			"file"			"sprites/a_icons1"
@@ -53,6 +57,7 @@
 			"width"			"73"
 			"height"		"15"
 		}
+
 		"crosshair"
 		{
 			"file"			"vgui/replay/thumbnails/dot"
@@ -61,6 +66,7 @@
 			"width"			"256"
 			"height"		"256"
 		}
+
 		"autoaim"
 		{
 			"file"			"sprites/crosshairs"

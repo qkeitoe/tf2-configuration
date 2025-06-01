@@ -20,10 +20,12 @@
 	"viewmodel"						"models/weapons/v_models/v_pda_spy.mdl"
 	"playermodel"					"models/weapons/w_models/w_cigarette_case.mdl"
 	"anim_prefix"					"secondary"
+
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	"SoundData"
 	{
 	}
+
 	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
@@ -35,6 +37,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"weapon_s"
 		{
 			"file"			"sprites/bucket_pda"
@@ -43,6 +46,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"ammo"
 		{
 			"file"			"sprites/a_icons1"
@@ -51,6 +55,7 @@
 			"width"			"73"
 			"height"		"15"
 		}
+
 		"crosshair"
 		{
 			"file"			""
@@ -59,6 +64,7 @@
 			"width"			"0"
 			"height"		"0"
 		}
+
 		"autoaim"
 		{
 			"file"			"sprites/crosshairs"

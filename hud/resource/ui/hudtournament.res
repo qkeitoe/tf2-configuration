@@ -1,4 +1,5 @@
 "#base"		"../../base_files/hudtournament.res"
+
 "Resource/UI/HudTournament.res"
 {
 	"CountdownBG"

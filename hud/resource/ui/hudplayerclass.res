@@ -1,4 +1,5 @@
 "#base"		"../../base_files/hudplayerclass.res"
+
 "Resource/UI/HudPlayerClass.res"
 {
 	"classmodelpanelBG"

@@ -23,6 +23,7 @@
 	"viewmodel"						"models/weapons/c_models/c_wrench/c_wrench.mdl"
 	"playermodel"					"models/weapons/c_models/c_wrench/c_wrench.mdl"
 	"anim_prefix"					"wrench"
+
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	"SoundData"
 	{
@@ -33,6 +34,7 @@
 		"special1"				"Weapon_Wrench.HitBuilding_Success"
 		"special2"				"Weapon_Wrench.HitBuilding_Failure"
 	}
+
 	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
@@ -44,6 +46,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"weapon_s"
 		{
 			"file"			"sprites/bucket_wrench"
@@ -52,6 +55,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"ammo"
 		{
 			"file"			"sprites/a_icons1"
@@ -60,6 +64,7 @@
 			"width"			"73"
 			"height"		"15"
 		}
+
 		"crosshair"
 		{
 			"file"			"vgui/replay/thumbnails/dot"
@@ -68,6 +73,7 @@
 			"width"			"256"
 			"height"		"256"
 		}
+
 		"autoaim"
 		{
 			"file"			"sprites/crosshairs"

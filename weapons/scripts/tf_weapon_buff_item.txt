@@ -23,6 +23,7 @@
 	// "playermodel"   -playermodel is now defined in _items_main.txt
 	"anim_prefix"					"pipe"
 	"HasTeamSkins_Viewmodel"		"1"
+
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	"SoundData"
 	{
@@ -31,6 +32,7 @@
 		"melee_hit_world"		"Weapon_Fist.HitWorld"
 		"burst"					"Weapon_Fist.MissCrit"
 	}
+
 	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
@@ -42,6 +44,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"weapon_s"
 		{
 			"file"			"sprites/bucket_fists_blue"
@@ -50,6 +53,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"ammo"
 		{
 			"file"			"sprites/a_icons1"
@@ -58,6 +62,7 @@
 			"width"			"73"
 			"height"		"15"
 		}
+
 		"crosshair"
 		{
 			"file"			""
@@ -66,6 +71,7 @@
 			"width"			"0"
 			"height"		"0"
 		}
+
 		"autoaim"
 		{
 			"file"			"sprites/crosshairs"

@@ -12,5 +12,8 @@
   "files.associations": {
     "casual_criteria.vdf": "txt"
   },
-  "files.insertFinalNewline": true
+  "files.insertFinalNewline": true,
+  "vscode-vdf.vdf.format.insertNewlineBeforeObjects": true,
+  "vscode-vdf.vmt.format.insertNewlineBeforeObjects": true,
+  "vscode-vdf.hudanimations.format.insertNewlineAfterEvents": true
 }

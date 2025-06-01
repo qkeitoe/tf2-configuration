@@ -1,4 +1,5 @@
 "#base"		"../../base_files/hudinspectpanel.res"
+
 "Resource/UI/HudInspectPanel.res"
 {
 	"itempanel"

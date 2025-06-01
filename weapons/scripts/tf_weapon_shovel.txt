@@ -22,6 +22,7 @@
 	// "viewmodel"     -viewmodel is now defined in _items_main.txt
 	// "playermodel"   -playermodel is now defined in _items_main.txt
 	"anim_prefix"					"shovel"
+
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	"SoundData"
 	{
@@ -30,6 +31,7 @@
 		"melee_hit_world"		"Weapon_Shovel.HitWorld"
 		"burst"					"Weapon_Shovel.MissCrit"
 	}
+
 	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
@@ -41,6 +43,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"weapon_s"
 		{
 			"file"			"sprites/bucket_shovel"
@@ -49,6 +52,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"ammo"
 		{
 			"file"			"sprites/a_icons1"
@@ -57,6 +61,7 @@
 			"width"			"73"
 			"height"		"15"
 		}
+
 		"crosshair"
 		{
 			"file"			"vgui/replay/thumbnails/dot"
@@ -65,6 +70,7 @@
 			"width"			"256"
 			"height"		"256"
 		}
+
 		"autoaim"
 		{
 			"file"			"sprites/crosshairs"

@@ -33,6 +33,7 @@
 	"anim_prefix"					"ac"
 	// Muzzleflash
 	"MuzzleFlashParticleEffect"		"muzzle_pistol"
+
 	// Sounds.
 	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	"SoundData"
@@ -42,6 +43,7 @@
 		"single_shot"		"Weapon_Pistol.Single"
 		"burst"				"Weapon_Pistol.SingleCrit"
 	}
+
 	// Weapon Sprite data is loaded by the Client DLL.
 	"TextureData"
 	{
@@ -53,6 +55,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"weapon_s"
 		{
 			"file"			"sprites/bucket_pistol"
@@ -61,6 +64,7 @@
 			"width"			"200"
 			"height"		"128"
 		}
+
 		"ammo"
 		{
 			"file"			"sprites/a_icons1"
@@ -69,6 +73,7 @@
 			"width"			"73"
 			"height"		"15"
 		}
+
 		"crosshair"
 		{
 			"file"			"vgui/replay/thumbnails/dot"
@@ -77,6 +82,7 @@
 			"width"			"256"
 			"height"		"256"
 		}
+
 		"autoaim"
 		{
 			"file"			"sprites/crosshairs"
