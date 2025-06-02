@@ -5,6 +5,7 @@
 	"topbar"
 	{
 		"xpos"			"9999"
+		"ypos"			"9999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -14,6 +15,7 @@
 	"BottomBar"
 	{
 		"xpos"			"9999"
+		"ypos"			"9999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -23,6 +25,7 @@
 	"bottombarblank"
 	{
 		"xpos"			"9999"
+		"ypos"			"9999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -43,6 +46,7 @@
 	"MapLabel"
 	{
 		"xpos"			"9999"
+		"ypos"			"9999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -52,6 +56,7 @@
 	"ClassOrTeamLabel"
 	{
 		"xpos"			"9999"
+		"ypos"			"9999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -61,6 +66,7 @@
 	"SwitchCamModeKeyLabel"
 	{
 		"xpos"			"9999"
+		"ypos"			"9999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -70,6 +76,7 @@
 	"SwitchCamModeLabel"
 	{
 		"xpos"			"9999"
+		"ypos"			"9999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -79,6 +86,7 @@
 	"CycleTargetFwdKeyLabel"
 	{
 		"xpos"			"9999"
+		"ypos"			"9999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -88,6 +96,7 @@
 	"CycleTargetFwdLabel"
 	{
 		"xpos"			"9999"
+		"ypos"			"9999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -97,6 +106,7 @@
 	"CycleTargetRevKeyLabel"
 	{
 		"xpos"			"9999"
+		"ypos"			"9999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -106,6 +116,7 @@
 	"CycleTargetRevLabel"
 	{
 		"xpos"			"9999"
+		"ypos"			"9999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -115,6 +126,7 @@
 	"TipLabel"
 	{
 		"xpos"			"9999"
+		"ypos"			"9999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
