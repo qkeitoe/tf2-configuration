@@ -5,8 +5,8 @@
 	"Colors"
 	{
 		"TanLight"				"235 235 235 255"
-		"CustomGreen"			"0 255 63 255"
-		"CustomOrange"			"255 128 28 255"
+		"CustomGreen"			"000 255 063 255"
+		"CustomOrange"			"255 128 028 255"
 		// Rainbow UberCharge Flash
 		"bh_rainbowcolor1"		"255 000 000 255"
 		"bh_rainbowcolor2"		"255 127 000 255"
