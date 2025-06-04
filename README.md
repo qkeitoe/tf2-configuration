@@ -39,15 +39,6 @@
   - rbjaxter for [`bh_recommendedcommands.cfg`](https://github.com/rbjaxter/budhud/blob/master/cfg/bh_recommendedcommands.cfg)
   - Hypnotize for [`hud_config.cfg`](https://github.com/Hypnootize/hypnotizehud/blob/master/resource/dev/hud_config.cfg)
 
-- HUD:
-
-  - JarateKing for [Tutorial and reference for HUDs](https://github.com/JarateKing/TF2-Hud-Reference)
-  - Hypnotize for [Default TF2 Hud Files](https://github.com/Hypnootize/TF2-Default-HUD)
-  - CriticalFlaw for [TF2 Community HUD Fixes](https://github.com/CriticalFlaw/tf2hud-fixes)
-  - Eniere for [Improved default HUD](https://github.com/idhud-tf2/idhud)
-  - rbjaxter for [budhud](https://github.com/rbjaxter/budhud)
-  - TheIcyStar for [Numerical-Health-Values](https://github.com/TheIcyStar/Numerical-Health-Values)
-
 - Other:
 
   - Unknowns for `hitsound.wav` and `killsound.wav`
