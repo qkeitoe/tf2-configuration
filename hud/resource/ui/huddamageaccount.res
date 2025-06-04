@@ -8,6 +8,6 @@
 		"NegativeColor"				"255 255 0 255"
 		"delta_lifetime"			"2"
 		"delta_item_font"			"HudFontMediumSmall"
-		"delta_item_font_big"		"HudFontMedium"
+		"delta_item_font_big"		"HudFontMediumSmall"
 	}
 }
