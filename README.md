@@ -5,7 +5,7 @@
 
 ## Dependencies
 
-- [mastercomfig](https://github.com/mastercomfig/mastercomfig) [9.10.3]
+- [mastercomfig](https://github.com/mastercomfig/mastercomfig) [dev]
   - None preset
   - Null-Canceling Movement addon
   - No Tutorial addon (optional)
