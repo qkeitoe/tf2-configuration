@@ -29,9 +29,8 @@
 
 ## Launch options
 
-    -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars
+    -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -nostartupsound
 
-- `-nostartupsound` (optional)
 - `-audiolanguage english` (optional)
 - `-dxlevel 95` (optional)
   > **Info:** Add this launch option to your first launch, and then remove it.
