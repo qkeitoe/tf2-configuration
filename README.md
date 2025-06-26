@@ -11,16 +11,16 @@
   - No Tutorial addon
   - Flat Mouse addon
 
----
+<!-- -->
 
 - [budhud](https://github.com/qkeitoe/budhud) [latest] - Primary in-game HUD
 - [EssentialsHUD](https://github.com/CriticalFlaw/EssentialsHUD) [master] - Spectator HUD for SourceTV & demo playback
 
----
+<!-- -->
 
 - [CastingEssentialsNext](https://github.com/drunderscore/CastingEssentialsNext) [9]
 
----
+<!-- -->
 
 - [sprays](https://github.com/Elandi-rj/sprays) [v5]
 - [VScript offline timer & zones](https://code.nullprop.sh/nullprop/vscript-timer) [1.0.0]
