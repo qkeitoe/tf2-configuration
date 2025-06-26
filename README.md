@@ -11,6 +11,8 @@
   - No Tutorial addon (optional)
   - Flat Mouse addon (optional)
 - [budhud](https://github.com/qkeitoe/budhud) (optional)
+- [sprays](https://github.com/Elandi-rj/sprays) (optional)
+- [VScript offline timer & zones](https://jump.tf/forum/index.php?topic=3709.0) (optional)
 
 ## Launch options
 
