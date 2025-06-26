@@ -13,6 +13,8 @@
 - [budhud](https://github.com/qkeitoe/budhud) (optional)
 - [sprays](https://github.com/Elandi-rj/sprays) (optional)
 - [VScript offline timer & zones](https://jump.tf/forum/index.php?topic=3709.0) (optional)
+- [Metamod:Source](https://github.com/alliedmodders/metamod-source) (optional)
+- [SourceMod](https://github.com/alliedmodders/sourcemod) (optional)
 
 ## Launch options
 
