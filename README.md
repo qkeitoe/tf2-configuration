@@ -10,9 +10,9 @@
   - Null-Canceling Movement addon
   - No Tutorial addon (optional)
   - Flat Mouse addon (optional)
-- [budhud](https://github.com/qkeitoe/budhud) (optional)
+- [budhud](https://github.com/qkeitoe/budhud) [latest] (optional)
 - [sprays](https://github.com/Elandi-rj/sprays) (optional)
-- [VScript offline timer & zones](https://jump.tf/forum/index.php?topic=3709.0) (optional)
+- [VScript offline timer & zones](https://code.nullprop.sh/nullprop/vscript-timer) (optional)
 - [Metamod:Source](https://github.com/alliedmodders/metamod-source) (optional)
 - [SourceMod](https://github.com/alliedmodders/sourcemod) (optional)
 
