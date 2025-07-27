@@ -48,7 +48,6 @@
   - exer for [the script](https://discord.com/channels/373855931169243146/373855931169243149/1372915987401408603) that turns crouch jumps into ctaps
   - gedu for [loadout switcher script](https://www.teamfortress.tv/post/882069/resupply-bind-for-different-loadouts)
   - rbjaxter for [`bh_recommendedcommands.cfg`](https://github.com/rbjaxter/budhud/blob/master/cfg/bh_recommendedcommands.cfg)
-  - Hypnotize for [`hud_config.cfg`](https://github.com/Hypnootize/hypnotizehud/blob/master/resource/dev/hud_config.cfg)
   - riot for [`wj`](https://www.youtube.com/watch?v=LBmxSPiP3To) (in the comments section)
 
 - Other:
