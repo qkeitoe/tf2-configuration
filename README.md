@@ -5,7 +5,7 @@
 
 ## Dependencies
 
-- [mastercomfig](https://github.com/mastercomfig/mastercomfig) [dev]
+- [mastercomfig](https://github.com/mastercomfig/mastercomfig) [9.100.0]
   - None preset
   - Null-Canceling Movement addon
   - No Tutorial addon
@@ -29,8 +29,9 @@
 
 ## Launch options
 
-    -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -nostartupsound
+    -novid -nojoy -nosteamcontroller -nohltv -particles 1
 
+- `-nostartupsound` (optional)
 - `-audiolanguage english` (optional)
 - `-dxlevel 95` (optional)
   > **Info:** Add this launch option to your first launch, and then remove it.
